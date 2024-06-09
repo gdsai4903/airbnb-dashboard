@@ -1,981 +1,21 @@
 host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_rate,host_acceptance_rate,host_listings_count,host_total_listings_count,host_identity_verified
-955449,Silvio,2011-08-11,f,within a few hours,100%,70%,2,3,t
-8145510,Ruth,2013-08-14,t,within an hour,100%,90%,6,6,t
-4997811,Rebecca,2013-02-07,t,within an hour,96%,91%,4,4,t
-970192,Colleen,2011-08-14,f,within an hour,100%,40%,1,1,t
-8288997,Richard,2013-08-20,t,within an hour,100%,100%,1,1,t
-563380260,Pbg,2024-02-22,f,,,,6,7,t
-23470058,K,2014-11-07,t,within an hour,100%,68%,5,23,t
-71184,Hiroshi & Naomi,2010-01-17,t,within an hour,100%,92%,1,1,t
-31217093,Barry,2015-04-14,f,,,,1,1,f
-31823352,Christene,2015-04-23,f,within an hour,100%,100%,2,6,t
-31620704,Jill & Noreen,2015-04-20,t,within an hour,100%,100%,3,4,t
-33077287,Sergio,2015-05-10,t,within an hour,100%,62%,2,3,t
-7608280,Gavin,2013-07-20,t,within a day,100%,54%,3,5,t
-33766481,Nicole,2015-05-19,f,,,,1,2,t
-22544786,Gina,2014-10-14,f,within an hour,100%,,1,11,t
-32130915,Natalie,2015-04-28,f,,,0%,1,1,t
-31253536,Brett,2015-04-15,t,within an hour,100%,100%,1,1,t
-34530369,Lori,2015-05-29,t,within an hour,100%,91%,1,1,t
-34740382,Angie,2015-06-01,t,,,100%,1,1,t
-28431458,David,2015-02-27,f,,,,1,1,t
-7914034,Sophie,2013-08-03,t,,,100%,1,1,t
-20374475,Alison,2014-08-21,t,within a few hours,100%,100%,3,3,t
-38791285,Rose,2015-07-17,f,within a few hours,100%,73%,3,5,t
-19068812,Ashley,2014-07-28,t,within an hour,100%,95%,2,2,t
-42762931,Debbie,2015-08-28,f,a few days or more,0%,0%,2,2,t
-9309064,Katherine,2013-10-08,f,within a few hours,100%,60%,2,2,t
-45690657,Annabel,2015-10-03,f,within an hour,100%,33%,1,1,f
-45777946,Camelia,2015-10-04,f,within a few hours,100%,100%,2,3,t
-44955677,Wendy,2015-09-23,f,within a day,100%,95%,1,1,t
-46180149,Nkemuhuruanya (Regina),2015-10-09,f,within an hour,100%,77%,3,3,t
-49126625,Krista,2015-11-15,f,,,20%,1,1,t
-51959802,Nelma,2015-12-21,f,,,,1,1,f
-17190273,Leroy,2014-06-24,f,within a few hours,60%,82%,2,6,t
-48915087,Nelson,2015-11-13,t,within an hour,100%,100%,1,2,t
-61102366,Charlotte & Jim,2016-03-01,t,within an hour,100%,93%,1,3,t
-43119179,Deborah,2015-09-01,f,within a day,100%,,1,1,t
-65535254,Tiffany,2016-04-02,f,within a few hours,90%,0%,6,6,f
-5078608,Devin,2013-02-13,t,within an hour,100%,100%,2,2,t
-49214281,Philip,2015-11-16,f,a few days or more,0%,0%,1,2,t
-88153611,Francis,2016-08-05,f,within an hour,100%,90%,3,4,t
-84261849,Susan,2016-07-17,f,within an hour,100%,100%,1,1,t
-66027644,Charles,2016-04-06,f,within a day,100%,,1,1,t
-60400653,Karin & Mark,2016-02-25,t,within an hour,100%,97%,1,2,t
-95776055,Curtis,2016-09-18,f,within an hour,88%,97%,20,34,t
-97139450,Lai Guen,2016-09-28,f,within a few hours,100%,89%,1,2,t
-97659537,Natalie,2016-10-02,t,within an hour,100%,100%,2,2,t
-101898460,David,2016-10-31,t,within an hour,100%,98%,1,1,t
-103358415,Al,2016-11-11,f,,,100%,4,5,t
-106742367,Lowell,2016-12-09,f,,,,1,2,t
-44467977,Tony & Nina,2015-09-17,t,within an hour,100%,86%,2,2,t
-112299835,Dené,2017-01-19,f,within an hour,100%,100%,1,1,t
-113835860,Thomas,2017-01-29,t,within an hour,100%,100%,2,2,t
-120967910,Merj,2017-03-15,t,within an hour,100%,100%,3,3,t
-125166589,Aleta,2017-04-10,t,within an hour,88%,100%,1,1,f
-119556952,Temitope,2017-03-07,f,,,,2,3,t
-64832612,Faith,2016-03-28,f,within an hour,100%,67%,2,2,t
-6366974,Graham,2013-05-13,f,,,0%,1,1,t
-40509243,Pierre,2015-08-04,t,within an hour,100%,100%,3,3,t
-11151940,Steph,2014-01-09,t,within an hour,100%,96%,2,4,t
-58881006,Jude,2016-02-15,t,within an hour,100%,90%,1,1,t
-137416520,Mary Jay,2017-06-28,t,within an hour,93%,97%,2,2,t
-114498849,Nest Host,2017-02-02,f,within an hour,100%,96%,73,78,t
-76265808,Carolina,2016-06-07,f,,,,1,3,t
-137744259,Gloria,2017-06-29,f,,,100%,1,1,t
-140414208,Tony,2017-07-14,t,within an hour,100%,100%,1,1,t
-86138438,Dominique,2016-07-26,t,within an hour,100%,93%,3,21,t
-141354470,Sheri,2017-07-19,t,within an hour,100%,92%,1,1,t
-141392319,Matthew,2017-07-19,t,within an hour,100%,100%,1,1,t
-12547985,Janique,2014-02-24,f,,,,1,1,t
-144343801,Tammy,2017-08-04,t,within an hour,97%,99%,2,2,t
-134777230,Julia,2017-06-12,t,,,100%,2,24,t
-11773408,Morgan & Damon,2014-01-29,t,within an hour,100%,100%,1,1,t
-5153325,Ron,2013-02-19,f,within an hour,100%,73%,1,3,t
-8332120,Johanna,2013-08-22,f,within an hour,100%,97%,2,4,t
-150297977,Maria,2017-09-12,f,,,,1,1,t
-149271769,Derek,2017-09-05,t,within an hour,100%,95%,1,1,t
-455475,Dave,2011-03-21,t,within an hour,100%,98%,1,1,t
-101847099,Louise,2016-10-30,f,,,,1,2,t
-147578945,Michael,2017-08-24,t,within an hour,100%,100%,4,4,t
-92517844,Ruth,2016-08-29,t,within a few hours,100%,90%,2,2,f
-112344629,Lan,2017-01-20,t,within an hour,100%,100%,2,4,t
-81315066,Rp,2016-07-02,t,within a few hours,100%,65%,3,3,t
-8407330,Christie,2013-08-26,f,,,100%,1,1,t
-158349313,Sadmir,2017-11-11,f,,,,1,2,f
-159932147,Rebecca,2017-11-24,t,,,83%,1,1,t
-160038191,Olawuyi,2017-11-25,f,within an hour,100%,78%,3,3,t
-165102371,Lorraine,2017-12-31,t,,,100%,1,1,t
-40200324,Taylor & Jason,2015-08-01,t,within an hour,100%,99%,4,6,t
-85761896,Pamela,2016-07-24,t,within an hour,100%,100%,1,2,t
-158970875,Adam,2017-11-16,f,a few days or more,0%,0%,1,1,t
-74203278,Roam,2016-05-26,f,within an hour,100%,99%,66,69,t
-102914635,Liam,2016-11-07,t,within an hour,100%,100%,1,1,t
-8183935,Vlada,2013-08-15,t,within an hour,100%,82%,2,5,t
-73231239,Rory,2016-05-21,f,,,,1,4,t
-127173281,Ilse,2017-04-23,f,,,,2,5,t
-176861109,Montierro,2018-03-05,f,within an hour,100%,100%,5,6,f
-91879760,Leith,2016-08-25,t,within an hour,100%,92%,1,1,t
-18167901,Cherie,2014-07-15,t,within an hour,100%,98%,4,7,t
-175128084,Mary Grace,2018-02-24,f,,,,3,4,t
-3697334,Carlyle,2012-09-28,f,,,0%,1,1,t
-37841665,Kristen,2015-07-07,f,within a day,80%,60%,1,2,t
-184170702,Janice,2018-04-14,t,within an hour,98%,100%,19,19,t
-15874551,Paige,2014-05-22,f,a few days or more,33%,0%,1,1,t
-184891476,William Robert,2018-04-17,t,within an hour,100%,100%,1,3,t
-185671079,Egilio,2018-04-22,t,within an hour,100%,95%,2,2,t
-185730560,Ruqqia,2018-04-22,f,,,,1,12,f
-186831999,John,2018-04-28,t,,,90%,2,2,t
-101838697,Bryan,2016-10-30,t,within an hour,100%,100%,2,2,t
-766301,Sarah,2011-07-01,f,,,,1,1,t
-131850887,Jordan,2017-05-24,f,within an hour,100%,0%,1,1,t
-188495593,Harvey,2018-05-08,f,,,,1,12,t
-122930869,Justine,2017-03-27,f,within a day,50%,67%,2,2,t
-169074939,Georgina,2018-01-21,f,within a day,100%,100%,1,1,t
-25893237,Lynda,2015-01-10,f,a few days or more,0%,,1,1,t
-3638197,Veronika & Andreas,2012-09-21,f,,,,1,2,t
-192561013,Jemal,2018-05-30,f,,,94%,1,2,t
-108713039,Ana,2016-12-27,f,within an hour,100%,100%,2,2,t
-28643127,Lisa,2015-03-02,t,within an hour,100%,98%,2,4,t
-111299398,Zac,2017-01-13,f,,,,1,1,t
-185100371,E.Q,2018-04-19,f,within an hour,100%,92%,19,52,t
-201737397,Mutiu,2018-07-12,f,within an hour,100%,93%,1,3,t
-11135988,Mary,2014-01-08,t,within an hour,100%,100%,4,5,t
-123302934,Executive Stay,2017-03-29,t,within a few hours,100%,99%,8,25,t
-208340512,Teo,2018-08-08,f,,,,1,1,t
-163329984,Laura,2017-12-19,t,within an hour,100%,100%,1,2,t
-210390796,Iresha,2018-08-18,f,,,,1,1,f
-211858688,Aizeyosabo,2018-08-26,f,,,,1,1,f
-116800314,Tevin,2017-02-17,t,within an hour,100%,98%,1,1,t
-38109052,Michelle,2015-07-10,f,within an hour,100%,83%,1,2,t
-215545724,Robert,2018-09-15,f,within a few hours,100%,100%,1,1,t
-70451075,Celina & David,2016-05-05,f,,,92%,1,1,t
-222606237,Christina,2018-10-25,f,within a few hours,100%,91%,1,1,t
-199538184,Olamilekan,2018-07-02,t,within a few hours,100%,94%,4,4,t
-226116075,Darwin,2018-11-16,f,,,25%,1,1,f
-226695089,Henry,2018-11-20,f,,,100%,1,1,f
-21822383,Julie,2014-09-26,t,within an hour,100%,93%,1,1,t
-227017023,Marisa,2018-11-22,f,,,100%,1,1,f
-61465737,Sheyi,2016-03-03,f,,,,1,1,t
-313682239,E.Q,2019-12-02,t,within an hour,100%,93%,19,24,t
-110192366,Stay549,2017-01-06,t,within an hour,100%,92%,7,8,t
-155904768,Nini,2017-10-23,t,,,63%,1,1,t
-105884901,Stas,2016-12-02,t,within an hour,100%,100%,7,7,t
-120010020,Misty,2017-03-09,f,a few days or more,0%,0%,2,2,t
-137404574,Hilda,2017-06-27,t,within an hour,100%,100%,2,2,t
-134518216,Roy,2017-06-11,f,within an hour,100%,100%,1,1,t
-15818259,Kelly,2014-05-21,f,within a few hours,100%,100%,2,4,f
-236337476,Roxy,2019-01-13,t,within an hour,100%,94%,1,1,t
-134598415,Robert,2017-06-11,f,,,,1,1,f
-1526411,Graham,2011-12-22,t,within an hour,100%,98%,1,1,f
-69578822,Melanie,2016-04-29,t,within an hour,100%,98%,4,4,t
-238999894,Mat,2019-01-25,f,within an hour,100%,86%,3,3,t
-239185971,Faisane,2019-01-26,f,,,,1,1,f
-82573513,Evan Chase,2016-07-08,t,within an hour,100%,85%,1,1,t
-240319765,Chris,2019-02-01,f,,,,1,1,f
-241521418,Destiny,2019-02-06,f,within a few hours,80%,50%,1,1,f
-66518418,Alyssa,2016-04-09,f,,,0%,1,2,t
-246114376,Scott,2019-03-01,t,within an hour,100%,100%,2,3,t
-206946214,Melanie,2018-08-02,f,within a few hours,100%,,3,5,t
-246644202,Kiran,2019-03-03,f,a few days or more,0%,0%,1,1,t
-249669972,Crystal,2019-03-18,t,within a few hours,100%,95%,3,5,t
-152950826,Hedi,2017-10-02,t,within an hour,100%,90%,1,2,t
-98927265,Pawan,2016-10-09,f,a few days or more,0%,0%,1,1,t
-81950151,Laksiri,2016-07-05,t,within a day,100%,100%,1,1,t
-133026564,Vishal,2017-06-01,f,,,100%,1,3,t
-38459934,Corporate Stays,2015-07-14,f,within an hour,98%,88%,431,599,t
-261799192,Wendelina,2019-05-14,f,within an hour,100%,80%,4,5,t
-251997834,Brenda,2019-03-29,f,within a day,86%,100%,2,2,t
-227205574,Joseph,2018-11-23,f,within an hour,100%,94%,1,7,t
-194010985,Eq,2018-06-07,f,within an hour,100%,92%,3,3,t
-267961977,Greenview,2019-06-11,f,within a few hours,75%,100%,1,1,t
-192346927,Ken And Els,2018-05-29,t,,,93%,1,3,t
-52798939,Coleen,2015-12-30,f,,,,1,2,t
-163070,David,2010-07-10,t,within an hour,100%,100%,3,3,t
-272132100,Mehari,2019-06-28,f,,,0%,1,2,f
-277396359,Ruth Grace,2019-07-19,t,within an hour,100%,98%,1,1,t
-2292373,Dallas And Carla,2012-05-04,t,within an hour,100%,81%,4,8,t
-204867329,Claire,2018-07-24,f,,,,1,1,t
-281574286,Sean,2019-08-01,t,within an hour,100%,98%,1,1,t
-65125757,Mike,2016-03-30,t,within an hour,100%,98%,3,3,t
-83638615,Chris,2016-07-14,t,within an hour,97%,90%,4,4,t
-36084423,Maggie,2015-06-17,t,within an hour,100%,100%,5,7,t
-108722007,Denis,2016-12-27,f,within an hour,100%,100%,1,1,t
-170362793,Nicole,2018-01-28,t,within an hour,100%,97%,1,2,t
-547429996,Michelle,2023-11-20,f,,,,2,2,t
-293745142,"Martina, Bruce, And Lauren",2019-09-10,t,within an hour,100%,90%,1,1,t
-79833016,Roam,2016-06-25,f,within an hour,100%,99%,1,1,t
-293079642,Stephanie,2019-09-08,f,,,,2,2,f
-55013632,Karen,2016-01-17,f,within a day,75%,78%,1,2,t
-98853732,John,2016-10-08,t,within an hour,100%,100%,2,6,t
-298663106,Tony And Karen,2019-09-28,t,within an hour,100%,100%,3,3,t
-298544648,JaneAnne,2019-09-28,f,,,100%,1,1,t
-5626785,Caroline,2013-03-25,f,a few days or more,20%,0%,1,1,t
-141801009,Criselda,2017-07-22,t,,,96%,2,6,t
-304904186,Kelly,2019-10-27,t,within an hour,100%,98%,6,7,t
-304936446,Abel,2019-10-27,t,within an hour,100%,99%,2,2,t
-305572011,Mandipa,2019-10-30,f,,,100%,1,1,t
-227976233,Roseanne,2018-11-28,f,within a day,50%,13%,2,2,t
-62123717,Jeremie,2016-03-08,f,within an hour,100%,92%,2,2,t
-3127896,Leah,2012-08-01,t,within a few hours,100%,80%,1,1,t
-307597595,Kemy,2019-11-06,f,within an hour,100%,100%,3,3,t
-308325854,Sylvester,2019-11-09,f,,,100%,1,1,f
-42343280,Kin Keung,2015-08-24,f,,,0%,1,1,t
-273419083,Elizabeth,2019-07-03,f,within an hour,100%,100%,5,6,t
-309608502,David,2019-11-14,t,within an hour,100%,97%,6,7,t
-313473078,Marty,2019-11-30,f,,,,1,3,t
-314438876,Larry,2019-12-04,f,within a day,100%,100%,1,1,t
-170655363,Vera,2018-01-29,f,,,,1,1,t
-568999,Chelsea,2011-05-08,f,within an hour,100%,96%,3,4,t
-107713561,Vern,2016-12-18,f,within an hour,100%,100%,1,1,t
-184981743,Alan And Loida,2018-04-18,t,within an hour,100%,90%,3,3,t
-77723885,Helena,2016-06-14,t,within an hour,100%,96%,4,7,t
-19308657,Jordan,2014-08-01,f,,,,3,3,t
-336207432,Sumbal,2020-02-14,f,,,,1,2,f
-336992214,Kirill,2020-02-17,t,within an hour,100%,96%,3,3,t
-282284370,Daniel,2019-08-03,f,within an hour,80%,83%,1,7,f
-338214186,M2i,2020-02-22,f,,,,5,5,t
-325617908,Ashley,2020-01-08,t,within an hour,100%,93%,5,8,t
-340995231,Alex,2020-03-09,f,within an hour,100%,0%,1,1,f
-340959175,Temi,2020-03-09,t,within an hour,100%,99%,1,1,t
-95312694,Azeez,2016-09-15,f,within an hour,100%,93%,2,2,t
-341920704,Sylvester,2020-03-18,t,within a few hours,100%,88%,3,3,t
-27379047,Dorothy,2015-02-07,t,within an hour,100%,100%,1,1,t
-294422265,Susana,2019-09-12,f,within an hour,100%,96%,1,1,t
-225427538,Ranjit,2018-11-12,f,,,100%,1,1,t
-348144031,Sheriff,2020-05-31,t,within an hour,100%,99%,5,5,t
-30874680,Doug,2015-04-08,t,within an hour,100%,88%,1,1,t
-139114267,Marco,2017-07-07,t,within an hour,100%,96%,1,1,t
-50697287,Amos,2015-12-07,f,,,100%,2,2,t
-358251915,Christiana,2020-07-24,t,within an hour,100%,100%,3,4,t
-178683307,Casey,2018-03-15,f,within an hour,100%,99%,4,4,t
-359352320,Temmie,2020-07-29,f,,,0%,1,1,t
-135314777,James,2017-06-16,t,within an hour,100%,87%,2,4,t
-179270530,Kokeb,2018-03-19,f,within a day,60%,31%,1,1,t
-56931981,Wally,2016-02-01,f,within an hour,100%,100%,2,2,t
-27563486,Luisa & Jayme,2015-02-10,t,within a day,100%,88%,1,2,t
-304206352,Carly,2019-10-24,f,,,,1,1,f
-367842552,Abdul,2020-09-16,t,within an hour,100%,100%,2,5,t
-210203810,Andrew,2018-08-17,t,within an hour,100%,100%,1,1,t
-41109580,Darwin,2015-08-10,t,within an hour,92%,99%,7,12,t
-18807536,Margherita,2014-07-24,t,within an hour,100%,93%,1,1,t
-14735297,Eunice,2014-04-25,t,within an hour,100%,98%,1,1,t
-83528418,Mary,2016-07-13,f,,,100%,2,2,t
-124913178,Nardia,2017-04-08,f,within an hour,100%,95%,9,20,t
-263787117,Alex,2019-05-23,f,,,0%,1,2,t
-25149836,Ben & Paige,2014-12-23,t,within an hour,100%,94%,2,4,t
-371072492,Yuliya,2020-10-07,f,within an hour,100%,100%,2,2,t
-374493257,Lianlong,2020-11-04,f,a few days or more,0%,63%,3,4,f
-375702956,Nazima,2020-11-15,f,,,,1,2,t
-251853488,Cindy,2019-03-28,f,,,0%,1,2,t
-376327468,Hugh,2020-11-19,f,within an hour,100%,89%,2,4,t
-374292404,Samuel,2020-11-03,t,within an hour,100%,90%,15,15,t
-128856873,John,2017-05-04,t,within an hour,100%,98%,2,6,t
-372801588,Truong,2020-10-21,f,,,,1,1,f
-301681807,Olu,2019-10-11,t,within an hour,100%,98%,3,3,t
-138970567,Musette,2017-07-06,t,within an hour,100%,100%,3,5,t
-165704595,Emmanuel,2018-01-03,f,within an hour,100%,100%,1,1,t
-368562151,Branden,2020-09-21,f,within an hour,100%,100%,7,7,t
-173121448,Rogerio,2018-02-12,t,within an hour,100%,100%,3,5,t
-23818975,Heather,2014-11-16,t,within an hour,100%,100%,1,2,t
-384678077,Ifeoluwa,2021-01-15,t,within an hour,100%,97%,1,1,t
-256637440,Anthony,2019-04-18,t,within a few hours,100%,93%,1,1,t
-330159,Dylan,2010-12-29,f,,,,1,1,t
-382062578,Busuyi,2020-12-28,f,within a few hours,75%,43%,2,2,t
-385630285,Avi,2021-01-22,t,within an hour,100%,96%,1,1,t
-122487701,Abi,2017-03-25,t,within an hour,100%,99%,2,2,t
-218226046,Davis,2018-10-01,f,,,100%,2,2,t
-254141373,Jasmeet,2019-04-08,t,within an hour,100%,98%,1,2,t
-390125063,Andrea,2021-02-25,f,within an hour,100%,96%,9,9,t
-391110212,Angela,2021-03-04,t,within an hour,100%,99%,1,1,t
-322217142,Ibrahim,2019-12-29,f,,,0%,1,1,t
-146070721,Roger,2017-08-15,f,,,,1,1,t
-393587370,Paul And Priscilia,2021-03-21,f,within an hour,82%,92%,2,2,t
-308391517,Jane,2019-11-09,f,within an hour,100%,100%,3,4,t
-394195167,Ngozi,2021-03-25,t,within an hour,100%,98%,2,3,t
-243723924,Amy,2019-02-17,t,within an hour,100%,85%,1,2,t
-3494549,Efren,2012-09-06,t,within an hour,100%,83%,2,2,t
-144220958,Ifunanya,2017-08-04,t,within an hour,100%,100%,2,2,t
-92641804,Nathan,2016-08-30,t,within an hour,100%,91%,2,2,t
-396535383,Tetsoma,2021-04-11,f,,,100%,2,3,t
-398054402,Rena,2021-04-21,f,within an hour,100%,100%,1,1,t
-393871664,Damola,2021-03-23,t,within an hour,100%,100%,3,3,t
-135675567,Marina,2017-06-18,f,,,,3,3,t
-38677990,Jeremie,2015-07-16,f,,,,1,1,f
-323806357,Nuu,2020-01-02,f,within an hour,100%,100%,7,7,t
-392855589,Katie,2021-03-16,t,within a few hours,100%,98%,2,3,t
-9711247,Mitchell,2013-10-29,t,within an hour,100%,87%,1,1,t
-64679900,Kareem,2016-03-27,f,within an hour,100%,,1,5,t
-116808477,Ross,2017-02-17,f,,,,1,1,f
-92041318,Gen,2016-08-26,f,within a day,100%,75%,1,1,t
-394055253,Joanna,2021-03-24,f,within an hour,80%,100%,1,1,t
-409323685,Darcy & Michelle,2021-06-26,t,within an hour,100%,97%,1,1,t
-409922617,Rana,2021-06-29,f,,,100%,1,3,f
-410136679,Fleur,2021-06-30,f,,,71%,1,1,t
-407705150,Suite Stay,2021-06-17,f,within an hour,100%,97%,5,14,t
-257456574,Erin,2019-04-22,t,within an hour,100%,93%,1,1,t
-17174148,Christopher,2014-06-23,t,within an hour,100%,98%,4,5,t
-335932622,Katarina,2020-02-13,f,,,,1,1,t
-25608286,Figskin,2015-01-04,f,,,,2,4,t
-80006742,Darin,2016-06-26,f,,,100%,1,3,f
-411956867,Jenny,2021-07-09,t,within an hour,100%,98%,1,3,t
-28288189,Desneige,2015-02-24,t,within an hour,100%,97%,1,1,t
-164533656,Terry Junhua,2017-12-27,f,within an hour,80%,100%,1,7,t
-411970522,Lanre,2021-07-09,f,,,100%,3,3,t
-414987277,Ayoola,2021-07-25,t,within an hour,100%,100%,2,2,t
-330747660,Mirna And Nathan,2020-01-26,t,within an hour,100%,100%,1,1,t
-143482754,Diana,2017-07-31,t,within an hour,100%,100%,1,1,t
-387441461,Salvatory,2021-02-05,f,within an hour,100%,67%,1,1,t
-74224801,Brad,2016-05-26,t,within an hour,100%,99%,11,13,t
-42420246,Annette,2015-08-24,f,within a few hours,100%,0%,2,5,t
-252632209,Danai,2019-04-01,f,,,42%,1,1,t
-417387929,Delcina,2021-08-07,f,a few days or more,0%,0%,1,1,t
-33656509,Oishly,2015-05-18,f,within an hour,100%,100%,1,1,t
-418646993,Innocent,2021-08-15,t,within an hour,100%,97%,1,1,t
-287107029,Lewis,2019-08-19,f,within an hour,100%,100%,3,7,t
-379822752,Ola,2020-12-12,f,,,,1,1,t
-419592825,Sylvia,2021-08-22,t,within an hour,100%,90%,1,1,t
-419664335,Tia,2021-08-22,t,within an hour,100%,99%,1,1,t
-420408102,Adeola,2021-08-27,f,,,0%,3,3,t
-420511753,Babatola,2021-08-28,f,within an hour,100%,80%,3,3,t
-421169286,Hawawu,2021-09-01,f,,,0%,1,1,t
-22019791,Anne Denisse,2014-10-01,t,within an hour,100%,98%,1,3,t
-371824573,Shereen,2020-10-13,t,within an hour,100%,100%,3,3,t
-292051659,Benedicta,2019-09-04,t,within an hour,100%,97%,1,4,t
-423619219,Remi,2021-09-18,f,,,0%,1,3,t
-134395448,Robyn,2017-06-10,f,within an hour,100%,100%,18,35,t
-424777761,Alex,2021-09-27,f,within an hour,100%,100%,3,7,t
-76538863,Sophia,2016-06-08,t,within a few hours,100%,92%,3,3,t
-425172625,Getaway,2021-09-29,t,within an hour,100%,99%,2,2,t
-425386675,Jaime,2021-09-30,t,within an hour,100%,95%,1,1,t
-84460949,Ebubechukwu,2016-07-18,t,within an hour,100%,96%,1,1,t
-426338917,Liam,2021-10-07,f,within an hour,100%,92%,1,1,t
-361310476,Gustave,2020-08-09,f,within a day,50%,82%,3,3,t
-72157932,Wpg,2016-05-15,f,within an hour,98%,98%,23,25,t
-54207218,Zachary,2016-01-11,t,within an hour,100%,100%,2,2,t
-365974118,Elyse,2020-09-04,f,within an hour,97%,100%,6,6,t
-289694152,Ak,2019-08-27,f,within an hour,100%,25%,1,1,t
-161647684,Jarek,2017-12-06,t,within an hour,100%,93%,1,1,t
-395850022,Jessica,2021-04-06,t,within an hour,100%,85%,3,7,t
-83763635,Gilles,2016-07-14,t,within an hour,100%,100%,4,4,t
-26506986,Lorrainne,2015-01-21,t,within an hour,100%,99%,9,10,t
-4858628,Glenda,2013-01-26,t,within a day,67%,100%,1,1,t
-327081003,Shayna,2020-01-13,t,within an hour,100%,96%,1,1,t
-1551204,Doug,2011-12-30,f,within an hour,100%,100%,2,3,t
-188791381,Sukhi,2018-05-09,f,within a day,50%,0%,1,1,t
-429295818,Ola,2021-10-27,t,,,100%,1,1,t
-400495940,Milton,2021-05-07,f,within an hour,100%,88%,1,1,t
-65984536,Kyle,2016-04-05,t,within an hour,100%,100%,6,8,t
-93716898,Aggrey,2016-09-05,t,within an hour,100%,94%,1,1,t
-346988041,Ekene,2020-05-21,f,within an hour,100%,95%,3,3,t
-24067918,Andrew,2014-11-23,t,within an hour,100%,100%,1,3,t
-219317062,Easha,2018-10-07,t,within an hour,100%,97%,4,5,t
-125895897,Kara,2017-04-14,t,,,100%,1,1,t
-108315860,Saj,2016-12-24,f,within an hour,100%,93%,1,1,t
-433503539,Lee,2021-11-25,t,within an hour,100%,100%,1,1,t
-176302340,Marc,2018-03-03,t,within an hour,100%,100%,1,1,t
-112291744,Jose,2017-01-19,t,within an hour,100%,87%,1,1,t
-10442737,Theresa,2013-12-05,t,within an hour,100%,100%,1,1,t
-128712300,Paige,2017-05-03,t,within an hour,100%,100%,2,3,t
-204452026,Carl,2018-07-23,f,within a few hours,100%,100%,1,1,t
-65407269,Temi,2016-04-01,f,within an hour,100%,100%,1,1,t
-462789524,Ajibola,2022-06-06,f,,,,3,3,t
-54311317,Daniel,2016-01-12,f,within an hour,100%,100%,1,1,t
-201107618,Jessica,2018-07-09,f,within an hour,100%,100%,1,1,t
-436088702,Owocrown,2021-12-15,f,within an hour,100%,100%,2,3,t
-436464214,Kafayat,2021-12-18,f,within an hour,100%,86%,2,2,t
-96715712,Carrie-Lynn,2016-09-25,f,within an hour,100%,88%,2,3,t
-436312242,Xavier,2021-12-16,t,within an hour,100%,99%,2,2,t
-14688156,Sivan,2014-04-24,f,,,20%,1,2,t
-437095800,John And Katrina,2021-12-22,f,within an hour,100%,61%,3,3,t
-437749879,Veberly,2021-12-27,f,within an hour,100%,100%,1,2,f
-176320514,Mary Jane,2018-03-03,f,within an hour,90%,93%,2,2,t
-296708205,Krista,2019-09-21,t,within an hour,100%,100%,2,2,t
-440724621,Chinwe,2022-01-16,f,,,,1,1,t
-440787943,Sean,2022-01-16,t,within an hour,100%,93%,2,2,t
-78630862,Amaka,2016-06-19,f,within an hour,100%,97%,4,4,t
-309609476,Ibijoke,2019-11-14,f,within a day,67%,25%,1,1,t
-442121153,Seven,2022-01-25,f,,,,1,1,t
-208357013,LionEagle Stay,2018-08-08,f,within an hour,100%,100%,1,6,t
-442702255,Christine,2022-01-29,t,within an hour,100%,100%,1,1,t
-86613683,Michelle,2016-07-28,t,,,92%,1,1,t
-444079040,James,2022-02-07,t,within an hour,100%,100%,4,4,t
-128307413,David,2017-04-30,f,within an hour,100%,99%,3,3,t
-302803955,Vipan,2019-10-16,t,within an hour,100%,98%,2,2,t
-442288643,Adekunle,2022-01-26,t,within an hour,100%,100%,3,3,t
-446091904,Molly,2022-02-21,t,within an hour,100%,100%,1,1,t
-311909855,Chaman,2019-11-24,t,within an hour,100%,100%,2,2,t
-73117345,Bryce,2016-05-20,t,within an hour,100%,100%,1,1,t
-446410547,Catherine,2022-02-22,f,within an hour,100%,98%,1,1,t
-446643790,Okey,2022-02-24,f,within an hour,100%,100%,1,1,t
-257848729,Nurudeen,2019-04-24,f,,,,1,5,t
-447143843,Kazeem,2022-02-27,f,within an hour,100%,54%,2,2,t
-123942185,Ash,2017-04-02,f,within an hour,100%,99%,4,4,t
-125825750,Ayo,2017-04-14,f,,,100%,1,1,t
-413273155,Nook,2021-07-16,t,within an hour,100%,100%,1,1,t
-428333759,Martin,2021-10-21,t,within an hour,100%,100%,1,1,t
-451461794,Sheri,2022-03-27,f,,,,1,1,t
-430397151,Ina,2021-11-04,t,within an hour,100%,99%,1,1,t
-450311551,Angela,2022-03-19,t,within an hour,90%,94%,1,1,t
-76016934,Michael,2016-06-05,t,within an hour,100%,100%,2,9,t
-42643937,Darla,2015-08-27,f,within an hour,100%,98%,2,2,t
-33937219,Paul,2015-05-21,f,within an hour,100%,0%,1,1,f
-158769835,Mouhssine,2017-11-14,f,within an hour,100%,100%,2,2,t
-452302265,Ayoleke,2022-04-01,f,,,96%,1,1,t
-445341632,Ashley,2022-02-16,t,within an hour,100%,100%,1,1,t
-172960313,Mohammad,2018-02-12,t,within an hour,100%,100%,1,1,t
-139884314,Florence,2017-07-11,f,within an hour,100%,98%,2,3,t
-453760248,Olayiwola,2022-04-11,f,,,0%,1,1,f
-121227781,Reanna,2017-03-17,t,within a day,100%,86%,1,6,t
-450443849,Monissh,2022-03-20,t,within an hour,100%,99%,4,5,t
-7365680,Jennilee,2013-07-08,f,within a day,86%,90%,1,2,t
-68960718,Nitasha,2016-04-26,t,within an hour,100%,94%,1,1,t
-454845403,Meagan,2022-04-18,f,within a few hours,100%,100%,2,2,t
-367874453,Ruth,2020-09-16,t,within an hour,100%,99%,1,2,t
-174076259,Evan,2018-02-18,t,within an hour,100%,91%,1,2,t
-342103720,Maninder,2020-03-20,f,,,,1,2,t
-373537901,Ola,2020-10-27,t,within an hour,100%,100%,1,1,t
-387213019,Stalin,2021-02-04,t,within an hour,100%,83%,1,1,t
-456833253,Amie-Camila,2022-04-30,t,within an hour,100%,96%,1,1,t
-315495929,Hope,2019-12-08,f,,,0%,1,2,t
-197334458,Irene & Dario,2018-06-22,t,within an hour,100%,70%,1,1,t
-90222146,Jeremy,2016-08-16,t,within an hour,100%,100%,1,2,t
-245820392,Kurt,2019-02-27,f,,,,1,1,t
-457450168,Joseph & Christy Cozy Suites,2022-05-04,f,,,100%,1,2,t
-457788721,Irmgard,2022-05-06,f,,,,1,1,f
-23671907,Amy & Hamon,2014-11-12,f,within an hour,100%,100%,1,2,t
-389478900,Manjot,2021-02-21,f,,,,1,2,f
-78199715,Sandy,2016-06-17,t,within an hour,100%,95%,1,1,t
-459479017,Hofit,2022-05-16,f,within an hour,100%,100%,2,2,t
-459622536,Douglas,2022-05-17,t,within an hour,100%,100%,1,1,t
-283395067,Rochelle,2019-08-06,f,,,,2,3,f
-38974702,Joey,2015-07-19,t,within an hour,100%,94%,1,1,t
-188191480,Jebbin,2018-05-06,t,,,100%,1,2,t
-141768886,Veronica,2017-07-21,f,within a few hours,86%,86%,1,1,f
-460918049,LaPaix Stays,2022-05-25,t,within an hour,100%,100%,2,2,t
-461293333,Jonathon,2022-05-27,f,within an hour,100%,82%,2,4,t
-338241485,Obinna,2020-02-23,f,within an hour,100%,98%,1,2,t
-22591698,Andrea,2014-10-15,f,,,95%,2,2,t
-244047915,Taylor,2019-02-19,f,within an hour,100%,92%,3,4,t
-349174628,Manjot,2020-06-08,f,within an hour,100%,91%,1,1,t
-363318613,Raveen,2020-08-19,f,,,,1,1,t
-109258692,Alexandra,2016-12-31,t,within an hour,100%,83%,2,2,t
-90629172,Mary,2016-08-18,f,within an hour,100%,97%,1,1,t
-267996187,Uyi,2019-06-12,f,within an hour,100%,100%,1,1,t
-239318754,Mick And Marilyn,2019-01-27,t,,,93%,1,1,t
-204252057,Emmanuel,2018-07-22,f,within an hour,100%,96%,2,2,t
-194085540,Lisa,2018-06-07,t,within an hour,100%,100%,1,2,t
-34315985,Angelica,2015-05-26,f,within an hour,100%,100%,1,1,t
-93824847,Trevor,2016-09-06,f,,,,2,2,t
-465288428,Saheed,2022-06-20,f,within a few hours,100%,69%,1,2,t
-465303687,Ben,2022-06-21,f,within an hour,100%,92%,1,1,t
-465414163,Michelle,2022-06-21,f,within an hour,100%,100%,1,1,t
-465435507,Oluwayomi,2022-06-21,t,within an hour,100%,100%,1,2,t
-608418,Jessica,2011-05-20,t,,,100%,1,4,t
-90150257,Sihaam And Said,2016-08-16,t,within an hour,100%,99%,2,2,t
-466392024,Brett,2022-06-27,t,within an hour,100%,100%,1,1,t
-109017770,Jyoti,2016-12-29,f,,,,1,4,t
-36125863,Paul,2015-06-18,t,within an hour,98%,97%,13,13,t
-244962690,Jon,2019-02-23,t,within a few hours,100%,96%,1,1,t
-404190157,Osama,2021-05-29,f,a few days or more,0%,83%,1,1,t
-89719741,Noah,2016-08-13,t,within an hour,100%,98%,1,1,t
-47870775,Gursimran,2015-11-01,f,a few days or more,0%,0%,1,1,f
-352383727,Ivy,2020-06-28,t,within an hour,100%,100%,1,1,f
-458645860,Anita,2022-05-11,f,within a few hours,100%,100%,1,1,t
-404786703,Bambilyn,2021-06-01,t,within an hour,100%,97%,5,16,t
-437598755,Asher,2021-12-26,f,,,,1,1,t
-374000554,Syed Amir Abbas,2020-10-31,f,within an hour,100%,100%,1,1,t
-469127367,Terry,2022-07-12,f,within an hour,100%,94%,2,2,t
-469710185,Maggie,2022-07-15,t,within an hour,100%,93%,5,5,t
-470276269,Atinuke,2022-07-18,f,within an hour,100%,91%,3,3,t
-189116794,Ebele,2018-05-11,t,within an hour,100%,93%,2,2,t
-173098000,Hinan,2018-02-12,f,,,,2,2,t
-471379735,Victor,2022-07-24,t,within an hour,100%,100%,1,1,f
-103035630,Yutta,2016-11-08,f,,,,1,1,t
-466050732,Princess,2022-06-25,f,within an hour,100%,77%,3,13,t
-314955795,Afeez,2019-12-06,t,within an hour,100%,97%,4,4,t
-458280314,Olaitan,2022-05-09,t,within an hour,100%,99%,1,2,t
-200167560,Tyler,2018-07-05,f,,,0%,1,1,f
-190173415,Daniell,2018-05-17,t,within an hour,100%,99%,5,5,t
-445827435,Fatima,2022-02-19,t,within an hour,100%,100%,1,2,t
-96367686,Joshua,2016-09-22,f,within a few hours,100%,100%,1,1,t
-474491836,Dimash,2022-08-11,f,within an hour,100%,98%,3,3,t
-400279201,Hassan,2021-05-06,f,within an hour,100%,67%,1,2,t
-455544304,Suleiman,2022-04-22,f,within a few hours,100%,94%,1,1,t
-475028535,Femi,2022-08-14,t,within an hour,100%,100%,1,1,t
-464622639,Manik,2022-06-16,f,,,100%,1,3,f
-475377213,Adedoyin,2022-08-16,f,within a few hours,100%,100%,2,3,t
-475539386,Wole,2022-08-17,t,within an hour,100%,100%,1,1,t
-108753850,Safina,2016-12-27,f,within a few hours,100%,50%,3,4,t
-166125558,April,2018-01-06,f,within an hour,100%,99%,1,5,t
-475930156,Amanda,2022-08-20,f,within an hour,100%,100%,1,2,t
-476932751,Helen,2022-08-27,f,,,100%,2,2,t
-477141364,Stefan,2022-08-28,t,within an hour,100%,98%,4,4,t
-214358419,Gbara,2018-09-09,t,within an hour,100%,93%,3,4,t
-289206621,Emmanuel,2019-08-26,f,within an hour,100%,97%,3,5,t
-72603724,Luxxe Host,2016-05-17,t,within an hour,100%,99%,13,13,t
-454339347,Matthew,2022-04-14,f,,,0%,1,2,f
-157151397,Benita,2017-11-02,f,,,100%,1,1,t
-391819018,Daniel,2021-03-09,f,within an hour,100%,91%,3,4,t
-66751493,Trish,2016-04-11,t,within an hour,100%,96%,3,3,t
-436255816,Francis,2021-12-16,t,,,98%,1,1,t
-478092402,Julie,2022-09-04,t,,,94%,1,1,t
-44942967,Ian,2015-09-23,t,within an hour,100%,88%,2,2,t
-135852781,Jackie,2017-06-19,f,within an hour,100%,87%,1,1,t
-478633629,Shady,2022-09-08,f,,,100%,3,3,t
-120789349,Harsh,2017-03-14,f,within an hour,100%,100%,1,3,t
-190491390,Patricia,2018-05-19,t,within an hour,100%,100%,1,1,t
-280206152,An,2019-07-28,,,,,4,4,f
-479766491,Matthew,2022-09-16,t,within an hour,100%,73%,1,1,t
-57909438,Gabrielle,2016-02-08,f,,,,1,1,f
-480282033,Angela,2022-09-20,t,within an hour,100%,95%,1,1,f
-99144216,June,2016-10-10,f,within an hour,100%,,5,10,t
-412288112,Kim,2021-07-11,f,,,,1,2,f
-480875037,Brett,2022-09-24,f,within an hour,100%,100%,1,1,t
-480947763,Hari,2022-09-25,f,,,,1,1,t
-130899788,Donavan,2017-05-18,t,within an hour,100%,100%,1,1,t
-203874825,Fatima,2018-07-20,t,within an hour,100%,84%,2,3,t
-407374913,Rony,2021-06-15,t,within an hour,100%,100%,1,1,t
-31174814,Joanna,2015-04-13,f,within a day,100%,72%,1,1,t
-408029138,Elvis,2021-06-19,t,within an hour,100%,91%,2,2,f
-269294765,Deepak,2019-06-17,f,,,88%,1,1,t
-349205781,Nusrat Jahan,2020-06-08,t,within an hour,100%,94%,1,1,t
-157290752,Ibhade,2017-11-03,t,,,100%,1,1,t
-134145647,Faisal,2017-06-08,t,within an hour,100%,97%,2,4,t
-482542956,Adewumi,2022-10-06,f,,,,1,1,t
-397916792,Chris,2021-04-20,f,within an hour,100%,100%,1,1,t
-483049727,Nadiia,2022-10-10,f,,,,1,1,f
-435130187,Ramon,2021-12-07,f,within a few hours,90%,86%,4,6,t
-268838800,Maria,2019-06-15,f,within a day,70%,69%,1,2,t
-420313773,A.S Management,2021-08-26,f,within an hour,100%,100%,3,4,t
-160236784,Christine,2017-11-26,f,,,0%,1,2,t
-22029072,Fernando,2014-10-02,f,,,,1,2,t
-69360661,Ali,2016-04-28,f,within an hour,100%,90%,5,5,t
-484764956,Abdul,2022-10-23,f,,,,1,1,f
-200504909,Merryn,2018-07-07,t,within a few hours,100%,90%,4,4,t
-442302582,Mark,2022-01-26,t,within an hour,100%,95%,2,2,t
-247701614,JoAnne,2019-03-08,f,,,75%,2,3,t
-184007908,Jason,2018-04-13,t,within an hour,100%,100%,1,1,t
-197115313,Candy,2018-06-21,f,within an hour,100%,98%,4,4,t
-422350663,Meghan,2021-09-09,t,within an hour,100%,100%,2,2,t
-113434889,Naseer,2017-01-26,f,within an hour,100%,100%,1,1,t
-338502195,Jaskiran,2020-02-24,f,,,,1,1,t
-210947588,BeCey,2018-08-21,t,within a few hours,100%,97%,1,1,t
-415683678,Ashley,2021-07-28,t,within an hour,100%,93%,1,1,t
-487101454,Hailetsion,2022-11-09,f,,,58%,1,1,t
-41880116,Francis,2015-08-19,t,within an hour,100%,89%,2,2,t
-104713910,Erika,2016-11-21,t,within an hour,100%,100%,1,1,f
-487428279,Romeo,2022-11-12,f,within an hour,100%,90%,3,5,f
-188042898,Karl Maverick,2018-05-05,t,within an hour,100%,99%,1,4,t
-487757620,Emmanuel,2022-11-14,t,within an hour,100%,100%,2,2,f
-189966786,Sandy,2018-05-16,f,within an hour,100%,100%,1,1,t
-217273874,Anna,2018-09-25,f,within an hour,100%,100%,1,1,t
-225148376,Vraj,2018-11-10,,within an hour,100%,100%,3,3,t
-328785582,Javier,2020-01-18,t,within an hour,100%,100%,1,1,t
-488907731,Mustafa,2022-11-23,f,,,100%,1,1,f
-488997166,James,2022-11-24,t,within an hour,100%,100%,2,2,t
-489217274,Sarbjeet,2022-11-26,f,,,,1,1,f
-90847578,Mary,2016-08-19,f,,,80%,1,1,t
-490001277,Brayden,2022-12-02,t,within an hour,100%,93%,12,13,t
-183034508,Tolu,2018-04-08,t,within an hour,100%,100%,1,2,t
-108393150,Ikenna,2016-12-25,t,within an hour,100%,97%,3,3,t
-81768434,Peggie,2016-07-04,f,within an hour,100%,96%,2,3,t
-312790559,Raed,2019-11-28,f,within an hour,100%,100%,3,3,t
-490990684,Ghassan,2022-12-11,t,within an hour,100%,90%,1,1,t
-233944566,Seyi,2019-01-02,t,,,100%,1,1,t
-1510071,Brian,2011-12-16,f,,,,1,1,f
-368298474,Fatine Chaimae,2020-09-19,f,within a day,100%,31%,1,2,t
-73541988,Tola,2016-05-23,f,,,0%,1,2,t
-492435485,Jasdeep,2022-12-22,f,within an hour,100%,97%,1,1,t
-11630332,Harun,2014-01-25,t,within a day,100%,91%,1,1,t
-334326088,Annie,2020-02-07,f,a few days or more,0%,,1,1,t
-493140661,Laraib,2022-12-28,f,,,,1,1,f
-493612985,Star,2022-12-31,f,,,100%,1,1,f
-144021650,Marie Hope,2017-08-02,f,,,0%,1,1,t
-493916622,Abigail,2023-01-02,t,within an hour,100%,100%,1,2,t
-217502979,Blue Bell Properties,2018-09-26,t,within an hour,100%,99%,5,5,t
-53173059,Misty,2016-01-03,t,within an hour,100%,68%,1,2,t
-476827844,Inderjeet,2022-08-26,t,within an hour,100%,100%,7,7,t
-246472728,Sola,2019-03-02,t,,,88%,3,3,t
-494639760,Gregory,2023-01-06,f,,,0%,1,1,f
-119677065,Vahab,2017-03-07,f,within an hour,100%,60%,1,2,t
-108882935,Johise,2016-12-28,f,within an hour,100%,97%,1,1,t
-495936866,Yommy,2023-01-13,t,within an hour,100%,98%,2,2,t
-239225423,Jeremiah,2019-01-27,t,within an hour,100%,90%,1,1,t
-25502012,Berina,2015-01-02,t,within an hour,100%,100%,3,4,t
-496853546,Stanislav,2023-01-19,t,within an hour,100%,100%,2,2,t
-82120981,Mustaqeem,2016-07-06,f,,,25%,2,3,t
-303258505,Elizabeth,2019-10-19,f,within an hour,100%,99%,1,1,t
-497432200,Nathanel,2023-01-22,f,within an hour,100%,99%,5,5,t
-496303026,Perry,2023-01-15,t,within a few hours,100%,86%,4,4,t
-497826843,Lawrence,2023-01-24,t,within an hour,100%,96%,1,2,f
-497078358,Sk,2023-01-20,f,a few days or more,0%,0%,1,1,t
-499729139,Taiwo,2023-02-05,f,,,,2,2,f
-498610116,Tianqiao,2023-01-29,f,within an hour,71%,49%,5,5,t
-106423347,Bryan,2016-12-06,t,,,94%,1,1,t
-382181745,Oluwaseun,2020-12-29,t,within an hour,100%,100%,2,2,t
-41268859,Janelle,2015-08-12,f,within a day,86%,75%,2,3,t
-105960155,Yi,2016-12-02,f,within an hour,100%,99%,2,3,t
-499260399,Huan,2023-02-02,f,within an hour,71%,97%,2,4,t
-498256345,Funmilayo,2023-01-27,t,within an hour,100%,100%,1,1,t
-385506620,Glory,2021-01-21,f,,,77%,1,1,t
-471674834,Enrique,2022-07-26,f,within an hour,100%,79%,1,1,f
-500047144,Oleksandra,2023-02-07,f,,,,1,1,f
-323919511,Owen,2020-01-03,t,within an hour,95%,100%,1,1,f
-499870525,Olateju,2023-02-06,f,within a day,100%,97%,1,1,f
-482635349,Temitope,2022-10-07,f,within an hour,100%,83%,7,9,t
-171141300,Stephen,2018-02-01,t,within an hour,100%,92%,3,3,f
-500948469,Wei,2023-02-13,f,,,0%,1,1,t
-501061263,Kay,2023-02-14,f,,,100%,4,4,t
-495909176,Yetunde,2023-01-13,t,within an hour,100%,87%,4,4,t
-136585047,Kat,2017-06-23,t,within an hour,100%,100%,1,1,f
-500388223,Tolulope,2023-02-09,f,within an hour,100%,100%,1,1,t
-73613959,Wally,2016-05-23,f,,,,1,1,f
-188396400,Sharon,2018-05-07,t,within an hour,100%,100%,1,3,t
-52574471,Phyllis,2015-12-28,f,within an hour,100%,70%,2,2,t
-284745146,Menandro,2019-08-11,t,within an hour,67%,83%,1,1,t
-53461430,Grant,2016-01-05,f,,,0%,1,1,t
-504382401,Ayoku,2023-03-07,f,,,100%,1,1,t
-504890496,Abraham,2023-03-11,t,within an hour,100%,97%,1,1,t
-46965605,Obakemi,2015-10-19,t,within an hour,100%,98%,1,1,t
-201086934,Beulah,2018-07-09,f,,,87%,1,1,t
-238338657,Jansen,2019-01-22,f,within an hour,100%,100%,1,1,t
-505609787,Manav,2023-03-15,t,within an hour,100%,99%,1,1,t
-293404010,Jagraj,2019-09-09,f,,,,1,2,t
-345289005,Ugochukwu Stephen,2020-05-03,f,within a few hours,100%,33%,4,4,t
-134797550,Braydin,2017-06-12,t,within a few hours,100%,100%,1,2,t
-482384570,Nelson,2022-10-05,f,,,,1,2,t
-149889186,Sana,2017-09-09,f,within an hour,100%,88%,4,4,t
-198593303,Carla,2018-06-28,t,,,91%,2,2,t
-173065051,Victoria,2018-02-12,f,within a few hours,83%,71%,1,1,t
-219371531,Lanre,2018-10-08,f,within an hour,100%,85%,6,7,t
-499957527,Winnipeg,2023-02-07,t,within an hour,100%,98%,5,7,t
-486626786,Sergio,2022-11-06,f,within an hour,100%,89%,1,1,t
-499376912,Jeanvive,2023-02-03,t,within an hour,100%,100%,3,4,t
-32686835,Rajbir,2015-05-05,f,within an hour,100%,97%,1,1,t
-212884088,Stanley,2018-08-31,f,,,80%,1,1,t
-179644049,Hilary,2018-03-20,f,within a few hours,100%,81%,1,4,t
-508934469,Yusuf,2023-04-07,f,within an hour,96%,97%,1,1,t
-493541570,Mujidat,2022-12-30,t,within an hour,100%,97%,1,2,t
-509040045,Viacheslav,2023-04-07,f,within an hour,100%,100%,1,1,t
-78504236,Angela,2016-06-18,f,,,62%,2,4,f
-462708063,Jirah,2022-06-05,f,,,89%,7,8,t
-435942684,Jessi,2021-12-13,t,within an hour,100%,100%,3,3,t
-488338721,Tope,2022-11-19,t,within a day,50%,67%,1,1,t
-510500368,Accommodation Winnipeg,2023-04-17,t,within an hour,100%,80%,2,2,t
-490654290,Shubham,2022-12-07,f,,,33%,1,2,t
-510638047,Spruce,2023-04-18,t,within an hour,100%,99%,7,7,t
-45499469,Jill,2015-10-01,f,within an hour,100%,100%,1,1,t
-510966484,Vansh,2023-04-20,f,a few days or more,0%,25%,1,2,t
-151822828,Hamza,2017-09-23,f,within an hour,100%,92%,1,2,t
-120478876,Demba,2017-03-13,f,,,0%,1,2,t
-146678771,Motunrayo,2017-08-18,f,within a few hours,100%,100%,1,2,t
-120127483,Munyaradzi Godfrey,2017-03-10,f,within an hour,100%,0%,1,1,t
-123007199,Karen,2017-03-28,f,within an hour,100%,98%,2,3,t
-166420371,Vicky,2018-01-07,f,,,100%,1,1,t
-357327563,Virali,2020-07-19,t,within an hour,100%,100%,3,3,t
-97322401,Hannah,2016-09-29,f,within an hour,100%,97%,1,2,t
-512113932,Gaeli,2023-04-27,t,,,100%,3,3,t
-513044735,Omosolape,2023-05-03,f,within a few hours,100%,100%,2,3,t
-513603806,Alex,2023-05-07,f,within an hour,100%,100%,1,2,t
-513824776,Abdul,2023-05-08,t,within an hour,100%,100%,1,1,t
-513842647,Samson,2023-05-08,t,,,78%,3,3,t
-141253798,Sona,2017-07-19,f,,,0%,2,2,t
-7599279,Susan,2013-07-19,t,within an hour,100%,90%,1,7,t
-445527464,Julien,2022-02-17,t,within an hour,100%,78%,1,1,t
-514171247,Sophia,2023-05-10,t,within an hour,100%,91%,1,1,t
-444023000,Henry,2022-02-07,t,within an hour,100%,98%,1,1,f
-144802842,Jeanne,2017-08-07,t,within an hour,100%,100%,1,1,t
-239490047,Alyson,2019-01-28,f,within an hour,100%,98%,1,1,t
-290538196,Joseph & Grace,2019-08-31,f,,,100%,1,1,t
-366287857,Oladimeji,2020-09-06,t,within an hour,100%,92%,3,3,t
-516051137,Adefunke,2023-05-22,f,a few days or more,0%,19%,1,1,f
-516057922,Veerpal,2023-05-22,t,within an hour,100%,100%,1,1,t
-516223225,Rita,2023-05-23,f,within a few hours,100%,100%,3,3,t
-464282012,Shaun,2022-06-14,f,,,0%,1,1,f
-516570011,Atul,2023-05-25,f,within an hour,100%,99%,4,4,t
-517034752,Nate,2023-05-28,t,within an hour,100%,100%,5,5,t
-473389677,Tunde,2022-08-04,t,within an hour,100%,85%,1,1,f
-465211069,Ishan,2022-06-20,f,,,0%,1,1,t
-43532664,Linnea,2015-09-06,t,within an hour,100%,94%,3,3,t
-421655552,Oluseyi,2021-09-04,t,within an hour,100%,100%,1,1,t
-455331517,Carley,2022-04-21,f,within an hour,100%,100%,12,13,t
-341399288,Pari,2020-03-12,t,within an hour,100%,100%,3,3,t
-30447137,Jonathan,2015-04-01,f,within a day,50%,0%,1,1,t
-508257433,Moe,2023-04-02,t,within an hour,100%,100%,1,1,t
-147095305,Quinn,2017-08-21,f,,,100%,1,2,t
-125062823,Bilal,2017-04-09,f,,,82%,2,2,f
-394720153,Emeka,2021-03-29,f,within an hour,100%,100%,1,1,t
-353056290,Shakirudeen,2020-07-02,t,within an hour,100%,100%,1,1,t
-317295003,Kunwer,2019-12-14,f,within a few hours,90%,96%,1,1,t
-519621970,Younik Stays,2023-06-12,t,,,100%,1,1,t
-520018640,Neema,2023-06-14,f,,,100%,1,1,t
-520543688,Olalekan,2023-06-17,t,within a few hours,93%,96%,1,1,f
-296520314,Ayo,2019-09-20,t,within a few hours,100%,70%,1,1,f
-200598843,Babatola,2018-07-07,t,within an hour,100%,100%,1,4,t
-520833964,Olutade,2023-06-19,f,within an hour,100%,100%,1,1,t
-520850940,Grace,2023-06-19,t,within an hour,100%,100%,2,2,t
-520938504,Mofiyinfoluwa,2023-06-19,t,within a few hours,100%,96%,3,3,t
-209633673,Ana,2018-08-15,t,within an hour,100%,100%,1,1,t
-316693274,陶,2019-12-12,f,,,33%,1,1,t
-324752164,Spyros,2020-01-06,t,within an hour,100%,100%,2,2,t
-371275821,Mariam,2020-10-09,t,within an hour,100%,99%,2,2,t
-522260141,Keeno,2023-06-26,t,within an hour,100%,92%,1,1,t
-377019941,Francis,2020-11-25,t,within an hour,100%,93%,3,3,t
-20173373,Riolina,2014-08-17,f,within an hour,100%,100%,1,2,t
-61325524,Enerosa,2016-03-02,f,within a few hours,100%,87%,2,2,t
-111124273,Kiren,2017-01-12,f,within an hour,100%,100%,1,1,t
-65920003,Avril,2016-04-05,t,within an hour,100%,100%,1,3,t
-489007478,Alex,2022-11-24,f,within an hour,100%,100%,2,3,t
-523794749,Humble And Grand,2023-07-04,f,within an hour,100%,100%,2,2,t
-191390482,Charlotte,2018-05-24,f,within an hour,100%,94%,1,1,t
-76132371,Diku,2016-06-06,f,within an hour,100%,100%,2,2,t
-524336673,Adeniyi,2023-07-07,f,within a few hours,100%,100%,1,1,f
-185061517,Fiogho,2018-04-18,f,within an hour,100%,100%,2,3,t
-228988277,Lan,2018-12-04,f,within an hour,100%,94%,2,2,t
-207755907,Fahad,2018-08-06,f,within an hour,100%,96%,1,1,f
-521145067,Mohd,2023-06-20,f,within an hour,100%,100%,3,6,t
-525372413,Isaac,2023-07-13,t,within an hour,100%,100%,1,1,f
-525676744,Etmen,2023-07-14,t,within an hour,100%,100%,4,4,t
-477625553,Dave,2022-09-01,f,within an hour,100%,86%,2,5,t
-449923374,Oriana,2022-03-16,t,within an hour,100%,100%,1,1,t
-13610265,Leila,2014-03-27,t,within an hour,100%,62%,1,1,t
-109560197,Kevin,2017-01-02,t,,,95%,1,1,t
-168181344,Maria,2018-01-16,f,,,,1,1,f
-226696289,Rey,2018-11-20,t,within an hour,100%,85%,1,1,t
-394874347,Uche,2021-03-30,f,,,100%,1,1,t
-526950332,Veerpal,2023-07-20,t,within an hour,100%,100%,1,1,t
-71841563,Kaitlyn,2016-05-13,f,within an hour,100%,,1,1,t
-323249604,Oluwafemi,2020-01-01,f,within an hour,100%,100%,1,3,t
-365348575,Heinz,2020-08-31,f,within a few hours,100%,100%,1,1,f
-200198124,Jay,2018-07-05,t,within an hour,100%,97%,1,1,t
-425816789,Seyi,2021-10-03,t,within an hour,100%,100%,2,2,t
-527070318,BESTbodyby,2023-07-21,f,within an hour,100%,92%,1,1,t
-226864685,Abdullah,2018-11-21,f,,,50%,1,1,t
-125041161,Abdal,2017-04-09,t,within an hour,100%,100%,1,1,t
-38761552,Marikit,2015-07-17,f,,,,1,3,t
-279143971,Raheem Olabamiji,2019-07-25,f,within an hour,100%,67%,1,3,t
-18581972,Ryan,2014-07-21,t,within an hour,97%,93%,7,14,t
-11485362,Steve,2014-01-20,t,within an hour,100%,100%,1,5,t
-111857130,Sajad,2017-01-17,f,,,80%,1,1,t
-495354207,Pillar Property,2023-01-10,f,a few days or more,25%,81%,2,5,t
-254143761,Adeyemi,2019-04-08,f,within a few hours,100%,67%,1,4,t
-55817662,Aiden,2016-01-23,,within an hour,100%,98%,17,18,t
-529932140,Harjeet,2023-08-04,f,within a few hours,100%,88%,1,2,f
-84993548,Tina,2016-07-20,t,within an hour,100%,100%,1,1,t
-530692914,Simran,2023-08-08,f,within an hour,96%,87%,9,9,t
-524937592,XiaoJuan,2023-07-10,f,,,,1,1,t
-213255097,Toyin,2018-09-03,f,within an hour,100%,94%,2,4,t
-530785576,Bryan,2023-08-09,f,within a few hours,100%,62%,1,1,t
-491433686,Sara,2022-12-14,f,within an hour,100%,97%,7,7,t
-370562798,Dave & Vicky,2020-10-04,f,,,100%,1,4,t
-149264752,Lui,2017-09-05,f,within an hour,100%,69%,5,10,t
-83319824,Wilfred,2016-07-12,t,within an hour,100%,97%,3,3,t
-97837544,Sarah,2016-10-03,f,a few days or more,0%,75%,1,1,t
-487674670,Mayowa,2022-11-14,t,within an hour,100%,96%,1,1,t
-531689491,Manpreet,2023-08-13,t,within an hour,100%,93%,1,1,f
-68156532,Robin,2016-04-20,t,within an hour,100%,100%,1,1,t
-526585142,Simranjit,2023-07-18,f,a few days or more,0%,0%,1,1,f
-496243022,Folakemi,2023-01-15,f,within an hour,100%,67%,1,1,f
-73641054,Alsie,2016-05-23,t,within an hour,100%,97%,1,2,t
-514911299,Valerie,2023-05-15,f,within an hour,100%,84%,1,1,t
-414325314,Ankit,2021-07-21,f,within a day,100%,67%,1,1,t
-532019741,Casa,2023-08-15,f,within an hour,100%,100%,2,2,t
-27712287,Christian,2015-02-13,f,within a few hours,83%,50%,12,18,t
-279290285,Akoko,2019-07-25,t,within an hour,100%,97%,2,2,t
-532636522,Curtis,2023-08-18,t,within an hour,100%,88%,1,1,t
-528332194,Sara,2023-07-27,t,within an hour,100%,93%,1,1,t
-400106720,Deeds,2021-05-05,t,within an hour,100%,99%,3,3,t
-70224105,Liz,2016-05-03,t,within an hour,100%,100%,1,1,t
-129054956,Mehrdad,2017-05-05,f,within a few hours,100%,58%,1,1,t
-449759805,Prairie,2022-03-15,f,within an hour,89%,100%,1,2,t
-232720462,Adeyemi,2018-12-27,f,within an hour,100%,94%,1,1,t
-416866822,Min,2021-08-04,f,within an hour,100%,69%,1,1,t
-533550367,Grace,2023-08-23,f,within an hour,100%,100%,1,2,t
-358040596,Michael,2020-07-23,f,within an hour,100%,100%,1,2,t
-74166042,Ting,2016-05-26,f,,,0%,1,1,f
-533922739,Catherine,2023-08-26,t,within an hour,100%,98%,2,2,t
-78697903,Kevin,2016-06-19,f,within a few hours,100%,85%,1,1,t
-534174465,Nevin,2023-08-27,f,within an hour,100%,90%,1,1,t
-534330936,Sunday,2023-08-28,f,,,100%,1,1,f
-241585267,Marcela,2019-02-06,t,within an hour,100%,100%,2,3,t
-76385957,Patrick And Nikki,2016-06-07,t,within an hour,100%,95%,1,1,t
-218611048,Troy,2018-10-03,t,within an hour,100%,95%,3,3,t
-499131620,Madelaine,2023-02-01,t,within an hour,100%,96%,4,4,t
-535542758,Kolawol,2023-09-04,f,,,,1,1,t
-74217129,Ingrid,2016-05-26,f,within an hour,100%,100%,2,3,t
-535715511,Craig,2023-09-05,f,within an hour,100%,,1,1,t
-535889564,Rylen,2023-09-06,f,within a few hours,100%,97%,3,3,t
-535902185,Lovepreet,2023-09-06,f,within an hour,100%,100%,3,3,t
-33064537,Graham,2015-05-10,f,,,0%,1,1,t
-456992018,Ayo,2022-05-01,f,,,67%,1,2,t
-534424102,Chinaza,2023-08-28,f,within an hour,100%,78%,3,3,t
-277411912,Andrei,2019-07-19,f,a few days or more,0%,100%,1,1,t
-530737532,Shaikh,2023-08-08,f,,,0%,1,3,t
-536536334,Tunde,2023-09-11,f,within a few hours,100%,100%,3,3,f
-449940289,Chloe,2022-03-16,f,within an hour,100%,82%,1,1,t
-372108143,Gulaine,2020-10-15,f,,,,1,1,t
-417847986,Ridha,2021-08-10,f,within a few hours,100%,80%,1,2,t
-318685830,Amador,2019-12-18,f,within an hour,100%,67%,1,4,t
-352221563,Maryjane,2020-06-27,f,within an hour,100%,83%,1,2,t
-387188310,Ayodeji,2021-02-03,f,within an hour,100%,96%,3,5,t
-732657,Mo,2011-06-22,f,within an hour,100%,97%,2,2,t
-538224257,E Street,2023-09-21,f,within an hour,99%,99%,18,20,t
-538606941,Ivy,2023-09-23,t,within a day,70%,62%,2,2,t
-538622174,Aneka,2023-09-23,f,within an hour,100%,92%,5,5,t
-538787325,Yemi,2023-09-24,f,within an hour,100%,100%,1,1,t
-538927532,Aksh,2023-09-25,f,within an hour,100%,100%,2,2,t
-207335531,Kaeley,2018-08-04,t,within an hour,100%,94%,1,1,t
-243322733,Keith,2019-02-15,f,within a few hours,88%,58%,1,1,t
-187391059,Amahzino,2018-05-02,f,,,,2,2,t
-516848815,Raphael,2023-05-27,t,within an hour,100%,84%,1,1,t
-438319281,Pinky,2021-12-31,f,,,,1,1,t
-506327253,Olayinka,2023-03-20,f,within an hour,100%,100%,2,2,t
-134389342,Nicole,2017-06-10,f,a few days or more,33%,,1,1,t
-486160232,Stephanie,2022-11-03,f,within a few hours,100%,33%,1,1,t
-515905053,Jaspreet,2023-05-21,f,,,,1,1,f
-537284172,Elora,2023-09-15,t,within an hour,100%,97%,1,2,f
-540066940,Taiwo,2023-10-02,f,within an hour,100%,100%,2,2,f
-380691857,Khaled,2020-12-18,f,within an hour,100%,100%,1,1,t
-459402445,Ghady,2022-05-16,f,within a day,50%,100%,1,2,t
-540844301,Michael,2023-10-07,f,within an hour,100%,83%,2,5,t
-176682518,Angie,2018-03-05,f,within an hour,100%,100%,1,2,t
-541149138,Trinh,2023-10-09,t,within an hour,100%,100%,2,2,t
-390363566,Samanta,2021-02-27,f,,,,1,1,t
-416878861,Joshua,2021-08-04,f,within a day,67%,100%,1,3,f
-148838492,Marcia,2017-09-02,f,within an hour,100%,96%,3,3,f
-299897428,Gurpreet,2019-10-03,f,within an hour,100%,100%,1,1,t
-189299556,Enabulele,2018-05-13,t,within a few hours,100%,96%,3,3,t
-542021993,Gloria,2023-10-15,f,within an hour,100%,100%,1,1,t
-481810956,S,2022-10-01,f,within a day,50%,,1,1,t
-542442196,Somkhit,2023-10-18,f,within a day,50%,60%,1,1,t
-3239688,Darlene,2012-08-12,f,within an hour,100%,50%,1,1,t
-542763400,Dickson,2023-10-20,f,within an hour,100%,100%,1,1,t
-302624488,Vishal,2019-10-15,f,,,,1,1,f
-543047720,Jamshaid,2023-10-23,f,within an hour,100%,100%,1,1,t
-178520181,Eric,2018-03-14,f,within an hour,100%,91%,6,6,t
-543755582,Adebola,2023-10-27,f,within a few hours,90%,75%,2,2,t
-90508671,Johnny,2016-08-17,,within a day,70%,0%,2,4,t
-542901226,Yuri Mark,2023-10-22,t,within an hour,100%,100%,2,2,f
-125447281,Ajiboye,2017-04-11,f,within an hour,75%,50%,2,3,t
-128632363,Baher,2017-05-02,f,,,,1,1,t
-35007652,Ashley,2015-06-04,f,within a day,70%,30%,53,62,t
-476763761,Kingsley,2022-08-26,f,within an hour,80%,100%,2,2,t
-544908095,Kathleen,2023-11-04,t,within an hour,100%,92%,1,1,f
-297690302,Amritpal,2019-09-24,f,,,,1,1,f
-474302683,Mark,2022-08-10,f,within an hour,100%,98%,1,1,f
-545106994,Ade,2023-11-05,f,within an hour,100%,100%,1,1,f
-216156641,Emmanuel,2018-09-19,f,,,,1,1,f
-462098171,Elizabeth,2022-06-01,f,,,80%,1,1,t
-332382744,Rui,2020-01-31,f,,,100%,1,1,t
-223231161,Johanna,2018-10-29,f,within an hour,100%,78%,1,1,t
-173094848,Rajkumar,2018-02-12,f,within an hour,100%,67%,1,1,f
-512623693,Elisa,2023-05-01,t,within an hour,90%,90%,3,3,t
-541403761,Chun Kit Jack,2023-10-11,f,within an hour,80%,63%,2,3,t
-29279588,Angela,2015-03-13,f,within an hour,100%,100%,1,1,f
-230348709,Jeanne,2018-12-12,t,within an hour,100%,96%,1,2,f
-515906124,Abosede,2023-05-21,f,within an hour,100%,0%,1,1,t
-511275159,Guriqbal,2023-04-22,f,,,,1,1,f
-547009785,Esther,2023-11-17,f,a few days or more,30%,100%,2,2,t
-547263400,Abimbola,2023-11-19,f,within an hour,100%,100%,1,1,t
-547303645,Slava,2023-11-19,f,within an hour,100%,100%,1,1,t
-98814251,Tracy,2016-10-08,f,,,0%,1,2,t
-56031588,Jeremy,2016-01-25,f,within an hour,100%,100%,1,1,t
-546313273,Ashley,2023-11-13,f,within a day,100%,73%,1,1,f
-476039162,Luxury Rentals,2022-08-21,f,within an hour,100%,98%,2,3,t
-16223797,Sivan,2014-06-01,f,,,,1,1,f
-280201791,Siming,2019-07-28,f,within an hour,100%,97%,2,4,t
-57657261,Michael,2016-02-06,f,within an hour,100%,94%,1,4,t
-144155834,Lorena,2017-08-03,f,within an hour,100%,40%,1,1,t
-385932576,Sajad,2021-01-25,f,within an hour,100%,100%,2,3,t
-548989460,Jessie,2023-12-01,f,within an hour,94%,97%,1,1,t
-549035431,Muhammad,2023-12-01,f,,,,3,3,f
-308840957,Stacy,2019-11-12,f,within an hour,100%,100%,1,1,t
-549982677,Kyle,2023-12-07,f,within a day,75%,78%,1,1,f
-488542416,Fehintoluwa,2022-11-20,f,within an hour,90%,100%,3,3,t
-17970668,Maya,2014-07-11,f,within a few hours,100%,100%,1,1,t
-205771009,Mo,2018-07-28,t,within an hour,90%,91%,1,2,t
-397628188,Tunde,2021-04-19,f,within an hour,100%,60%,1,2,t
-549703601,Sabina,2023-12-06,f,,,,1,6,t
-96841743,Sam,2016-09-26,f,within an hour,100%,100%,1,1,t
-196744143,Yaxia,2018-06-20,f,,,100%,1,2,t
-458313730,Alex,2022-05-09,f,within an hour,100%,100%,1,5,t
-124427473,Joshua,2017-04-05,f,within an hour,100%,83%,1,1,t
-284527620,Bisetsa,2019-08-10,f,within an hour,80%,100%,1,1,t
-551002875,Neil,2023-12-14,f,within an hour,100%,80%,1,1,f
-181504135,Keith,2018-03-30,f,within a few hours,100%,50%,1,1,f
-461882914,Muhammad,2022-05-31,f,within a few hours,100%,,1,1,t
-476753073,Abdulrasheed,2022-08-25,f,within a few hours,100%,100%,1,1,t
-545472228,Reeta,2023-11-07,f,within a few hours,100%,71%,2,4,t
-11663482,Amanda,2014-01-26,f,within an hour,100%,94%,1,1,t
-263793096,Besal,2019-05-24,f,within an hour,80%,88%,1,4,t
-380383522,Tyler,2020-12-16,f,within an hour,100%,,1,1,t
-551687675,Dave,2023-12-19,f,within an hour,79%,100%,4,5,t
-139480583,Yunfang,2017-07-09,f,within an hour,100%,100%,1,2,t
-547150964,Joanita,2023-11-18,,,,,2,2,f
-520960335,David,2023-06-19,f,within an hour,100%,63%,2,2,t
-483243211,Eez,2022-10-11,f,within an hour,100%,100%,1,1,t
-529867684,Alhaji Sorie,2023-08-04,f,within an hour,97%,98%,4,4,t
-457945455,Sarah,2022-05-07,f,within an hour,100%,100%,1,1,f
-458400671,Rahul,2022-05-10,f,within an hour,100%,100%,1,1,f
-29739142,Claude,2015-03-21,f,,,,2,2,f
-553141181,Dave,2023-12-28,f,,,,1,1,f
-510882824,Jhocelin,2023-04-19,f,within a few hours,100%,100%,1,1,f
-512890528,Jacqueline,2023-05-02,f,within an hour,100%,95%,1,1,t
-15544565,Lee,2018-08-09,f,within an hour,100%,100%,1,1,t
-553886560,David,2024-01-01,f,within an hour,100%,100%,1,1,f
-120537912,Caitie,2017-03-13,f,within an hour,100%,95%,1,1,t
-511208419,Maria,2023-04-22,f,within an hour,100%,100%,1,1,t
-554369730,Eniola,2024-01-04,f,within an hour,100%,100%,1,1,f
-180404391,Sumit,2018-03-25,f,within an hour,100%,0%,1,4,f
-544254716,Chrystal,2023-10-31,f,within an hour,100%,88%,7,7,t
-554514073,Cletus,2024-01-04,f,within an hour,100%,75%,1,1,f
-554559838,Precious,2024-01-04,f,within a few hours,100%,100%,1,1,t
-53506867,Sun,2016-01-05,f,within an hour,100%,0%,1,2,t
-549454440,Ana,2023-12-04,f,within an hour,100%,88%,2,2,t
-548462001,Ric,2023-11-27,f,within an hour,100%,96%,1,1,f
-555406315,Chinyere,2024-01-09,f,within an hour,100%,100%,1,1,t
-521284331,Liliane,2023-06-21,f,within a few hours,100%,,1,1,t
-489146703,Renee,2022-11-25,f,within an hour,100%,100%,1,1,t
-151465384,Daniel,2017-09-20,t,within an hour,100%,92%,1,4,t
-557354104,Lubna,2024-01-18,f,within an hour,100%,100%,1,1,t
-120218101,Sandra,2017-03-11,f,within an hour,100%,,2,2,t
-354157770,Nadia,2020-07-06,f,within an hour,100%,100%,1,1,t
-266231516,Julio,2019-06-04,f,within an hour,100%,100%,1,1,t
-385928586,Kenneth,2021-01-25,f,within an hour,100%,94%,2,2,t
-558614606,Adetunji,2024-01-25,f,within an hour,100%,100%,2,2,t
-558932840,Elise,2024-01-27,f,within an hour,100%,100%,1,1,f
-235946418,Rosemarie,2019-01-11,f,within an hour,100%,85%,1,1,t
-520198624,Inderpreet,2023-06-15,f,within an hour,100%,100%,3,3,f
-131075707,Stefanie,2017-05-19,t,within an hour,86%,83%,2,2,t
-559625049,Madelaine,2024-01-31,f,within an hour,100%,100%,1,1,t
-559894365,Sarwat,2024-02-01,f,within an hour,100%,80%,1,1,f
-560194779,Maria,2024-02-03,f,within a day,63%,100%,1,1,f
-41955944,Nicolas,2015-08-19,f,a few days or more,33%,0%,1,1,t
-560791012,Afshin,2024-02-07,f,within an hour,100%,100%,1,1,f
-136302609,Temitope,2017-06-21,f,within an hour,100%,100%,1,1,t
-245215175,Heather,2019-02-24,f,within an hour,100%,100%,1,1,t
-212427303,Christina,2018-08-29,f,within an hour,100%,100%,1,1,t
-118970477,Charlene,2017-03-03,f,within a few hours,100%,100%,1,1,t
-519010615,Azizul,2023-06-09,f,within a day,100%,0%,1,1,t
-433834553,Ofure,2021-11-28,f,a few days or more,25%,33%,1,1,t
-87892345,Gireesh,2016-08-04,f,,,,1,2,t
-560414845,Moniel Place,2024-02-04,f,within an hour,100%,100%,1,1,t
-476712603,Mohammed,2022-08-25,f,within an hour,80%,60%,1,1,t
-563152531,Benjamin,2024-02-20,f,,,,1,1,t
-38179591,Cristian,2015-07-11,f,within an hour,100%,75%,1,2,t
-263946115,Jennifer,2019-05-24,f,within an hour,100%,100%,1,1,t
-529575688,Cori,2023-08-03,f,within an hour,100%,,1,1,t
-21330816,Jennifer,2014-09-14,f,within an hour,100%,67%,1,2,t
-564561714,Stephen,2024-02-28,f,within an hour,100%,100%,1,1,t
-429841661,Charles,2021-10-31,t,within an hour,100%,100%,1,2,t
-270762765,Chidera,2019-06-23,f,within a few hours,100%,60%,1,1,f
-215968040,Connor,2018-09-17,f,,,,1,1,t
-565409634,John,2024-03-04,f,within an hour,100%,100%,1,1,t
-506197353,Precs,2023-03-20,f,within a day,75%,,1,1,t
-5788812,Lydia,2013-04-05,f,within a few hours,100%,0%,1,2,t
-566124565,Taemie,2024-03-08,f,within an hour,100%,100%,1,1,f
-288714223,Naman,2019-08-24,f,within an hour,100%,100%,1,1,t
-565057795,Mark,2024-03-02,f,within a few hours,100%,100%,1,5,t
-38580388,Marianna,2015-07-15,f,a few days or more,0%,0%,1,2,t
-251568060,Stanley,2019-03-27,t,within a few hours,100%,93%,1,1,t
-428629779,Sibongile,2021-10-23,f,within an hour,100%,90%,2,4,t
-567107455,Inderjeet,2024-03-14,f,,,100%,1,1,t
-567544533,Boris,2024-03-17,f,,,,1,1,t
-547692838,Martin,2023-11-22,,within a few hours,100%,,2,4,t
-140095930,Adekemi,2017-07-12,f,,,,1,3,f
 955449,Silvio,2011-08-11,f,within a few hours,100%,69%,2,4,t
 8145510,Ruth,2013-08-14,f,within an hour,100%,92%,6,6,t
 4997811,Rebecca,2013-02-07,t,within an hour,100%,93%,4,4,t
 970192,Colleen,2011-08-14,f,within a day,100%,40%,1,1,t
+8288997,Richard,2013-08-20,t,within an hour,100%,100%,1,1,t
 18581972,Ryan,2014-07-21,t,within an hour,100%,92%,9,13,t
 23470058,K,2014-11-07,t,within an hour,100%,64%,4,23,t
 71184,Hiroshi & Naomi,2010-01-17,f,within a few hours,100%,94%,1,1,t
+31217093,Barry,2015-04-14,f,,,,1,1,f
 31823352,Christene,2015-04-23,f,within an hour,100%,100%,3,6,t
+31620704,Jill & Noreen,2015-04-20,t,within an hour,100%,100%,3,4,t
 33077287,Sergio,2015-05-10,t,within an hour,100%,72%,2,3,t
 7608280,Gavin,2013-07-20,t,within a day,100%,50%,3,5,t
+33766481,Nicole,2015-05-19,f,,,,1,2,t
 32130915,Natalie,2015-04-28,f,a few days or more,0%,0%,1,1,t
 31253536,Brett,2015-04-15,f,,,100%,1,1,t
+34530369,Lori,2015-05-29,t,within an hour,100%,91%,1,1,t
 34740382,Angie,2015-06-01,t,,,100%,1,2,t
 28431458,David,2015-02-27,f,a few days or more,0%,,1,1,t
 35601029,Stephanie,2015-06-11,t,within a few hours,100%,98%,2,2,t
@@ -992,31 +32,44 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 46420675,Aaron,2015-10-12,f,,,25%,1,1,t
 49126625,Krista,2015-11-15,f,within a few hours,80%,17%,1,1,t
 17190273,Leroy,2014-06-24,f,within a few hours,100%,67%,2,6,t
+48915087,Nelson,2015-11-13,t,within an hour,100%,100%,1,2,t
+61102366,Charlotte & Jim,2016-03-01,t,within an hour,100%,93%,1,3,t
 43119179,Deborah,2015-09-01,f,,,,1,1,t
 65535254,Tiffany,2016-04-02,f,within a few hours,100%,0%,4,5,f
 42928963,Lois,2015-08-30,t,within a few hours,100%,96%,1,1,t
+5078608,Devin,2013-02-13,t,within an hour,100%,100%,2,2,t
 49214281,Philip,2015-11-16,f,within a day,67%,0%,1,2,t
 88153611,Francis,2016-08-05,f,within an hour,100%,86%,3,4,t
+84261849,Susan,2016-07-17,f,within an hour,100%,100%,1,1,t
 66027644,Charles,2016-04-06,f,within a few hours,100%,,1,1,t
 60400653,Karin & Mark,2016-02-25,t,within an hour,100%,99%,2,3,t
 95776055,Curtis,2016-09-18,f,within an hour,96%,97%,22,34,t
 97139450,Lai Guen,2016-09-28,f,within a few hours,67%,100%,1,2,t
 97659537,Natalie,2016-10-02,t,within a few hours,100%,100%,2,2,t
 3843389,Simone,2012-10-11,f,a few days or more,0%,0%,2,2,t
+101898460,David,2016-10-31,t,within an hour,100%,98%,1,1,t
 103358415,Al,2016-11-11,f,within an hour,100%,100%,4,5,t
 83072651,Elizabeth,2016-07-11,t,,,100%,1,1,t
+106742367,Lowell,2016-12-09,f,,,,1,2,t
 44467977,Tony & Nina,2015-09-17,t,within a few hours,100%,85%,2,2,t
 110655007,Barry & Wendy,2017-01-09,t,within a few hours,100%,94%,1,1,t
+112299835,Dené,2017-01-19,f,within an hour,100%,100%,1,1,t
+113835860,Thomas,2017-01-29,t,within an hour,100%,100%,2,2,t
 120967910,Merj,2017-03-15,t,within an hour,100%,99%,3,3,t
 109248901,Jianping,2016-12-31,t,within an hour,100%,78%,3,5,t
 125166589,Aleta,2017-04-10,t,within an hour,100%,100%,1,1,f
+119556952,Temitope,2017-03-07,f,,,,2,3,t
 64832612,Faith,2016-03-28,f,within a day,100%,64%,2,2,t
+6366974,Graham,2013-05-13,f,,,0%,1,1,t
 40509243,Pierre,2015-08-04,t,within an hour,100%,99%,3,3,t
 11151940,Steph,2014-01-09,t,within a day,100%,84%,2,4,t
+3638197,Veronika & Andreas,2012-09-21,f,,,,1,2,t
 58881006,Jude,2016-02-15,t,within an hour,100%,93%,1,1,t
 137416520,Mary Jay,2017-06-28,t,within an hour,100%,97%,2,2,t
 114498849,Nest Host,2017-02-02,f,within an hour,100%,96%,68,81,t
 76265808,Carolina,2016-06-07,f,,,0%,1,3,t
+137744259,Gloria,2017-06-29,f,,,100%,1,1,t
+140414208,Tony,2017-07-14,t,within an hour,100%,100%,1,1,t
 86138438,Dominique,2016-07-26,t,within an hour,100%,96%,4,21,t
 141354470,Sheri,2017-07-19,t,within an hour,100%,97%,1,1,t
 141392319,Matthew,2017-07-19,t,within an hour,100%,99%,1,1,t
@@ -1025,23 +78,36 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 134777230,Julia,2017-06-12,t,,,98%,2,24,t
 11773408,Morgan & Damon,2014-01-29,t,within an hour,100%,95%,1,1,t
 103768435,William,2016-11-14,f,within a few hours,100%,,5,5,t
+5153325,Ron,2013-02-19,f,within an hour,100%,73%,1,3,t
 8332120,Johanna,2013-08-22,f,within a few hours,100%,97%,2,4,t
 30905989,Stephan & Christian,2015-04-09,f,,,,1,2,t
+150297977,Maria,2017-09-12,f,,,,1,1,t
 149271769,Derek,2017-09-05,t,within an hour,100%,92%,1,1,t
 455475,Dave,2011-03-21,t,within an hour,100%,97%,1,1,t
 101847099,Louise,2016-10-30,f,,,100%,1,2,t
+147578945,Michael,2017-08-24,t,within an hour,100%,100%,4,4,t
 92517844,Ruth,2016-08-29,t,within an hour,100%,89%,1,2,f
+112344629,Lan,2017-01-20,t,within an hour,100%,100%,2,4,t
 81315066,Rp,2016-07-02,t,within an hour,100%,88%,3,3,t
 8407330,Christie,2013-08-26,f,within an hour,100%,100%,1,1,t
+158349313,Sadmir,2017-11-11,f,,,,1,2,f
 159932147,Rebecca,2017-11-24,t,within an hour,100%,75%,1,1,t
 160038191,Olawuyi,2017-11-25,f,within an hour,100%,81%,3,3,t
+165102371,Lorraine,2017-12-31,t,,,100%,1,1,t
+40200324,Taylor & Jason,2015-08-01,t,within an hour,100%,99%,4,6,t
+85761896,Pamela,2016-07-24,t,within an hour,100%,100%,1,2,t
+158970875,Adam,2017-11-16,f,a few days or more,0%,0%,1,1,t
 9204262,Jacqueline,2013-10-03,t,within a few hours,100%,94%,1,1,t
 74203278,Roam,2016-05-26,f,within an hour,99%,99%,64,67,t
 102914635,Liam,2016-11-07,t,within a few hours,100%,100%,1,1,t
 8183935,Vlada,2013-08-15,t,within an hour,100%,92%,2,5,t
+73231239,Rory,2016-05-21,f,,,,1,4,t
+127173281,Ilse,2017-04-23,f,,,,2,5,t
 176861109,Montierro,2018-03-05,f,within an hour,100%,100%,4,6,f
 91879760,Leith,2016-08-25,t,within a few hours,100%,100%,1,1,t
 18167901,Cherie,2014-07-15,t,within an hour,100%,97%,6,7,t
+175128084,Mary Grace,2018-02-24,f,,,,3,4,t
+3697334,Carlyle,2012-09-28,f,,,0%,1,1,t
 183034508,Tolu,2018-04-08,t,within an hour,100%,100%,2,2,t
 37841665,Kristen,2015-07-07,f,within an hour,100%,100%,1,2,t
 184170702,Janice,2018-04-14,t,within an hour,100%,100%,17,18,t
@@ -1049,6 +115,8 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 15874551,Paige,2014-05-22,f,within a day,100%,0%,1,1,t
 184891476,William Robert,2018-04-17,f,within an hour,100%,100%,1,3,t
 185671079,Egilio,2018-04-22,t,within a few hours,100%,96%,2,3,t
+185730560,Ruqqia,2018-04-22,f,,,,1,12,f
+186831999,John,2018-04-28,t,,,90%,2,2,t
 101838697,Bryan,2016-10-30,t,within an hour,100%,100%,2,3,t
 116156469,Bill And Katina,2017-02-12,t,within a day,100%,88%,3,4,t
 131850887,Jordan,2017-05-24,f,,,0%,1,1,t
@@ -1061,12 +129,15 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 108713039,Ana,2016-12-27,f,within a day,100%,88%,2,2,t
 185100371,E.Q,2018-04-19,t,within an hour,100%,95%,20,51,t
 28643127,Lisa,2015-03-02,t,within an hour,100%,96%,2,4,t
+111299398,Zac,2017-01-13,f,,,,1,1,t
 201737397,Mutiu,2018-07-12,f,within an hour,100%,100%,1,3,t
 90508671,Johnny,2016-08-17,f,within a day,60%,0%,3,5,t
 11135988,Mary,2014-01-08,t,within an hour,90%,100%,5,5,t
 123302934,Executive Stay,2017-03-29,t,within an hour,100%,99%,8,25,t
+208340512,Teo,2018-08-08,f,,,,1,1,t
 163329984,Laura,2017-12-19,t,within an hour,100%,99%,1,2,t
 210390796,Iresha,2018-08-18,f,,,0%,1,1,f
+211858688,Aizeyosabo,2018-08-26,f,,,,1,1,f
 108753850,Safina,2016-12-27,f,,,100%,1,2,t
 116800314,Tevin,2017-02-17,t,within an hour,100%,100%,1,1,t
 38109052,Michelle,2015-07-10,t,within an hour,100%,96%,2,2,t
@@ -1076,22 +147,34 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 222606237,Christina,2018-10-25,f,,,92%,1,1,t
 199538184,Olamilekan,2018-07-02,t,within an hour,88%,95%,4,4,t
 226116075,Darwin,2018-11-16,f,a few days or more,0%,25%,1,1,f
+226695089,Henry,2018-11-20,f,,,100%,1,1,f
+21822383,Julie,2014-09-26,t,within an hour,100%,93%,1,1,t
+227017023,Marisa,2018-11-22,f,,,100%,1,1,f
+61465737,Sheyi,2016-03-03,f,,,,1,1,t
 313682239,E.Q,2019-12-02,t,within an hour,100%,95%,20,21,t
+110192366,Stay549,2017-01-06,t,within an hour,100%,92%,7,8,t
 155904768,Nini,2017-10-23,f,within an hour,100%,63%,1,1,t
 35874282,Steady Homes,2015-06-15,f,,,0%,2,3,t
+105884901,Stas,2016-12-02,t,within an hour,100%,100%,7,7,t
 120010020,Misty,2017-03-09,f,,,0%,2,2,t
 137404574,Hilda,2017-06-27,t,within a few hours,100%,100%,2,2,t
 134518216,Roy,2017-06-11,f,within an hour,100%,100%,1,1,f
+15818259,Kelly,2014-05-21,f,within a few hours,100%,100%,2,4,f
 236337476,Roxy,2019-01-13,f,within an hour,100%,94%,1,1,t
+134598415,Robert,2017-06-11,f,,,,1,1,f
 1526411,Graham,2011-12-22,t,within an hour,100%,99%,1,1,f
 69578822,MM Properties Wpg,2016-04-29,t,within an hour,100%,99%,5,5,t
 238999894,Mat,2019-01-25,f,within an hour,100%,81%,3,3,t
+239185971,Faisane,2019-01-26,f,,,,1,1,f
 82573513,Evan Chase,2016-07-08,t,within an hour,100%,90%,1,1,t
+240319765,Chris,2019-02-01,f,,,,1,1,f
 203874825,Fatima,2018-07-20,t,within an hour,100%,85%,3,3,t
 66518418,Alyssa,2016-04-09,f,within an hour,100%,0%,1,2,t
+246114376,Scott,2019-03-01,t,within an hour,100%,100%,2,3,t
 206946214,Melanie,2018-08-02,f,,,,3,5,t
 246644202,Kiran,2019-03-03,f,within a day,50%,0%,1,1,t
 249669972,Crystal,2019-03-18,t,within a few hours,100%,97%,3,5,t
+152950826,Hedi,2017-10-02,t,within an hour,100%,90%,1,2,t
 98927265,Pawan,2016-10-09,f,,,0%,1,1,t
 255844093,Katherin,2019-04-14,f,,,,1,5,f
 28742332,Randy,2015-03-04,f,within an hour,100%,96%,1,1,t
@@ -1107,11 +190,15 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 267961977,Greenview,2019-06-11,f,within a few hours,63%,100%,1,1,t
 192346927,Ken And Els,2018-05-29,t,within an hour,100%,93%,2,3,t
 17653348,Moshe,2014-07-04,f,,,,1,1,t
+52798939,Coleen,2015-12-30,f,,,,1,2,t
+163070,David,2010-07-10,t,within an hour,100%,100%,3,3,t
+272132100,Mehari,2019-06-28,f,,,0%,1,2,f
 277396359,Ruth Grace,2019-07-19,t,within an hour,100%,100%,1,1,t
 2292373,Dallas And Carla,2012-05-04,t,within a few hours,100%,82%,4,8,t
 250960597,Chris & Courtney,2019-03-24,t,within an hour,100%,97%,3,3,t
 280201791,Siming,2019-07-28,f,within an hour,100%,95%,2,5,t
 39728595,Jess,2015-07-27,f,,,,1,1,t
+204867329,Claire,2018-07-24,f,,,,1,1,t
 281574286,Sean,2019-08-01,t,within an hour,100%,99%,1,1,t
 282140527,Julie Ann,2019-08-03,f,within an hour,100%,94%,3,3,f
 65125757,Mike,2016-03-30,f,within an hour,100%,98%,3,3,t
@@ -1119,68 +206,104 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 83638615,Chris,2016-07-14,t,within an hour,100%,90%,4,4,t
 108722007,Denis,2016-12-27,t,within an hour,100%,100%,1,1,t
 170362793,Nicole,2018-01-28,t,within a few hours,100%,100%,1,2,t
+547429996,Michelle,2023-11-20,f,,,,2,2,t
 293745142,"Martina, Bruce, And Lauren",2019-09-10,t,within an hour,100%,92%,1,1,t
+79833016,Roam,2016-06-25,f,within an hour,100%,99%,1,1,t
+293079642,Stephanie,2019-09-08,f,,,,2,2,f
 55013632,Karen,2016-01-17,f,within a day,90%,82%,1,2,t
+98853732,John,2016-10-08,t,within an hour,100%,100%,2,6,t
+298663106,Tony And Karen,2019-09-28,t,within an hour,100%,100%,3,3,t
+298544648,JaneAnne,2019-09-28,f,,,100%,1,1,t
 5626785,Caroline,2013-03-25,f,within a day,50%,0%,1,1,t
 163478285,Lateef,2017-12-20,f,,,,1,1,t
 141801009,Criselda,2017-07-22,t,within a day,75%,96%,2,6,t
 304904186,Kelly,2019-10-27,t,within an hour,100%,97%,6,7,t
+304936446,Abel,2019-10-27,t,within an hour,100%,99%,2,2,t
+305572011,Mandipa,2019-10-30,f,,,100%,1,1,t
 119176808,Annie,2017-03-04,t,within a day,100%,69%,2,2,t
 62123717,Jeremie,2016-03-08,f,within an hour,100%,100%,2,2,t
 3127896,Leah,2012-08-01,f,,,100%,1,1,t
 307597595,Kemy,2019-11-06,f,,,100%,3,3,t
+308325854,Sylvester,2019-11-09,f,,,100%,1,1,f
+42343280,Kin Keung,2015-08-24,f,,,0%,1,1,t
 273419083,Elizabeth,2019-07-03,f,within an hour,100%,99%,4,6,t
 309608502,David,2019-11-14,t,within an hour,100%,98%,7,9,t
+313473078,Marty,2019-11-30,f,,,,1,3,t
 44203845,Kat,2015-09-14,f,a few days or more,0%,17%,1,4,t
 314438876,Larry,2019-12-04,t,,,100%,1,1,t
+170655363,Vera,2018-01-29,f,,,,1,1,t
 568999,Chelsea,2011-05-08,f,within an hour,100%,98%,3,4,t
+107713561,Vern,2016-12-18,f,within an hour,100%,100%,1,1,t
 184981743,Alan And Loida,2018-04-18,t,within an hour,100%,88%,3,3,t
 77723885,Helena,2016-06-14,t,within an hour,100%,98%,3,7,t
 329107669,Navneet,2020-01-19,f,within an hour,100%,0%,1,1,f
+19308657,Jordan,2014-08-01,f,,,,3,3,t
+336207432,Sumbal,2020-02-14,f,,,,1,2,f
+336992214,Kirill,2020-02-17,t,within an hour,100%,96%,3,3,t
 325617908,Ashley,2020-01-08,t,within an hour,100%,94%,5,8,t
+340995231,Alex,2020-03-09,f,within an hour,100%,0%,1,1,f
 340959175,Temi,2020-03-09,t,within an hour,100%,100%,1,1,t
 95312694,Azeez,2016-09-15,f,within a few hours,100%,89%,2,2,t
 341920704,Sylvester,2020-03-18,t,within an hour,100%,94%,3,3,t
+27379047,Dorothy,2015-02-07,t,within an hour,100%,100%,1,1,t
 294422265,Susana,2019-09-12,f,within a few hours,100%,100%,1,1,t
 225427538,Ranjit,2018-11-12,f,within an hour,100%,100%,1,1,t
 348144031,Sheriff,2020-05-31,t,within an hour,100%,100%,5,5,t
+30874680,Doug,2015-04-08,t,within an hour,100%,88%,1,1,t
 139114267,Marco,2017-07-07,t,within an hour,90%,98%,1,1,t
 50697287,Amos,2015-12-07,f,within an hour,100%,100%,2,2,t
 298357507,Kevin,2019-09-27,t,within an hour,100%,90%,4,9,t
+358251915,Christiana,2020-07-24,t,within an hour,100%,100%,3,4,t
 178683307,Casey,2018-03-15,f,within an hour,90%,99%,4,4,t
 359352320,Temmie,2020-07-29,f,,,50%,1,1,t
 135314777,James,2017-06-16,f,within an hour,100%,83%,2,4,t
 179270530,Kokeb,2018-03-19,f,within a day,67%,0%,1,1,t
 56931981,Wally,2016-02-01,f,,,100%,2,2,t
 27563486,Luisa & Jayme,2015-02-10,t,within an hour,100%,88%,1,2,t
+304206352,Carly,2019-10-24,f,,,,1,1,f
 367842552,Abdul,2020-09-16,f,within an hour,100%,100%,2,5,t
 210203810,Andrew,2018-08-17,t,within an hour,100%,96%,1,2,t
 41109580,Ritz,2015-08-10,t,within an hour,100%,99%,5,11,t
 18807536,Margherita,2014-07-24,t,within an hour,100%,94%,1,1,t
 14735297,Eunice,2014-04-25,t,within an hour,100%,97%,1,1,t
+83528418,Mary,2016-07-13,f,,,100%,2,2,t
 263787117,Alex,2019-05-23,f,within a few hours,100%,0%,1,2,t
 113426,Azouz,2010-04-25,f,within an hour,100%,,1,2,t
 25149836,Ben & Paige,2014-12-23,t,within an hour,100%,97%,1,4,t
 371072492,Yuliya,2020-10-07,f,within an hour,100%,99%,2,2,t
 374493257,Lianlong,2020-11-04,f,within a day,67%,63%,3,4,f
+375702956,Nazima,2020-11-15,f,,,,1,2,t
 251853488,Cindy,2019-03-28,f,a few days or more,0%,0%,2,2,t
 375945409,David Jeffrey,2020-11-16,t,within an hour,100%,100%,4,7,t
 374292404,Samuel,2020-11-03,t,within an hour,100%,95%,13,13,t
+372801588,Truong,2020-10-21,f,,,,1,1,f
 301681807,Olu,2019-10-11,t,within an hour,100%,99%,3,3,t
+138970567,Musette,2017-07-06,t,within an hour,100%,100%,3,5,t
+165704595,Emmanuel,2018-01-03,f,within an hour,100%,100%,1,1,t
 66841218,Saad,2016-04-12,f,,,50%,2,2,t
 368562151,Branden,2020-09-21,t,within an hour,100%,99%,7,7,t
+173121448,Rogerio,2018-02-12,t,within an hour,100%,100%,3,5,t
+23818975,Heather,2014-11-16,t,within an hour,100%,100%,1,2,t
 384678077,Ifeoluwa,2021-01-15,f,within an hour,100%,97%,1,1,t
 256637440,Anthony,2019-04-18,t,within an hour,100%,96%,1,1,t
 330159,Dylan,2010-12-29,f,,,0%,1,1,t
 54783332,Vialux,2016-01-15,f,within an hour,100%,97%,59,61,t
 382062578,Busuyi,2020-12-28,f,,,0%,1,1,t
+385630285,Avi,2021-01-22,t,within an hour,100%,96%,1,1,t
 122487701,Abi,2017-03-25,t,within an hour,100%,100%,2,2,t
+218226046,Davis,2018-10-01,f,,,100%,2,2,t
 254141373,Jasmeet,2019-04-08,f,within an hour,100%,96%,1,2,t
 390125063,Andrea,2021-02-25,f,within an hour,100%,94%,8,8,t
 221208841,Carmen,2018-10-17,f,,,100%,1,1,t
+391110212,Angela,2021-03-04,t,within an hour,100%,99%,1,1,t
+322217142,Ibrahim,2019-12-29,f,,,0%,1,1,t
+146070721,Roger,2017-08-15,f,,,,1,1,t
 330962278,Abiodun,2020-01-26,f,,,0%,1,1,t
+308391517,Jane,2019-11-09,f,within an hour,100%,100%,3,4,t
 394195167,Ngozi,2021-03-25,f,within an hour,100%,100%,3,3,t
 243723924,Amy,2019-02-17,t,within an hour,100%,92%,1,2,t
+3494549,Efren,2012-09-06,t,within an hour,100%,83%,2,2,t
+144220958,Ifunanya,2017-08-04,t,within an hour,100%,100%,2,2,t
 92641804,Nathan,2016-08-30,t,within an hour,100%,97%,2,2,t
 44966488,Farah,2015-09-23,t,within a few hours,100%,78%,1,1,t
 12859373,Maria,2014-03-06,t,within a few hours,100%,100%,1,2,t
@@ -1188,18 +311,26 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 396535383,Tetsoma,2021-04-11,f,within a few hours,100%,100%,2,3,t
 396126223,Jaime,2021-04-08,f,within an hour,100%,78%,7,8,t
 398054402,Rena,2021-04-21,f,within an hour,100%,98%,1,1,t
+393871664,Damola,2021-03-23,t,within an hour,100%,100%,3,3,t
 135675567,Marina,2017-06-18,f,,,100%,3,3,t
 38677990,Jeremie,2015-07-16,f,within a day,100%,,1,1,f
 145896090,Victoria,2017-08-14,f,within a few hours,100%,43%,2,2,t
+323806357,Nuu,2020-01-02,f,within an hour,100%,100%,7,7,t
 124913178,Nardia,2017-04-08,f,within an hour,100%,96%,9,20,t
 392855589,Katie,2021-03-16,t,within a few hours,100%,100%,2,3,t
 9711247,Mitchell,2013-10-29,t,within an hour,100%,94%,1,1,t
 64679900,Kareem,2016-03-27,f,within an hour,100%,0%,1,5,t
+116808477,Ross,2017-02-17,f,,,,1,1,f
 92041318,Gen,2016-08-26,f,within an hour,100%,88%,1,1,t
 394055253,Joanna,2021-03-24,f,within an hour,100%,100%,1,1,t
+409323685,Darcy & Michelle,2021-06-26,t,within an hour,100%,97%,1,1,t
 409922617,Rana,2021-06-29,f,within an hour,100%,100%,1,3,f
 193471837,Josiah,2018-06-04,f,within an hour,100%,86%,1,4,t
+407705150,Suite Stay,2021-06-17,f,within an hour,100%,97%,5,14,t
 257456574,Erin,2019-04-22,t,within an hour,100%,97%,1,1,t
+17174148,Christopher,2014-06-23,t,within an hour,100%,98%,4,5,t
+335932622,Katarina,2020-02-13,f,,,,1,1,t
+25608286,Figskin,2015-01-04,f,,,,2,4,t
 80006742,Darin,2016-06-26,f,within a day,100%,100%,1,3,f
 411956867,Jenny,2021-07-09,t,within an hour,100%,99%,1,3,t
 181988294,Ivan,2018-04-02,f,within a day,100%,0%,1,1,t
@@ -1207,13 +338,22 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 413186240,Leila,2021-07-15,f,within an hour,100%,68%,7,17,t
 164533656,Terry Junhua,2017-12-27,t,within an hour,90%,100%,1,7,t
 411970522,Lanre,2021-07-09,f,within an hour,100%,82%,3,3,t
+414987277,Ayoola,2021-07-25,t,within an hour,100%,100%,2,2,t
+330747660,Mirna And Nathan,2020-01-26,t,within an hour,100%,100%,1,1,t
+143482754,Diana,2017-07-31,t,within an hour,100%,100%,1,1,t
 387441461,Salvatory,2021-02-05,f,,,0%,2,2,t
 74224801,Brad,2016-05-26,f,within an hour,100%,100%,11,13,t
 42420246,Annette,2015-08-24,f,within an hour,100%,0%,2,5,t
+252632209,Danai,2019-04-01,f,,,42%,1,1,t
+33656509,Oishly,2015-05-18,f,within an hour,100%,100%,1,1,t
+418646993,Innocent,2021-08-15,t,within an hour,100%,97%,1,1,t
 287107029,Lewis,2019-08-19,f,within an hour,100%,100%,2,2,t
 379822752,Ola,2020-12-12,f,within an hour,100%,,1,1,t
 419592825,Sylvia,2021-08-22,t,within an hour,100%,92%,1,1,t
+419664335,Tia,2021-08-22,t,within an hour,100%,99%,1,1,t
+420408102,Adeola,2021-08-27,f,,,0%,3,3,t
 420511753,Babatola,2021-08-28,f,within an hour,100%,67%,4,4,t
+421169286,Hawawu,2021-09-01,f,,,0%,1,1,t
 22019791,Anne Denisse,2014-10-01,t,within an hour,100%,100%,2,3,t
 371824573,Shereen,2020-10-13,t,within an hour,100%,100%,2,3,t
 20534721,Ryan,2014-08-25,f,,,,1,2,t
@@ -1223,6 +363,8 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 424777761,Alex,2021-09-27,t,within an hour,100%,99%,1,6,t
 76538863,Sophia,2016-06-08,t,within a few hours,100%,91%,2,2,t
 425172625,Getaway,2021-09-29,t,within an hour,100%,100%,2,2,t
+425386675,Jaime,2021-09-30,t,within an hour,100%,95%,1,1,t
+84460949,Ebubechukwu,2016-07-18,t,within an hour,100%,96%,1,1,t
 426338917,Liam,2021-10-07,f,within an hour,100%,94%,1,1,t
 361310476,Gustave,2020-08-09,f,,,95%,3,3,t
 72157932,Wpg,2016-05-15,f,within an hour,100%,98%,25,25,t
@@ -1236,27 +378,38 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 26506986,Lorrainne,2015-01-21,t,within an hour,100%,100%,7,8,t
 4858628,Glenda,2013-01-26,t,within an hour,100%,100%,1,1,t
 327081003,Shayna,2020-01-13,t,within an hour,100%,98%,1,1,t
+1551204,Doug,2011-12-30,f,within an hour,100%,100%,2,3,t
 188791381,Sukhi,2018-05-09,f,a few days or more,0%,0%,1,1,t
 429295818,Ola,2021-10-27,f,within an hour,100%,100%,1,1,t
 400495940,Milton,2021-05-07,f,within an hour,100%,100%,1,1,t
 65984536,Kyle,2016-04-05,t,within an hour,100%,99%,7,8,t
 18898066,Andre,2014-07-25,f,,,100%,1,4,t
+93716898,Aggrey,2016-09-05,t,within an hour,100%,94%,1,1,t
 346988041,Ekene,2020-05-21,f,within an hour,100%,97%,3,3,t
 24067918,Andrew,2014-11-23,f,within an hour,100%,100%,1,1,t
 432352648,Craig,2021-11-17,f,within a few hours,100%,68%,7,7,t
 219317062,Easha,2018-10-07,t,within an hour,100%,97%,3,4,t
 125895897,Kara,2017-04-14,t,within an hour,100%,98%,1,1,t
 108315860,Saj,2016-12-24,f,within an hour,100%,97%,1,1,t
+433503539,Lee,2021-11-25,t,within an hour,100%,100%,1,1,t
+176302340,Marc,2018-03-03,t,within an hour,100%,100%,1,1,t
 112291744,Jose,2017-01-19,t,within an hour,100%,91%,1,1,t
 122056108,Javier,2017-03-22,f,within an hour,100%,0%,1,1,t
+10442737,Theresa,2013-12-05,t,within an hour,100%,100%,1,1,t
+128712300,Paige,2017-05-03,t,within an hour,100%,100%,2,3,t
 376327468,Hugh,2020-11-19,f,within a few hours,90%,87%,1,4,t
 432536486,M. Dominic,2021-11-18,f,,,,1,1,t
 204452026,Carl,2018-07-23,f,,,83%,1,1,t
+65407269,Temi,2016-04-01,f,within an hour,100%,100%,1,1,t
+462789524,Ajibola,2022-06-06,f,,,,3,3,t
+54311317,Daniel,2016-01-12,f,within an hour,100%,100%,1,1,t
 201107618,Jessica,2018-07-09,f,within an hour,100%,,1,1,t
 338214186,M2i,2020-02-22,f,,,,4,5,t
 261615263,Lola And Henry,2019-05-13,t,within an hour,100%,95%,2,2,t
+436088702,Owocrown,2021-12-15,f,within an hour,100%,100%,2,3,t
 96715712,Carrie-Lynn,2016-09-25,f,within a few hours,100%,89%,2,3,t
 436312242,Xavier,2021-12-16,f,within an hour,100%,99%,2,2,t
+14688156,Sivan,2014-04-24,f,,,20%,1,2,t
 437095800,John And Katrina,2021-12-22,f,within a day,80%,79%,3,3,t
 437749879,Veberly,2021-12-27,t,,,100%,1,2,f
 51867576,Victoria,2015-12-20,f,,,,1,1,t
@@ -1264,48 +417,75 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 296708205,Krista,2019-09-21,f,within an hour,100%,100%,2,2,t
 440724621,Chinwe,2022-01-16,f,,,100%,1,1,t
 440787943,Sean,2022-01-16,t,within an hour,100%,92%,2,2,t
+78630862,Amaka,2016-06-19,f,within an hour,100%,97%,4,4,t
 309609476,Ibijoke,2019-11-14,f,within an hour,100%,100%,1,1,t
+442121153,Seven,2022-01-25,f,,,,1,1,t
 208357013,LionEagle Stay,2018-08-08,f,within an hour,100%,100%,3,7,t
+442702255,Christine,2022-01-29,t,within an hour,100%,100%,1,1,t
 174680778,Waleed,2018-02-22,f,,,,1,1,t
 125001866,Joseluis,2017-04-09,f,,,100%,1,1,t
 86613683,Michelle,2016-07-28,t,within a few hours,100%,86%,1,1,t
+444079040,James,2022-02-07,t,within an hour,100%,100%,4,4,t
+128307413,David,2017-04-30,f,within an hour,100%,99%,3,3,t
 302803955,Vipan,2019-10-16,t,within an hour,100%,99%,1,2,t
 164636706,Susan,2017-12-28,t,within an hour,100%,100%,1,1,t
+442288643,Adekunle,2022-01-26,t,within an hour,100%,100%,3,3,t
 124976849,Samuel,2017-04-09,f,within a few hours,100%,100%,1,2,t
+446091904,Molly,2022-02-21,t,within an hour,100%,100%,1,1,t
+73117345,Bryce,2016-05-20,t,within an hour,100%,100%,1,1,t
 446410547,Catherine,2022-02-22,t,within an hour,100%,99%,1,1,t
 446643790,Okey,2022-02-24,f,within a few hours,100%,100%,1,1,t
+257848729,Nurudeen,2019-04-24,f,,,,1,5,t
 447143843,Kazeem,2022-02-27,f,within an hour,89%,53%,2,2,t
 123942185,Ash,2017-04-02,f,within an hour,100%,99%,3,3,t
 125825750,Ayo,2017-04-14,f,within an hour,100%,100%,1,1,t
 413273155,Nook,2021-07-16,t,,,100%,1,1,t
+428333759,Martin,2021-10-21,t,within an hour,100%,100%,1,1,t
+451461794,Sheri,2022-03-27,f,,,,1,1,t
 449759805,Prairie,2022-03-15,f,within an hour,100%,100%,1,2,t
 449940289,Chloe,2022-03-16,f,within a few hours,90%,77%,6,6,t
 430397151,Ina,2021-11-04,t,within an hour,100%,100%,1,1,t
 290352701,Fardid Hasan,2019-08-30,f,,,100%,1,1,f
 450311551,Angela,2022-03-19,t,within an hour,100%,97%,1,1,t
+76016934,Michael,2016-06-05,t,within an hour,100%,100%,2,9,t
 42643937,Darla,2015-08-27,t,within an hour,100%,98%,2,2,t
 429841661,Charles,2021-10-31,f,,,100%,1,1,t
 33937219,Paul,2015-05-21,f,within a day,100%,0%,1,1,f
+158769835,Mouhssine,2017-11-14,f,within an hour,100%,100%,2,2,t
 452302265,Ayoleke,2022-04-01,f,within an hour,100%,97%,1,1,t
+445341632,Ashley,2022-02-16,t,within an hour,100%,100%,1,1,t
 172960313,Mohammad,2018-02-12,f,within an hour,100%,100%,1,1,t
 139884314,Florence,2017-07-11,t,within an hour,100%,94%,3,3,t
 121227781,Reanna,2017-03-17,t,within an hour,100%,89%,1,6,t
+450443849,Monissh,2022-03-20,t,within an hour,100%,99%,4,5,t
 7365680,Jennilee,2013-07-08,t,within a day,75%,90%,1,2,t
 68960718,Nitasha,2016-04-26,t,within an hour,100%,96%,1,1,t
+454845403,Meagan,2022-04-18,f,within a few hours,100%,100%,2,2,t
 284720874,Ahmed,2019-08-11,t,within an hour,92%,90%,1,1,t
 367874453,Ruth,2020-09-16,t,within an hour,100%,96%,2,2,t
 455108051,Saheed,2022-04-19,t,within an hour,100%,100%,1,2,t
 174076259,Evan,2018-02-18,t,within an hour,100%,96%,1,2,t
+342103720,Maninder,2020-03-20,f,,,,1,2,t
+373537901,Ola,2020-10-27,t,within an hour,100%,100%,1,1,t
 387213019,Stalin,2021-02-04,t,within an hour,100%,91%,1,1,t
 239380191,Mary,2019-01-27,f,,,80%,1,1,t
+341399288,Pari,2020-03-12,t,within an hour,100%,100%,3,3,t
+456833253,Amie-Camila,2022-04-30,t,within an hour,100%,96%,1,1,t
 338241485,Obinna,2020-02-23,f,within an hour,100%,99%,2,3,t
 315495929,Hope,2019-12-08,f,,,25%,1,2,t
 197334458,Irene & Dario,2018-06-22,t,within an hour,100%,74%,1,1,t
+90222146,Jeremy,2016-08-16,t,within an hour,100%,100%,1,2,t
 245820392,Kurt,2019-02-27,f,within an hour,100%,,1,1,t
+457450168,Joseph & Christy Cozy Suites,2022-05-04,f,,,100%,1,2,t
+457788721,Irmgard,2022-05-06,f,,,,1,1,f
 208740880,Manavi,2018-08-10,f,,,,1,1,t
+23671907,Amy & Hamon,2014-11-12,f,within an hour,100%,100%,1,2,t
 458313730,Alex,2022-05-09,f,within an hour,100%,100%,2,5,t
 389478900,Manjot,2021-02-21,f,,,100%,1,2,f
 78199715,Sandy,2016-06-17,t,within an hour,100%,96%,1,1,t
+459479017,Hofit,2022-05-16,f,within an hour,100%,100%,2,2,t
+283395067,Rochelle,2019-08-06,f,,,,2,3,f
+38974702,Joey,2015-07-19,t,within an hour,100%,94%,1,1,t
 188191480,Jebbin,2018-05-06,t,within an hour,100%,100%,1,2,t
 141768886,Veronica,2017-07-21,f,within an hour,100%,75%,1,1,f
 460918049,LaPaix Stays,2022-05-25,t,within an hour,100%,99%,1,2,t
@@ -1317,14 +497,20 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 363318613,Raveen,2020-08-19,f,,,100%,1,1,t
 109258692,Alexandra,2016-12-31,t,,,63%,1,1,t
 90629172,Mary,2016-08-18,f,within a few hours,100%,90%,1,1,t
+267996187,Uyi,2019-06-12,f,within an hour,100%,100%,1,1,t
 239318754,Mick And Marilyn,2019-01-27,t,within a few hours,100%,94%,1,1,t
 204252057,Emmanuel,2018-07-22,f,within an hour,100%,93%,2,2,t
+194085540,Lisa,2018-06-07,t,within an hour,100%,100%,1,2,t
 252872043,M,2019-04-02,f,within a few hours,100%,,1,1,t
+34315985,Angelica,2015-05-26,f,within an hour,100%,100%,1,1,t
+93824847,Trevor,2016-09-06,f,,,,2,2,t
 465288428,Saheed,2022-06-20,f,within an hour,100%,80%,1,2,t
 465303687,Ben,2022-06-21,t,within an hour,100%,90%,1,1,t
 465375673,Lee,2022-06-21,t,within a few hours,100%,100%,1,1,t
 465414163,Michelle,2022-06-21,t,within an hour,100%,100%,1,1,t
 465435507,Oluwayomi,2022-06-21,f,within an hour,100%,100%,1,1,t
+608418,Jessica,2011-05-20,t,,,100%,1,4,t
+90150257,Sihaam And Said,2016-08-16,t,within an hour,100%,99%,2,2,t
 466392024,Brett,2022-06-27,t,within a few hours,100%,100%,1,1,f
 109017770,Jyoti,2016-12-29,f,,,0%,1,3,t
 36125863,Paul,2015-06-18,t,within an hour,100%,99%,13,13,t
@@ -1333,30 +519,47 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 89719741,Noah,2016-08-13,t,within an hour,100%,97%,1,1,t
 47870775,Gursimran,2015-11-01,f,a few days or more,0%,18%,1,1,f
 499957527,Winnipeg,2023-02-07,t,within an hour,97%,98%,6,6,t
+352383727,Ivy,2020-06-28,t,within an hour,100%,100%,1,1,f
 458645860,Anita,2022-05-11,f,within an hour,100%,100%,1,1,t
 404786703,Bambilyn,2021-06-01,t,within an hour,100%,95%,8,15,t
+437598755,Asher,2021-12-26,f,,,,1,1,t
 374000554,Syed Amir Abbas,2020-10-31,t,within an hour,100%,100%,1,1,t
 469127367,Terry,2022-07-12,f,within an hour,89%,93%,2,2,t
 469710185,Maggie,2022-07-15,t,within an hour,100%,95%,5,5,t
 57590172,Kristin,2016-02-06,f,within an hour,100%,100%,2,2,t
 470276269,Atinuke,2022-07-18,f,within an hour,100%,97%,3,3,t
 189116794,Ebele,2018-05-11,f,within an hour,100%,98%,2,2,t
+173098000,Hinan,2018-02-12,f,,,,2,2,t
+471379735,Victor,2022-07-24,t,within an hour,100%,100%,1,1,f
+103035630,Yutta,2016-11-08,f,,,,1,1,t
 466050732,Princess,2022-06-25,f,within an hour,100%,84%,5,13,t
+314955795,Afeez,2019-12-06,t,within an hour,100%,97%,4,4,t
+458280314,Olaitan,2022-05-09,t,within an hour,100%,99%,1,2,t
 431155439,Tristan,2021-11-09,f,within an hour,100%,64%,1,1,t
 40117487,Ruta,2015-07-31,t,within an hour,100%,99%,2,2,t
+200167560,Tyler,2018-07-05,f,,,0%,1,1,f
 190173415,Daniell,2018-05-17,t,within an hour,100%,97%,5,5,t
+445827435,Fatima,2022-02-19,t,within an hour,100%,100%,1,2,t
 96367686,Joshua,2016-09-22,t,within an hour,100%,100%,1,1,t
 474491836,Dimash,2022-08-11,f,within an hour,100%,100%,3,3,t
 400279201,Hassan,2021-05-06,t,within an hour,100%,86%,1,5,t
+455544304,Suleiman,2022-04-22,f,within a few hours,100%,94%,1,1,t
 433639221,Karen,2021-11-27,f,within an hour,100%,61%,1,1,t
+475028535,Femi,2022-08-14,t,within an hour,100%,100%,1,1,t
+464622639,Manik,2022-06-16,f,,,100%,1,3,f
 475377213,Adedoyin,2022-08-16,t,,,100%,2,3,f
+475539386,Wole,2022-08-17,t,within an hour,100%,100%,1,1,t
 166125558,April,2018-01-06,f,within an hour,90%,99%,2,6,t
+475930156,Amanda,2022-08-20,f,within an hour,100%,100%,1,2,t
 173751313,Jj,2018-02-17,f,within a few hours,90%,79%,1,1,t
 317919490,Kunal,2019-12-16,f,within an hour,100%,92%,2,2,t
 476932751,Helen,2022-08-27,f,within an hour,100%,100%,2,2,t
 477141364,Stefan,2022-08-28,t,within an hour,100%,100%,4,4,t
 214358419,Gbara,2018-09-09,t,within an hour,100%,95%,1,4,t
+289206621,Emmanuel,2019-08-26,f,within an hour,100%,97%,3,5,t
 72603724,Luxxe Host,2016-05-17,t,within an hour,100%,99%,11,11,t
+454339347,Matthew,2022-04-14,f,,,0%,1,2,f
+157151397,Benita,2017-11-02,f,,,100%,1,1,t
 391819018,Daniel,2021-03-09,f,within an hour,100%,96%,3,4,t
 66751493,Trish,2016-04-11,t,within an hour,100%,97%,3,3,t
 436255816,Francis,2021-12-16,t,within an hour,100%,98%,1,1,t
@@ -1365,20 +568,35 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 135852781,Jackie,2017-06-19,f,within an hour,100%,88%,1,1,t
 478633629,Shady,2022-09-08,t,within an hour,100%,100%,3,3,t
 132617289,Neil,2017-05-30,f,within an hour,100%,99%,1,2,t
+120789349,Harsh,2017-03-14,f,within an hour,100%,100%,1,3,t
+190491390,Patricia,2018-05-19,t,within an hour,100%,100%,1,1,t
+280206152,An,2019-07-28,,,,,4,4,f
 479766491,Matthew,2022-09-16,t,within an hour,100%,88%,1,1,t
+57909438,Gabrielle,2016-02-08,f,,,,1,1,f
 480282033,Angela,2022-09-20,f,within an hour,100%,96%,1,1,f
 99144216,June,2016-10-10,f,,,,5,10,t
+412288112,Kim,2021-07-11,f,,,,1,2,f
 35288016,Sadaf,2015-06-08,f,,,100%,1,3,t
 480875037,Brett,2022-09-24,f,within a few hours,100%,100%,1,1,t
+480947763,Hari,2022-09-25,f,,,,1,1,t
+130899788,Donavan,2017-05-18,t,within an hour,100%,100%,1,1,t
 407374913,Rony,2021-06-15,t,within an hour,100%,99%,1,1,t
 31174814,Joanna,2015-04-13,f,within a day,100%,77%,1,1,t
 408029138,Elvis,2021-06-19,t,within a few hours,67%,91%,2,2,f
 269294765,Deepak,2019-06-17,f,a few days or more,0%,88%,1,1,t
 349205781,Nusrat Jahan,2020-06-08,t,within an hour,100%,90%,1,1,t
 157290752,Ibhade,2017-11-03,t,,,95%,1,1,t
+134145647,Faisal,2017-06-08,t,within an hour,100%,97%,2,4,t
+482542956,Adewumi,2022-10-06,f,,,,1,1,t
+397916792,Chris,2021-04-20,f,within an hour,100%,100%,1,1,t
+483049727,Nadiia,2022-10-10,f,,,,1,1,f
 435130187,Ramon,2021-12-07,f,within a few hours,75%,81%,4,6,f
 268838800,Maria,2019-06-15,f,within a few hours,100%,84%,1,2,t
+420313773,A.S Management,2021-08-26,f,within an hour,100%,100%,3,4,t
+160236784,Christine,2017-11-26,f,,,0%,1,2,t
+22029072,Fernando,2014-10-02,f,,,,1,2,t
 69360661,Ali,2016-04-28,f,within an hour,100%,93%,4,4,t
+484764956,Abdul,2022-10-23,f,,,,1,1,f
 200504909,Merryn,2018-07-07,t,within an hour,100%,88%,4,4,t
 232658518,Naman,2018-12-27,t,within an hour,100%,100%,1,1,t
 442302582,Mark,2022-01-26,t,within an hour,100%,100%,1,2,t
@@ -1389,14 +607,20 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 131012555,Priyanka,2017-05-19,f,within an hour,80%,100%,1,2,t
 422350663,Meghan,2021-09-09,t,within an hour,100%,99%,2,2,t
 113434889,Naseer,2017-01-26,t,within an hour,100%,100%,1,1,t
+338502195,Jaskiran,2020-02-24,f,,,,1,1,t
 210947588,BeCey,2018-08-21,t,within an hour,100%,97%,1,1,t
 415683678,Ashley,2021-07-28,t,within an hour,100%,95%,1,1,t
 487101454,Hailetsion,2022-11-09,f,,,84%,1,1,t
 41880116,Francis,2015-08-19,t,within a few hours,90%,91%,2,2,t
+104713910,Erika,2016-11-21,t,within an hour,100%,100%,1,1,f
 487428279,Romeo,2022-11-12,f,within an hour,100%,95%,5,5,f
 188042898,Karl Maverick,2018-05-05,t,within an hour,100%,100%,1,4,t
+487757620,Emmanuel,2022-11-14,t,within an hour,100%,100%,2,2,f
+189966786,Sandy,2018-05-16,f,within an hour,100%,100%,1,1,t
 217273874,Anna,2018-09-25,t,within an hour,100%,100%,1,1,t
+225148376,Vraj,2018-11-10,,within an hour,100%,100%,3,3,t
 157436403,Lisa,2017-11-04,f,,,100%,1,3,t
+328785582,Javier,2020-01-18,t,within an hour,100%,100%,1,1,t
 488907731,Mustafa,2022-11-23,f,within an hour,100%,100%,1,1,f
 488997166,James,2022-11-24,t,within an hour,100%,99%,2,2,t
 477625553,Dave,2022-09-01,f,within an hour,100%,83%,4,5,t
@@ -1409,13 +633,20 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 81768434,Peggie,2016-07-04,f,within an hour,100%,94%,3,3,t
 312790559,Raed,2019-11-28,f,within an hour,100%,99%,3,3,t
 490990684,Ghassan,2022-12-11,t,within an hour,90%,92%,1,1,t
+233944566,Seyi,2019-01-02,t,,,100%,1,1,t
+1510071,Brian,2011-12-16,f,,,,1,1,f
 368298474,Fatine Chaimae,2020-09-19,f,within an hour,100%,31%,1,2,t
 73541988,Tola,2016-05-23,f,,,43%,1,2,t
 492435485,Jasdeep,2022-12-22,f,within an hour,100%,96%,1,1,t
+11630332,Harun,2014-01-25,t,within a day,100%,91%,1,1,t
 334326088,Annie,2020-02-07,f,,,,1,1,t
 493140661,Laraib,2022-12-28,f,,,75%,1,1,f
+493612985,Star,2022-12-31,f,,,100%,1,1,f
 144021650,Marie Hope,2017-08-02,f,,,67%,1,1,t
+493916622,Abigail,2023-01-02,t,within an hour,100%,100%,1,2,t
+217502979,Blue Bell Properties,2018-09-26,t,within an hour,100%,99%,5,5,t
 53173059,Misty,2016-01-03,t,within a few hours,90%,68%,1,2,t
+476827844,Inderjeet,2022-08-26,t,within an hour,100%,100%,7,7,t
 246472728,Sola,2019-03-02,t,,,85%,3,3,t
 354013104,Nike,2020-07-06,t,within an hour,100%,91%,1,4,t
 494639760,Gregory,2023-01-06,f,a few days or more,0%,0%,1,1,f
@@ -1423,15 +654,21 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 161746808,Zoé,2017-12-07,f,a few days or more,0%,81%,1,1,t
 495732633,Len,2023-01-12,f,within an hour,100%,100%,1,1,t
 108882935,Johise,2016-12-28,f,within an hour,100%,96%,1,1,t
+495936866,Yommy,2023-01-13,t,within an hour,100%,98%,2,2,t
 239225423,Jeremiah,2019-01-27,t,within an hour,100%,92%,1,1,t
 25502012,Berina,2015-01-02,t,within an hour,100%,100%,2,2,t
+496853546,Stanislav,2023-01-19,t,within an hour,100%,100%,2,2,t
 82120981,Mustaqeem,2016-07-06,f,within a few hours,100%,17%,2,3,t
+303258505,Elizabeth,2019-10-19,f,within an hour,100%,99%,1,1,t
 497432200,Nathanel,2023-01-22,t,within an hour,100%,99%,4,4,t
 496303026,Perry,2023-01-15,t,within a few hours,100%,80%,4,4,t
 497826843,Lawrence,2023-01-24,f,within a few hours,90%,96%,1,2,f
 476039162,Luxury Rentals,2022-08-21,f,within an hour,100%,100%,1,3,t
+497078358,Sk,2023-01-20,f,a few days or more,0%,0%,1,1,t
+499729139,Taiwo,2023-02-05,f,,,,2,2,f
 498610116,Tianqiao,2023-01-29,f,within an hour,80%,49%,5,5,t
 106423347,Bryan,2016-12-06,t,within an hour,100%,96%,1,1,t
+382181745,Oluwaseun,2020-12-29,t,within an hour,100%,100%,2,2,t
 105960155,Yi,2016-12-02,f,within a few hours,100%,99%,1,2,t
 499260399,Huan,2023-02-02,f,within an hour,100%,98%,2,5,t
 498256345,Funmilayo,2023-01-27,t,within an hour,100%,100%,1,1,f
@@ -1442,7 +679,13 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 323919511,Owen,2020-01-03,t,within an hour,96%,100%,1,1,f
 499870525,Olateju,2023-02-06,f,,,97%,1,1,f
 171141300,Stephen,2018-02-01,t,within an hour,100%,91%,3,3,f
+500948469,Wei,2023-02-13,f,,,0%,1,1,t
+501061263,Kay,2023-02-14,f,,,100%,4,4,t
 495909176,Yetunde,2023-01-13,t,within an hour,100%,89%,4,4,t
+136585047,Kat,2017-06-23,t,within an hour,100%,100%,1,1,f
+500388223,Tolulope,2023-02-09,f,within an hour,100%,100%,1,1,t
+73613959,Wally,2016-05-23,f,,,,1,1,f
+188396400,Sharon,2018-05-07,t,within an hour,100%,100%,1,3,t
 502553547,P,2023-02-24,f,within a few hours,100%,79%,2,2,t
 52574471,Phyllis,2015-12-28,f,within an hour,100%,67%,2,2,t
 128856873,John,2017-05-04,t,within an hour,100%,100%,2,5,t
@@ -1451,11 +694,14 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 504382401,Ayoku,2023-03-07,f,,,92%,1,1,t
 504890496,Abraham,2023-03-11,f,within an hour,100%,100%,1,1,t
 46965605,Obakemi,2015-10-19,t,within an hour,100%,97%,1,1,t
+201086934,Beulah,2018-07-09,f,,,87%,1,1,t
 238338657,Jansen,2019-01-22,f,a few days or more,0%,100%,1,1,t
 215092947,Jingzhou,2018-09-12,t,,,97%,1,1,t
 505609787,Manav,2023-03-15,t,within an hour,100%,100%,1,1,t
+293404010,Jagraj,2019-09-09,f,,,,1,2,t
 345289005,Ugochukwu Stephen,2020-05-03,f,within an hour,100%,100%,3,3,t
 134797550,Braydin,2017-06-12,f,within an hour,100%,100%,1,2,t
+482384570,Nelson,2022-10-05,f,,,,1,2,t
 149889186,Sana,2017-09-09,f,within an hour,100%,89%,4,4,t
 198593303,Carla,2018-06-28,t,,,91%,1,1,t
 173065051,Victoria,2018-02-12,f,within an hour,100%,80%,1,2,t
@@ -1467,27 +713,37 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 251568060,Stanley,2019-03-27,t,within an hour,100%,92%,1,1,t
 508934469,Yusuf,2023-04-07,t,within an hour,93%,98%,1,1,t
 493541570,Mujidat,2022-12-30,t,within an hour,100%,96%,2,2,t
+509040045,Viacheslav,2023-04-07,f,within an hour,100%,100%,1,1,t
 78504236,Angela,2016-06-18,f,within a day,57%,62%,2,4,f
 462708063,Jirah,2022-06-05,f,,,89%,6,7,t
+435942684,Jessi,2021-12-13,t,within an hour,100%,100%,3,3,t
 488338721,Tope,2022-11-19,t,,,100%,1,2,t
 510500368,Accommodation Winnipeg,2023-04-17,t,within an hour,100%,79%,2,2,t
+490654290,Shubham,2022-12-07,f,,,33%,1,2,t
 510638047,Spruce,2023-04-18,t,within an hour,100%,100%,7,7,t
 510362301,Ali,2023-04-16,t,within an hour,100%,100%,2,2,f
 45499469,Jill,2015-10-01,f,within a few hours,100%,100%,1,1,t
 510966484,Vansh,2023-04-20,f,,,25%,1,2,t
 151822828,Hamza,2017-09-23,f,within an hour,90%,94%,2,2,t
+120478876,Demba,2017-03-13,f,,,0%,1,2,t
 146678771,Motunrayo,2017-08-18,f,within an hour,100%,100%,1,2,t
 120127483,Munyaradzi Godfrey,2017-03-10,f,a few days or more,0%,0%,1,1,t
 123007199,Karen,2017-03-28,f,within an hour,100%,100%,2,3,t
+166420371,Vicky,2018-01-07,f,,,100%,1,1,t
+357327563,Virali,2020-07-19,t,within an hour,100%,100%,3,3,t
 97322401,Hannah,2016-09-29,t,within an hour,90%,99%,1,2,t
 512113932,Gaeli,2023-04-27,t,within an hour,100%,100%,3,3,t
 513044735,Omosolape,2023-05-03,f,within an hour,100%,100%,2,3,t
 513603806,Alex,2023-05-07,f,within an hour,100%,100%,2,2,t
 513824776,Abdul,2023-05-08,f,within an hour,100%,100%,1,1,t
 513842647,Samson,2023-05-08,t,within a few hours,100%,78%,3,3,f
+141253798,Sona,2017-07-19,f,,,0%,2,2,t
 7599279,Susan,2013-07-19,t,within an hour,100%,87%,1,7,t
+445527464,Julien,2022-02-17,t,within an hour,100%,78%,1,1,t
 514171247,Sophia,2023-05-10,f,within an hour,100%,96%,1,1,t
 444023000,Henry,2022-02-07,t,within an hour,100%,97%,1,1,f
+144802842,Jeanne,2017-08-07,t,within an hour,100%,100%,1,1,t
+366287857,Oladimeji,2020-09-06,t,within an hour,100%,92%,3,3,t
 516051137,Adefunke,2023-05-22,f,a few days or more,20%,21%,1,1,f
 516057922,Baljinder,2023-05-22,t,within an hour,100%,100%,1,1,f
 516223225,Rita,2023-05-23,f,within an hour,100%,100%,3,4,t
@@ -1498,24 +754,37 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 473389677,Tunde,2022-08-04,f,within an hour,100%,80%,1,1,f
 81322789,Adebukola,2016-07-02,f,,,100%,2,2,t
 385501619,Chris,2021-01-21,t,within an hour,100%,98%,2,2,t
+465211069,Ishan,2022-06-20,f,,,0%,1,1,t
 43532664,Linnea,2015-09-06,t,within an hour,100%,95%,3,3,t
+421655552,Oluseyi,2021-09-04,t,within an hour,100%,100%,1,1,t
 455331517,Carley,2022-04-21,f,within an hour,100%,100%,12,15,t
 30447137,Jonathan,2015-04-01,f,,,0%,1,1,t
+508257433,Moe,2023-04-02,t,within an hour,100%,100%,1,1,t
+147095305,Quinn,2017-08-21,f,,,100%,1,2,t
 219371531,Lanre,2018-10-08,f,within an hour,100%,86%,3,6,t
+125062823,Bilal,2017-04-09,f,,,82%,2,2,f
+394720153,Emeka,2021-03-29,f,within an hour,100%,100%,1,1,t
+353056290,Shakirudeen,2020-07-02,t,within an hour,100%,100%,1,1,t
 317295003,Kunwer,2019-12-14,f,within a few hours,100%,100%,2,2,t
 518978825,Tom,2023-06-08,f,within a few hours,100%,0%,1,2,t
 519621970,Younik Stays,2023-06-12,t,within an hour,100%,100%,1,1,t
 520422090,Jun,2023-06-16,f,within an hour,100%,100%,1,1,t
 520543688,Olalekan,2023-06-17,t,within an hour,100%,98%,1,1,f
 52594260,George,2015-12-28,f,within a few hours,100%,100%,1,2,t
+200598843,Babatola,2018-07-07,t,within an hour,100%,100%,1,4,t
+520833964,Olutade,2023-06-19,f,within an hour,100%,100%,1,1,t
+520850940,Grace,2023-06-19,t,within an hour,100%,100%,2,2,t
 520938504,Mofiyinfoluwa,2023-06-19,t,within an hour,100%,95%,3,3,t
 209633673,Ana,2018-08-15,f,within an hour,100%,100%,1,1,t
+316693274,陶,2019-12-12,f,,,33%,1,1,t
+324752164,Spyros,2020-01-06,t,within an hour,100%,100%,2,2,t
 371275821,Mariam,2020-10-09,t,within an hour,100%,100%,2,2,t
 522260141,Keeno,2023-06-26,f,within a day,100%,88%,1,1,t
 377019941,Francis,2020-11-25,t,within a few hours,100%,92%,3,3,t
 20173373,Riolina,2014-08-17,f,within an hour,100%,100%,2,2,t
 61325524,Enerosa,2016-03-02,f,within an hour,100%,87%,2,2,t
 489637425,Cozystay Signature,2022-11-29,f,within a few hours,80%,57%,125,316,t
+111124273,Kiren,2017-01-12,f,within an hour,100%,100%,1,1,t
 265033899,Chikezie,2019-05-29,f,within an hour,100%,100%,2,2,t
 65920003,Avril,2016-04-05,f,within an hour,100%,100%,1,3,t
 122070124,Carlos,2017-03-22,f,within an hour,100%,65%,1,1,f
@@ -1528,20 +797,29 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 229445801,Kishan,2018-12-06,f,a few days or more,0%,0%,1,1,f
 524336673,Adeniyi,2023-07-07,t,within an hour,100%,100%,1,1,f
 521447034,Sunroop,2023-06-22,t,within an hour,100%,100%,1,1,t
+185061517,Fiogho,2018-04-18,f,within an hour,100%,100%,2,3,t
+228988277,Lan,2018-12-04,f,within an hour,100%,94%,2,2,t
 207755907,Fahad,2018-08-06,f,within an hour,100%,95%,1,1,f
 280872902,Kiu Lam,2019-07-31,t,within an hour,100%,99%,5,5,t
 521145067,Mohd,2023-06-20,t,within an hour,100%,100%,2,4,t
+525372413,Isaac,2023-07-13,t,within an hour,100%,100%,1,1,f
+525676744,Etmen,2023-07-14,t,within an hour,100%,100%,4,4,t
+449923374,Oriana,2022-03-16,t,within an hour,100%,100%,1,1,t
 13610265,Leila,2014-03-27,f,within a few hours,83%,75%,1,1,t
 109560197,Kevin,2017-01-02,f,within an hour,100%,95%,1,1,t
 226696289,Rey,2018-11-20,f,within an hour,100%,94%,1,1,t
 394874347,Uche,2021-03-30,f,within an hour,100%,100%,1,1,t
+526950332,Veerpal,2023-07-20,t,within an hour,100%,100%,1,1,t
 71841563,Kaitlyn,2016-05-13,f,,,,1,1,t
 174927218,Jon,2018-02-23,f,,,,1,1,f
+323249604,Oluwafemi,2020-01-01,f,within an hour,100%,100%,1,3,t
 365348575,Heinz,2020-08-31,f,within an hour,100%,100%,1,1,f
 200198124,Mi,2018-07-05,f,within an hour,100%,100%,1,1,t
 425816789,Seyi,2021-10-03,f,within an hour,100%,100%,2,2,t
 527070318,BESTbodyby,2023-07-21,f,within an hour,100%,89%,1,4,t
 226864685,Abdullah,2018-11-21,f,within a day,100%,50%,1,1,t
+125041161,Abdal,2017-04-09,t,within an hour,100%,100%,1,1,t
+38761552,Marikit,2015-07-17,f,,,,1,3,t
 279143971,Raheem Olabamiji,2019-07-25,f,within a few hours,100%,0%,1,3,t
 67753692,Alexandra,2016-04-18,f,within an hour,100%,80%,1,2,t
 11485362,Steve,2014-01-20,f,within an hour,100%,100%,1,5,t
@@ -1549,18 +827,23 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 495354207,Pillar Property,2023-01-10,f,within a few hours,90%,100%,3,5,t
 466808120,Evans,2022-06-29,f,within an hour,90%,100%,2,2,t
 254143761,Adeyemi,2019-04-08,f,within an hour,100%,67%,1,4,t
+55817662,Aiden,2016-01-23,,within an hour,100%,98%,17,18,t
 529932140,Harjeet,2023-08-04,f,within a few hours,100%,100%,1,2,f
 84993548,Tina,2016-07-20,f,within an hour,100%,100%,1,1,t
 530692914,Simran,2023-08-08,f,within an hour,91%,92%,17,17,t
+524937592,XiaoJuan,2023-07-10,f,,,,1,1,t
 213255097,Toyin,2018-09-03,f,within an hour,100%,85%,3,3,t
 530785576,Bryan,2023-08-09,f,within an hour,100%,50%,1,1,t
 491433686,Sara,2022-12-14,f,within an hour,100%,97%,6,6,t
 370562798,Dave & Vicky,2020-10-04,f,within an hour,100%,100%,1,4,t
 83319824,Wilfred,2016-07-12,f,within an hour,100%,92%,3,3,t
 97837544,Sarah,2016-10-03,f,within a few hours,100%,75%,1,1,t
+487674670,Mayowa,2022-11-14,t,within an hour,100%,96%,1,1,t
 531689491,Manpreet,2023-08-13,f,within an hour,100%,92%,1,3,f
 68156532,Robin,2016-04-20,f,within an hour,100%,100%,1,1,t
+526585142,Simranjit,2023-07-18,f,a few days or more,0%,0%,1,1,f
 496243022,Folakemi,2023-01-15,f,within an hour,100%,58%,1,1,f
+73641054,Alsie,2016-05-23,t,within an hour,100%,97%,1,2,t
 514911299,Valerie,2023-05-15,f,within a few hours,100%,89%,1,1,t
 414325314,Ankit,2021-07-21,f,,,60%,1,1,t
 532019741,Casa,2023-08-15,f,within an hour,100%,100%,1,1,t
@@ -1569,11 +852,14 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 279290285,Akoko,2019-07-25,f,within an hour,100%,100%,1,1,t
 532636522,Curtis,2023-08-18,f,within an hour,100%,88%,1,1,f
 528332194,Sara,2023-07-27,f,within an hour,100%,92%,3,3,t
+400106720,Deeds,2021-05-05,t,within an hour,100%,99%,3,3,t
 70224105,Liz,2016-05-03,f,within an hour,100%,100%,1,1,t
 129054956,Mehrdad,2017-05-05,f,within an hour,100%,71%,1,1,t
 302439140,Laura Marie,2019-10-15,f,within an hour,100%,100%,1,2,t
 232720462,Adeyemi,2018-12-27,f,within an hour,100%,100%,1,1,t
 416866822,Min,2021-08-04,f,within an hour,100%,71%,1,1,t
+533550367,Grace,2023-08-23,f,within an hour,100%,100%,1,2,t
+358040596,Michael,2020-07-23,f,within an hour,100%,100%,1,2,t
 74166042,Ting,2016-05-26,f,within a day,60%,0%,1,1,f
 533922739,Catherine,2023-08-26,t,within an hour,100%,97%,2,2,t
 78697903,Kevin,2016-06-19,f,within a day,100%,100%,1,1,t
@@ -1581,6 +867,7 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 534174465,Nevin,2023-08-27,f,within an hour,100%,88%,1,1,t
 374886746,Samuel,2020-11-08,f,within an hour,100%,100%,1,1,t
 534330936,Sunday,2023-08-28,f,within an hour,100%,100%,1,1,f
+241585267,Marcela,2019-02-06,t,within an hour,100%,100%,2,3,t
 85172751,Amanda,2016-07-21,f,within an hour,90%,96%,1,4,t
 76385957,Patrick And Nikki,2016-06-07,f,within a few hours,100%,91%,1,1,t
 18603278,Jamye,2014-07-21,t,within an hour,100%,100%,1,1,t
@@ -1591,6 +878,7 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 74217129,Ingrid,2016-05-26,f,within an hour,100%,96%,2,3,t
 535889564,Rylen,2023-09-06,f,within a few hours,100%,100%,3,3,t
 535902185,Lovepreet,2023-09-06,t,within an hour,100%,100%,3,3,t
+33064537,Graham,2015-05-10,f,,,0%,1,1,t
 456992018,Ayo,2022-05-01,f,within an hour,100%,67%,1,2,t
 534424102,Chinaza,2023-08-28,f,within an hour,100%,71%,3,3,t
 277411912,Andrei,2019-07-19,f,,,100%,1,1,t
@@ -1610,16 +898,20 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 538622174,Aneka,2023-09-23,f,within an hour,100%,89%,5,5,t
 515908449,John,2023-05-21,f,within an hour,75%,100%,1,1,t
 13874843,Tiffani,2014-04-04,f,within an hour,100%,83%,1,5,t
+538787325,Yemi,2023-09-24,f,within an hour,100%,100%,1,1,t
+538927532,Aksh,2023-09-25,f,within an hour,100%,100%,2,2,t
 207335531,Kaeley,2018-08-04,f,within an hour,100%,94%,1,1,t
 243322733,Keith,2019-02-15,f,within an hour,100%,64%,1,1,t
 187391059,Amahzino,2018-05-02,f,within an hour,100%,100%,1,1,t
 516848815,Raphael,2023-05-27,f,within an hour,100%,81%,1,1,t
+438319281,Pinky,2021-12-31,f,,,,1,1,t
 506327253,Olayinka,2023-03-20,f,within an hour,100%,100%,1,1,t
 134389342,Nicole,2017-06-10,f,within a few hours,100%,,1,1,t
 486160232,Stephanie,2022-11-03,f,within a day,75%,33%,1,2,t
 515905053,Jaspreet,2023-05-21,f,within a few hours,100%,,1,1,f
 537284172,Elora,2023-09-15,f,within an hour,93%,96%,1,2,f
 540066940,Taiwo,2023-10-02,f,within a few hours,90%,100%,2,2,f
+380691857,Khaled,2020-12-18,f,within an hour,100%,100%,1,1,t
 540376852,Holly,2023-10-04,f,within an hour,100%,100%,2,2,t
 459402445,Ghady,2022-05-16,f,within a day,100%,100%,1,2,t
 480346750,Jesse,2022-09-20,f,within a day,100%,,1,5,t
@@ -1629,12 +921,15 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 290284967,Muntaqeem,2019-08-30,f,within a few hours,100%,87%,4,4,t
 176682518,Angie,2018-03-05,f,within an hour,100%,,1,2,t
 541149138,Minh,2023-10-09,f,within an hour,100%,100%,1,1,f
+390363566,Samanta,2021-02-27,f,,,,1,1,t
 416878861,Joshua,2021-08-04,f,within an hour,100%,100%,1,3,f
 148838492,Marcia,2017-09-02,f,within an hour,100%,94%,3,3,f
 299897428,Gurpreet,2019-10-03,f,within an hour,100%,100%,2,2,t
 189299556,Enabulele,2018-05-13,f,within an hour,100%,96%,3,3,t
+542021993,Gloria,2023-10-15,f,within an hour,100%,100%,1,1,t
 542132713,Paris,2023-10-16,f,within an hour,100%,100%,1,1,t
 3239688,Darlene,2012-08-12,f,within a few hours,100%,33%,1,2,t
+542763400,Dickson,2023-10-20,f,within an hour,100%,100%,1,1,t
 130940604,Fabian,2017-05-18,f,within an hour,100%,100%,1,1,t
 302624488,Vishal,2019-10-15,f,a few days or more,0%,,1,1,f
 543047720,Jamshaid,2023-10-23,f,within an hour,100%,100%,1,2,t
@@ -1642,13 +937,16 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 543755582,Adebola,2023-10-27,f,within an hour,88%,80%,1,1,t
 542901226,Yuri Mark,2023-10-22,f,within an hour,100%,100%,1,1,f
 374549894,Rushil,2020-11-05,f,within a few hours,100%,100%,2,2,t
+128632363,Baher,2017-05-02,f,,,,1,1,t
 164180989,Daniyal,2017-12-25,f,within an hour,100%,75%,2,2,t
 35007652,Ashley,2015-06-04,f,within a day,92%,37%,56,64,t
 476763761,Kingsley,2022-08-26,f,within an hour,100%,100%,2,2,t
 468699188,Samira,2022-07-10,f,within an hour,89%,98%,3,4,t
 544908095,Kathleen,2023-11-04,f,within an hour,100%,93%,1,1,f
+297690302,Amritpal,2019-09-24,f,,,,1,1,f
 474302683,Mark,2022-08-10,f,within an hour,100%,96%,1,3,f
 258453591,Gegie,2019-04-27,f,within an hour,100%,0%,1,1,f
+545106994,Ade,2023-11-05,f,within an hour,100%,100%,1,1,f
 216156641,Emmanuel,2018-09-19,f,within a day,100%,,1,1,f
 462098171,Elizabeth,2022-06-01,f,within an hour,100%,80%,1,1,t
 332382744,Rui,2020-01-31,f,within a few hours,100%,100%,1,1,t
@@ -1662,19 +960,25 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 543090164,Jagjit,2023-10-23,f,within an hour,100%,100%,1,1,f
 511275159,Guriqbal,2023-04-22,f,within a day,100%,,1,1,f
 547009785,Esther,2023-11-17,f,a few days or more,0%,,3,3,t
+547263400,Abimbola,2023-11-19,f,within an hour,100%,100%,1,1,t
+547303645,Slava,2023-11-19,f,within an hour,100%,100%,1,1,t
 98814251,Tracy,2016-10-08,f,within an hour,100%,0%,1,2,t
 56031588,Jeremy,2016-01-25,f,,,,1,1,t
 546313273,Ashley,2023-11-13,f,within a few hours,100%,100%,1,1,f
+16223797,Sivan,2014-06-01,f,,,,1,1,f
 548156719,Phi Long,2023-11-25,f,,,,1,1,f
 57657261,Michael,2016-02-06,f,within an hour,100%,0%,1,4,t
 144155834,Lorena,2017-08-03,f,within an hour,100%,67%,1,1,t
 385932576,Sajad,2021-01-25,f,within an hour,100%,100%,3,4,t
+549035431,Muhammad,2023-12-01,f,,,,3,3,f
+308840957,Stacy,2019-11-12,f,within an hour,100%,100%,1,1,t
 549982677,Kyle,2023-12-07,f,within an hour,100%,100%,1,1,f
 518364845,Vasundhra,2023-06-05,f,,,100%,1,1,t
 17970668,Maya,2014-07-11,f,,,,1,1,t
 205771009,Mo,2018-07-28,f,within an hour,100%,100%,1,2,t
 550143904,Romeo,2023-12-08,f,,,,1,1,t
 397628188,Tunde,2021-04-19,f,within an hour,100%,50%,1,2,t
+549703601,Sabina,2023-12-06,f,,,,1,6,t
 96841743,Sam,2016-09-26,f,within a few hours,100%,100%,1,1,t
 196744143,Yaxia,2018-06-20,f,within an hour,100%,100%,1,2,t
 540973948,Abdul,2023-10-08,f,within an hour,100%,80%,1,1,t
@@ -1708,6 +1012,7 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 19068812,Ashley,2014-07-28,t,within an hour,100%,94%,2,2,t
 42762931,Debbie,2015-08-28,f,within a few hours,100%,0%,2,2,t
 9309064,Katherine,2013-10-08,f,within an hour,100%,100%,2,2,t
+45777946,Camelia,2015-10-04,f,within a few hours,100%,100%,2,3,t
 44955677,Wendy,2015-09-23,f,within a few hours,100%,91%,1,1,t
 46180149,Nkemuhuruanya (Regina),2015-10-09,f,within a few hours,90%,88%,3,3,t
 49126625,Krista,2015-11-15,f,within a day,100%,25%,1,1,t
@@ -1725,6 +1030,7 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 60400653,Karin & Mark,2016-02-25,t,within an hour,100%,99%,2,2,t
 95776055,Curtis,2016-09-18,f,within an hour,99%,97%,22,35,t
 97139450,Lai Guen,2016-09-28,f,within a few hours,90%,100%,1,2,f
+97659537,Natalie,2016-10-02,t,within an hour,100%,100%,2,2,t
 3843389,Simone,2012-10-11,f,a few days or more,11%,13%,2,2,t
 103358415,Al,2016-11-11,f,,,,3,3,t
 110655007,Barry & Wendy,2017-01-09,t,within an hour,100%,95%,1,1,t
@@ -1739,6 +1045,7 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 134777230,Julia,2017-06-12,t,,,99%,2,24,t
 103768435,William,2016-11-14,f,within a day,100%,,5,5,t
 5153325,Ron,2013-02-19,f,within an hour,100%,74%,2,3,t
+8332120,Johanna,2013-08-22,f,within an hour,100%,97%,2,4,t
 149271769,Derek,2017-09-05,t,within a few hours,100%,91%,1,1,t
 455475,Dave,2011-03-21,f,within an hour,100%,96%,1,1,f
 92517844,Ruth,2016-08-29,t,within an hour,100%,90%,2,2,f
@@ -1768,6 +1075,7 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 101838697,Bryan,2016-10-30,t,within an hour,100%,100%,1,3,t
 116156469,Bill And Katina,2017-02-12,t,within a few hours,100%,86%,3,4,t
 131850887,Jordan,2017-05-24,f,a few days or more,0%,0%,1,1,t
+188495593,Harvey,2018-05-08,f,,,,1,12,t
 122930869,Justine,2017-03-27,f,within an hour,100%,80%,2,2,t
 169074939,Georgina,2018-01-21,f,within an hour,100%,,1,1,t
 190105304,Donna (& Michael),2018-05-17,f,within an hour,86%,98%,1,1,t
@@ -1797,6 +1105,7 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 35874282,Steady Homes,2015-06-15,f,within a few hours,100%,0%,2,3,t
 105884901,Stas,2016-12-02,t,within an hour,100%,100%,6,6,t
 120010020,Misty,2017-03-09,f,a few days or more,0%,50%,2,2,t
+137404574,Hilda,2017-06-27,t,within an hour,100%,100%,2,2,t
 236337476,Roxy,2019-01-13,f,within an hour,100%,92%,1,1,t
 134598415,Robert,2017-06-11,f,within a day,100%,,1,1,f
 69578822,MM Properties Wpg,2016-04-29,t,within an hour,100%,99%,4,6,t
@@ -1869,6 +1178,7 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 340995231,Alex,2020-03-09,f,,,,1,1,f
 95312694,Azeez,2016-09-15,f,within an hour,100%,89%,1,2,t
 341920704,Sylvester,2020-03-18,t,within an hour,83%,100%,3,3,t
+225427538,Ranjit,2018-11-12,f,,,100%,1,1,t
 348144031,Sheriff,2020-05-31,f,within an hour,100%,100%,5,5,t
 30874680,Doug,2015-04-08,t,within an hour,100%,91%,1,1,t
 139114267,Marco,2017-07-07,t,within an hour,100%,98%,1,1,t
@@ -1876,14 +1186,17 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 359352320,Temmie,2020-07-29,f,,,75%,1,1,t
 135314777,James,2017-06-16,f,within an hour,100%,67%,2,4,t
 179270530,Kokeb,2018-03-19,f,within a day,50%,22%,1,1,t
+56931981,Wally,2016-02-01,f,within an hour,100%,100%,2,2,t
 365974118,Elyse,2020-09-04,f,within an hour,99%,100%,28,28,t
 27563486,Luisa & Jayme,2015-02-10,t,within a few hours,100%,94%,1,2,t
 367842552,Abdul,2020-09-16,t,within an hour,100%,100%,3,3,t
 210203810,Andrew,2018-08-17,t,within an hour,100%,95%,1,2,t
 41109580,Ritz,2015-08-10,f,within an hour,96%,99%,5,11,t
+18807536,Margherita,2014-07-24,t,within an hour,100%,93%,1,1,t
 14735297,Eunice,2014-04-25,t,within an hour,100%,99%,1,1,t
 83528418,Mary,2016-07-13,f,within an hour,71%,100%,2,2,t
 62234439,Jennifer,2016-03-09,t,within an hour,100%,100%,3,6,t
+263787117,Alex,2019-05-23,f,,,0%,1,2,t
 374493257,Lianlong,2020-11-04,f,within a few hours,100%,40%,3,4,f
 251853488,Cindy,2019-03-28,f,a few days or more,40%,0%,2,2,t
 375945409,David Jeffrey,2020-11-16,t,within an hour,100%,100%,5,7,t
@@ -1912,6 +1225,7 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 396126223,Jaime,2021-04-08,f,within an hour,100%,80%,6,7,t
 398054402,Rena,2021-04-21,f,within an hour,100%,97%,1,1,t
 393871664,Damola,2021-03-23,t,within an hour,100%,98%,3,3,t
+38677990,Jeremie,2015-07-16,f,,,,1,1,f
 145896090,Victoria,2017-08-14,f,within a day,100%,50%,2,2,t
 330747660,Mirna And Nathan,2020-01-26,t,within an hour,100%,100%,2,3,t
 124913178,Nardia,2017-04-08,f,within an hour,100%,98%,13,24,t
@@ -1920,8 +1234,10 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 64679900,Kareem,2016-03-27,f,,,0%,1,5,t
 410136679,Fleur,2021-06-30,t,within a few hours,100%,80%,1,1,t
 193471837,Josiah,2018-06-04,f,within an hour,100%,67%,1,4,t
+257456574,Erin,2019-04-22,t,within an hour,100%,93%,1,1,t
 25608286,Figskin,2015-01-04,f,within a day,100%,,2,4,t
 80006742,Darin,2016-06-26,f,within an hour,100%,100%,1,3,f
+411956867,Jenny,2021-07-09,t,within an hour,100%,98%,1,3,t
 181988294,Ivan,2018-04-02,f,,,,1,1,t
 413186240,Leila,2021-07-15,f,within an hour,100%,69%,6,18,t
 164533656,Terry Junhua,2017-12-27,t,within an hour,100%,99%,1,7,t
@@ -1978,6 +1294,7 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 201107618,Jessica,2018-07-09,f,,,,1,1,t
 436088702,Owocrown,2021-12-15,,within an hour,100%,100%,2,3,t
 96715712,Carrie-Lynn,2016-09-25,f,within an hour,100%,86%,1,2,t
+436312242,Xavier,2021-12-16,t,within an hour,100%,99%,2,2,t
 14688156,Sivan,2014-04-24,f,within a day,50%,20%,1,2,t
 437095800,John And Katrina,2021-12-22,f,within a few hours,100%,91%,3,3,t
 437749879,Veberly,2021-12-27,t,within an hour,100%,100%,1,2,f
@@ -1991,7 +1308,9 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 302803955,Vipan,2019-10-16,,within an hour,100%,100%,2,2,t
 442288643,Adekunle,2022-01-26,t,within an hour,100%,100%,2,2,t
 124976849,Samuel,2017-04-09,f,within an hour,100%,100%,1,2,t
+311909855,Chaman,2019-11-24,t,within an hour,100%,100%,2,2,t
 446410547,Catherine,2022-02-22,f,within an hour,100%,100%,1,1,t
+446643790,Okey,2022-02-24,f,within an hour,100%,100%,1,1,t
 447143843,Kazeem,2022-02-27,f,within an hour,100%,69%,2,2,t
 123942185,Ash,2017-04-02,t,within an hour,100%,99%,3,3,t
 176320514,Mary Jane,2018-03-03,f,within an hour,80%,94%,1,2,t
@@ -2026,6 +1345,7 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 389478900,Manjot,2021-02-21,f,within a day,100%,100%,1,2,f
 78199715,Sandy,2016-06-17,t,within an hour,100%,100%,1,1,t
 123007199,Karen,2017-03-28,f,within an hour,100%,100%,3,3,t
+459622536,Douglas,2022-05-17,t,within an hour,100%,100%,1,1,t
 283395067,Rochelle,2019-08-06,t,,,100%,2,3,f
 38974702,Joey,2015-07-19,f,within a few hours,100%,100%,1,1,t
 188191480,Jebbin,2018-05-06,t,within an hour,90%,100%,1,1,t
@@ -2034,6 +1354,7 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 461426343,Rebecca,2022-05-28,t,within an hour,90%,98%,1,1,t
 22591698,Andrea,2014-10-15,f,within an hour,100%,96%,2,2,t
 244047915,Taylor,2019-02-19,t,within an hour,100%,95%,3,4,t
+349174628,Manjot,2020-06-08,f,within an hour,100%,91%,1,1,t
 462098171,Elizabeth,2022-06-01,f,within an hour,100%,87%,1,1,t
 109258692,Alexandra,2016-12-31,t,,,55%,1,2,t
 90629172,Mary,2016-08-18,f,within a day,100%,90%,1,1,t
@@ -2118,6 +1439,7 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 442302582,Mark,2022-01-26,t,within an hour,100%,100%,1,2,f
 247701614,JoAnne,2019-03-08,f,,,96%,2,3,t
 223573739,Phuong Yen,2018-10-31,t,within an hour,100%,97%,1,2,f
+184007908,Jason,2018-04-13,t,within an hour,100%,100%,1,1,t
 197115313,Candy,2018-06-21,f,within an hour,100%,98%,2,2,t
 131012555,Priyanka,2017-05-19,f,within an hour,100%,100%,1,2,t
 422350663,Meghan,2021-09-09,t,within an hour,100%,98%,2,2,t
@@ -2374,6 +1696,7 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 33766481,Nicole,2015-05-19,f,a few days or more,0%,,1,2,t
 20180809,Khalil,2014-08-17,,within an hour,100%,83%,1,1,t
 32130915,Natalie,2015-04-28,,a few days or more,17%,0%,1,1,t
+31253536,Brett,2015-04-15,t,within an hour,100%,100%,1,1,t
 34530369,Lori,2015-05-29,t,within an hour,100%,93%,1,1,t
 34920691,Ryan And Lynsey ( Mostly Lynsey ),2015-06-03,f,within an hour,100%,33%,1,1,t
 28431458,David,2015-02-27,,a few days or more,0%,0%,1,1,t
@@ -2530,12 +1853,14 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 39728595,Jess,2015-07-27,,,,100%,1,1,t
 281574286,Sean And Carolyn,2019-08-01,t,within an hour,100%,96%,1,1,t
 282140527,Julie Ann,2019-08-03,,within an hour,100%,94%,3,3,f
+65125757,Mike,2016-03-30,t,within an hour,100%,98%,3,3,t
 36084423,Maggie,2015-06-17,t,within an hour,100%,100%,4,4,t
 83638615,Chris,2016-07-14,t,within an hour,100%,92%,3,3,t
 108722007,Denis,2016-12-27,,within an hour,100%,100%,1,1,t
 293745142,"Martina, Bruce, And Lauren",2019-09-10,t,within an hour,100%,94%,1,1,t
 293079642,Stephanie,2019-09-08,,a few days or more,0%,0%,2,2,f
 294393552,Muhammad,2019-09-12,,within an hour,100%,100%,2,2,t
+178683307,Casey,2018-03-15,f,within an hour,100%,99%,4,4,t
 55013632,Karen,2016-01-17,f,within a few hours,100%,86%,1,2,t
 298357507,Kevin,2019-09-27,f,within a few hours,100%,93%,6,8,t
 298544648,JaneAnne,2019-09-28,f,,,,1,1,t
@@ -2576,6 +1901,7 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 348144031,Sheriff,2020-05-31,,within an hour,100%,100%,4,4,t
 30874680,Doug,2015-04-08,t,within an hour,100%,92%,1,1,t
 71727619,Tara,2016-05-12,t,within an hour,100%,97%,1,1,t
+139114267,Marco,2017-07-07,t,within an hour,100%,96%,1,1,t
 152349711,Chad,2017-09-27,f,within a day,50%,83%,1,1,f
 359352320,Temmie,2020-07-29,t,within a day,67%,78%,1,1,t
 135314777,James,2017-06-16,,within an hour,100%,75%,1,4,t
@@ -2653,9 +1979,11 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 371824573,Shereen,2020-10-13,t,within an hour,100%,97%,3,3,t
 83089228,Lucky,2016-07-11,f,within an hour,90%,100%,2,2,t
 48635761,Wouter,2015-11-10,f,within an hour,100%,98%,1,4,f
+292051659,Benedicta,2019-09-04,t,within an hour,100%,97%,1,4,t
 423619219,Remi,2021-09-18,,,,100%,1,3,t
 134395448,Robyn,2017-06-10,f,within an hour,96%,99%,21,36,t
 76538863,Sophia,2016-06-08,t,within an hour,100%,92%,2,2,t
+425172625,Getaway,2021-09-29,t,within an hour,100%,99%,2,2,t
 425386675,Jaime,2021-09-30,t,within an hour,100%,98%,1,1,t
 419089447,Joshua,2021-08-18,t,within an hour,100%,100%,1,1,f
 72157932,Wpg,2016-05-15,f,within an hour,100%,100%,17,17,t
@@ -2955,6 +2283,7 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 505609787,Manav,2023-03-15,f,within an hour,100%,100%,1,1,f
 345289005,Ugochukwu Stephen,2020-05-03,,within an hour,100%,100%,1,1,t
 231952019,Nofil,2018-12-22,,within an hour,93%,100%,1,1,t
+149889186,Sana,2017-09-09,f,within an hour,100%,88%,4,4,t
 198593303,Carla,2018-06-28,f,within an hour,100%,100%,1,1,t
 219371531,Lanre,2018-10-08,,within an hour,100%,100%,3,3,t
 499957527,Winnipeg,2023-02-07,f,within an hour,100%,100%,2,2,t
@@ -3017,3 +2346,674 @@ host_id,host_name,host_since,host_is_superhost,host_response_time,host_response_
 394720153,Emeka,2021-03-29,f,,,,1,1,t
 317295003,Kunwer,2019-12-14,f,within an hour,100%,100%,1,1,t
 518978825,Tom,2023-06-08,f,,,,1,2,t
+955449,Silvio,2011-08-11,f,within a few hours,100%,70%,2,3,t
+8145510,Ruth,2013-08-14,t,within an hour,100%,90%,6,6,t
+4997811,Rebecca,2013-02-07,t,within an hour,96%,91%,4,4,t
+970192,Colleen,2011-08-14,f,within an hour,100%,40%,1,1,t
+563380260,Pbg,2024-02-22,f,,,,6,7,t
+23470058,K,2014-11-07,t,within an hour,100%,68%,5,23,t
+71184,Hiroshi & Naomi,2010-01-17,t,within an hour,100%,92%,1,1,t
+31823352,Christene,2015-04-23,f,within an hour,100%,100%,2,6,t
+33077287,Sergio,2015-05-10,t,within an hour,100%,62%,2,3,t
+7608280,Gavin,2013-07-20,t,within a day,100%,54%,3,5,t
+22544786,Gina,2014-10-14,f,within an hour,100%,,1,11,t
+32130915,Natalie,2015-04-28,f,,,0%,1,1,t
+34740382,Angie,2015-06-01,t,,,100%,1,1,t
+28431458,David,2015-02-27,f,,,,1,1,t
+7914034,Sophie,2013-08-03,t,,,100%,1,1,t
+20374475,Alison,2014-08-21,t,within a few hours,100%,100%,3,3,t
+38791285,Rose,2015-07-17,f,within a few hours,100%,73%,3,5,t
+19068812,Ashley,2014-07-28,t,within an hour,100%,95%,2,2,t
+42762931,Debbie,2015-08-28,f,a few days or more,0%,0%,2,2,t
+9309064,Katherine,2013-10-08,f,within a few hours,100%,60%,2,2,t
+45690657,Annabel,2015-10-03,f,within an hour,100%,33%,1,1,f
+44955677,Wendy,2015-09-23,f,within a day,100%,95%,1,1,t
+46180149,Nkemuhuruanya (Regina),2015-10-09,f,within an hour,100%,77%,3,3,t
+49126625,Krista,2015-11-15,f,,,20%,1,1,t
+51959802,Nelma,2015-12-21,f,,,,1,1,f
+17190273,Leroy,2014-06-24,f,within a few hours,60%,82%,2,6,t
+43119179,Deborah,2015-09-01,f,within a day,100%,,1,1,t
+65535254,Tiffany,2016-04-02,f,within a few hours,90%,0%,6,6,f
+49214281,Philip,2015-11-16,f,a few days or more,0%,0%,1,2,t
+88153611,Francis,2016-08-05,f,within an hour,100%,90%,3,4,t
+66027644,Charles,2016-04-06,f,within a day,100%,,1,1,t
+60400653,Karin & Mark,2016-02-25,t,within an hour,100%,97%,1,2,t
+95776055,Curtis,2016-09-18,f,within an hour,88%,97%,20,34,t
+97139450,Lai Guen,2016-09-28,f,within a few hours,100%,89%,1,2,t
+103358415,Al,2016-11-11,f,,,100%,4,5,t
+44467977,Tony & Nina,2015-09-17,t,within an hour,100%,86%,2,2,t
+120967910,Merj,2017-03-15,t,within an hour,100%,100%,3,3,t
+125166589,Aleta,2017-04-10,t,within an hour,88%,100%,1,1,f
+64832612,Faith,2016-03-28,f,within an hour,100%,67%,2,2,t
+40509243,Pierre,2015-08-04,t,within an hour,100%,100%,3,3,t
+11151940,Steph,2014-01-09,t,within an hour,100%,96%,2,4,t
+58881006,Jude,2016-02-15,t,within an hour,100%,90%,1,1,t
+137416520,Mary Jay,2017-06-28,t,within an hour,93%,97%,2,2,t
+114498849,Nest Host,2017-02-02,f,within an hour,100%,96%,73,78,t
+76265808,Carolina,2016-06-07,f,,,,1,3,t
+86138438,Dominique,2016-07-26,t,within an hour,100%,93%,3,21,t
+141354470,Sheri,2017-07-19,t,within an hour,100%,92%,1,1,t
+141392319,Matthew,2017-07-19,t,within an hour,100%,100%,1,1,t
+12547985,Janique,2014-02-24,f,,,,1,1,t
+144343801,Tammy,2017-08-04,t,within an hour,97%,99%,2,2,t
+134777230,Julia,2017-06-12,t,,,100%,2,24,t
+11773408,Morgan & Damon,2014-01-29,t,within an hour,100%,100%,1,1,t
+149271769,Derek,2017-09-05,t,within an hour,100%,95%,1,1,t
+455475,Dave,2011-03-21,t,within an hour,100%,98%,1,1,t
+101847099,Louise,2016-10-30,f,,,,1,2,t
+92517844,Ruth,2016-08-29,t,within a few hours,100%,90%,2,2,f
+81315066,Rp,2016-07-02,t,within a few hours,100%,65%,3,3,t
+8407330,Christie,2013-08-26,f,,,100%,1,1,t
+159932147,Rebecca,2017-11-24,t,,,83%,1,1,t
+160038191,Olawuyi,2017-11-25,f,within an hour,100%,78%,3,3,t
+74203278,Roam,2016-05-26,f,within an hour,100%,99%,66,69,t
+102914635,Liam,2016-11-07,t,within an hour,100%,100%,1,1,t
+8183935,Vlada,2013-08-15,t,within an hour,100%,82%,2,5,t
+176861109,Montierro,2018-03-05,f,within an hour,100%,100%,5,6,f
+91879760,Leith,2016-08-25,t,within an hour,100%,92%,1,1,t
+18167901,Cherie,2014-07-15,t,within an hour,100%,98%,4,7,t
+37841665,Kristen,2015-07-07,f,within a day,80%,60%,1,2,t
+184170702,Janice,2018-04-14,t,within an hour,98%,100%,19,19,t
+15874551,Paige,2014-05-22,f,a few days or more,33%,0%,1,1,t
+184891476,William Robert,2018-04-17,t,within an hour,100%,100%,1,3,t
+185671079,Egilio,2018-04-22,t,within an hour,100%,95%,2,2,t
+101838697,Bryan,2016-10-30,t,within an hour,100%,100%,2,2,t
+766301,Sarah,2011-07-01,f,,,,1,1,t
+131850887,Jordan,2017-05-24,f,within an hour,100%,0%,1,1,t
+122930869,Justine,2017-03-27,f,within a day,50%,67%,2,2,t
+169074939,Georgina,2018-01-21,f,within a day,100%,100%,1,1,t
+25893237,Lynda,2015-01-10,f,a few days or more,0%,,1,1,t
+192561013,Jemal,2018-05-30,f,,,94%,1,2,t
+108713039,Ana,2016-12-27,f,within an hour,100%,100%,2,2,t
+28643127,Lisa,2015-03-02,t,within an hour,100%,98%,2,4,t
+185100371,E.Q,2018-04-19,f,within an hour,100%,92%,19,52,t
+201737397,Mutiu,2018-07-12,f,within an hour,100%,93%,1,3,t
+11135988,Mary,2014-01-08,t,within an hour,100%,100%,4,5,t
+123302934,Executive Stay,2017-03-29,t,within a few hours,100%,99%,8,25,t
+163329984,Laura,2017-12-19,t,within an hour,100%,100%,1,2,t
+210390796,Iresha,2018-08-18,f,,,,1,1,f
+116800314,Tevin,2017-02-17,t,within an hour,100%,98%,1,1,t
+38109052,Michelle,2015-07-10,f,within an hour,100%,83%,1,2,t
+215545724,Robert,2018-09-15,f,within a few hours,100%,100%,1,1,t
+70451075,Celina & David,2016-05-05,f,,,92%,1,1,t
+222606237,Christina,2018-10-25,f,within a few hours,100%,91%,1,1,t
+199538184,Olamilekan,2018-07-02,t,within a few hours,100%,94%,4,4,t
+226116075,Darwin,2018-11-16,f,,,25%,1,1,f
+313682239,E.Q,2019-12-02,t,within an hour,100%,93%,19,24,t
+155904768,Nini,2017-10-23,t,,,63%,1,1,t
+120010020,Misty,2017-03-09,f,a few days or more,0%,0%,2,2,t
+134518216,Roy,2017-06-11,f,within an hour,100%,100%,1,1,t
+236337476,Roxy,2019-01-13,t,within an hour,100%,94%,1,1,t
+1526411,Graham,2011-12-22,t,within an hour,100%,98%,1,1,f
+69578822,Melanie,2016-04-29,t,within an hour,100%,98%,4,4,t
+238999894,Mat,2019-01-25,f,within an hour,100%,86%,3,3,t
+82573513,Evan Chase,2016-07-08,t,within an hour,100%,85%,1,1,t
+241521418,Destiny,2019-02-06,f,within a few hours,80%,50%,1,1,f
+66518418,Alyssa,2016-04-09,f,,,0%,1,2,t
+206946214,Melanie,2018-08-02,f,within a few hours,100%,,3,5,t
+246644202,Kiran,2019-03-03,f,a few days or more,0%,0%,1,1,t
+249669972,Crystal,2019-03-18,t,within a few hours,100%,95%,3,5,t
+98927265,Pawan,2016-10-09,f,a few days or more,0%,0%,1,1,t
+81950151,Laksiri,2016-07-05,t,within a day,100%,100%,1,1,t
+133026564,Vishal,2017-06-01,f,,,100%,1,3,t
+38459934,Corporate Stays,2015-07-14,f,within an hour,98%,88%,431,599,t
+261799192,Wendelina,2019-05-14,f,within an hour,100%,80%,4,5,t
+251997834,Brenda,2019-03-29,f,within a day,86%,100%,2,2,t
+227205574,Joseph,2018-11-23,f,within an hour,100%,94%,1,7,t
+194010985,Eq,2018-06-07,f,within an hour,100%,92%,3,3,t
+267961977,Greenview,2019-06-11,f,within a few hours,75%,100%,1,1,t
+192346927,Ken And Els,2018-05-29,t,,,93%,1,3,t
+277396359,Ruth Grace,2019-07-19,t,within an hour,100%,98%,1,1,t
+2292373,Dallas And Carla,2012-05-04,t,within an hour,100%,81%,4,8,t
+281574286,Sean,2019-08-01,t,within an hour,100%,98%,1,1,t
+83638615,Chris,2016-07-14,t,within an hour,97%,90%,4,4,t
+36084423,Maggie,2015-06-17,t,within an hour,100%,100%,5,7,t
+108722007,Denis,2016-12-27,f,within an hour,100%,100%,1,1,t
+170362793,Nicole,2018-01-28,t,within an hour,100%,97%,1,2,t
+293745142,"Martina, Bruce, And Lauren",2019-09-10,t,within an hour,100%,90%,1,1,t
+55013632,Karen,2016-01-17,f,within a day,75%,78%,1,2,t
+5626785,Caroline,2013-03-25,f,a few days or more,20%,0%,1,1,t
+141801009,Criselda,2017-07-22,t,,,96%,2,6,t
+304904186,Kelly,2019-10-27,t,within an hour,100%,98%,6,7,t
+227976233,Roseanne,2018-11-28,f,within a day,50%,13%,2,2,t
+62123717,Jeremie,2016-03-08,f,within an hour,100%,92%,2,2,t
+3127896,Leah,2012-08-01,t,within a few hours,100%,80%,1,1,t
+307597595,Kemy,2019-11-06,f,within an hour,100%,100%,3,3,t
+273419083,Elizabeth,2019-07-03,f,within an hour,100%,100%,5,6,t
+309608502,David,2019-11-14,t,within an hour,100%,97%,6,7,t
+314438876,Larry,2019-12-04,f,within a day,100%,100%,1,1,t
+568999,Chelsea,2011-05-08,f,within an hour,100%,96%,3,4,t
+184981743,Alan And Loida,2018-04-18,t,within an hour,100%,90%,3,3,t
+77723885,Helena,2016-06-14,t,within an hour,100%,96%,4,7,t
+282284370,Daniel,2019-08-03,f,within an hour,80%,83%,1,7,f
+338214186,M2i,2020-02-22,f,,,,5,5,t
+325617908,Ashley,2020-01-08,t,within an hour,100%,93%,5,8,t
+340959175,Temi,2020-03-09,t,within an hour,100%,99%,1,1,t
+95312694,Azeez,2016-09-15,f,within an hour,100%,93%,2,2,t
+341920704,Sylvester,2020-03-18,t,within a few hours,100%,88%,3,3,t
+294422265,Susana,2019-09-12,f,within an hour,100%,96%,1,1,t
+348144031,Sheriff,2020-05-31,t,within an hour,100%,99%,5,5,t
+50697287,Amos,2015-12-07,f,,,100%,2,2,t
+359352320,Temmie,2020-07-29,f,,,0%,1,1,t
+135314777,James,2017-06-16,t,within an hour,100%,87%,2,4,t
+179270530,Kokeb,2018-03-19,f,within a day,60%,31%,1,1,t
+27563486,Luisa & Jayme,2015-02-10,t,within a day,100%,88%,1,2,t
+367842552,Abdul,2020-09-16,t,within an hour,100%,100%,2,5,t
+210203810,Andrew,2018-08-17,t,within an hour,100%,100%,1,1,t
+41109580,Darwin,2015-08-10,t,within an hour,92%,99%,7,12,t
+14735297,Eunice,2014-04-25,t,within an hour,100%,98%,1,1,t
+124913178,Nardia,2017-04-08,f,within an hour,100%,95%,9,20,t
+25149836,Ben & Paige,2014-12-23,t,within an hour,100%,94%,2,4,t
+371072492,Yuliya,2020-10-07,f,within an hour,100%,100%,2,2,t
+374493257,Lianlong,2020-11-04,f,a few days or more,0%,63%,3,4,f
+251853488,Cindy,2019-03-28,f,,,0%,1,2,t
+376327468,Hugh,2020-11-19,f,within an hour,100%,89%,2,4,t
+374292404,Samuel,2020-11-03,t,within an hour,100%,90%,15,15,t
+128856873,John,2017-05-04,t,within an hour,100%,98%,2,6,t
+301681807,Olu,2019-10-11,t,within an hour,100%,98%,3,3,t
+368562151,Branden,2020-09-21,f,within an hour,100%,100%,7,7,t
+384678077,Ifeoluwa,2021-01-15,t,within an hour,100%,97%,1,1,t
+256637440,Anthony,2019-04-18,t,within a few hours,100%,93%,1,1,t
+330159,Dylan,2010-12-29,f,,,,1,1,t
+382062578,Busuyi,2020-12-28,f,within a few hours,75%,43%,2,2,t
+122487701,Abi,2017-03-25,t,within an hour,100%,99%,2,2,t
+254141373,Jasmeet,2019-04-08,t,within an hour,100%,98%,1,2,t
+390125063,Andrea,2021-02-25,f,within an hour,100%,96%,9,9,t
+393587370,Paul And Priscilia,2021-03-21,f,within an hour,82%,92%,2,2,t
+394195167,Ngozi,2021-03-25,t,within an hour,100%,98%,2,3,t
+243723924,Amy,2019-02-17,t,within an hour,100%,85%,1,2,t
+92641804,Nathan,2016-08-30,t,within an hour,100%,91%,2,2,t
+396535383,Tetsoma,2021-04-11,f,,,100%,2,3,t
+398054402,Rena,2021-04-21,f,within an hour,100%,100%,1,1,t
+135675567,Marina,2017-06-18,f,,,,3,3,t
+392855589,Katie,2021-03-16,t,within a few hours,100%,98%,2,3,t
+9711247,Mitchell,2013-10-29,t,within an hour,100%,87%,1,1,t
+64679900,Kareem,2016-03-27,f,within an hour,100%,,1,5,t
+92041318,Gen,2016-08-26,f,within a day,100%,75%,1,1,t
+394055253,Joanna,2021-03-24,f,within an hour,80%,100%,1,1,t
+409922617,Rana,2021-06-29,f,,,100%,1,3,f
+410136679,Fleur,2021-06-30,f,,,71%,1,1,t
+80006742,Darin,2016-06-26,f,,,100%,1,3,f
+28288189,Desneige,2015-02-24,t,within an hour,100%,97%,1,1,t
+164533656,Terry Junhua,2017-12-27,f,within an hour,80%,100%,1,7,t
+411970522,Lanre,2021-07-09,f,,,100%,3,3,t
+387441461,Salvatory,2021-02-05,f,within an hour,100%,67%,1,1,t
+74224801,Brad,2016-05-26,t,within an hour,100%,99%,11,13,t
+42420246,Annette,2015-08-24,f,within a few hours,100%,0%,2,5,t
+417387929,Delcina,2021-08-07,f,a few days or more,0%,0%,1,1,t
+287107029,Lewis,2019-08-19,f,within an hour,100%,100%,3,7,t
+379822752,Ola,2020-12-12,f,,,,1,1,t
+419592825,Sylvia,2021-08-22,t,within an hour,100%,90%,1,1,t
+420511753,Babatola,2021-08-28,f,within an hour,100%,80%,3,3,t
+22019791,Anne Denisse,2014-10-01,t,within an hour,100%,98%,1,3,t
+371824573,Shereen,2020-10-13,t,within an hour,100%,100%,3,3,t
+423619219,Remi,2021-09-18,f,,,0%,1,3,t
+134395448,Robyn,2017-06-10,f,within an hour,100%,100%,18,35,t
+424777761,Alex,2021-09-27,f,within an hour,100%,100%,3,7,t
+76538863,Sophia,2016-06-08,t,within a few hours,100%,92%,3,3,t
+426338917,Liam,2021-10-07,f,within an hour,100%,92%,1,1,t
+361310476,Gustave,2020-08-09,f,within a day,50%,82%,3,3,t
+72157932,Wpg,2016-05-15,f,within an hour,98%,98%,23,25,t
+54207218,Zachary,2016-01-11,t,within an hour,100%,100%,2,2,t
+365974118,Elyse,2020-09-04,f,within an hour,97%,100%,6,6,t
+289694152,Ak,2019-08-27,f,within an hour,100%,25%,1,1,t
+161647684,Jarek,2017-12-06,t,within an hour,100%,93%,1,1,t
+395850022,Jessica,2021-04-06,t,within an hour,100%,85%,3,7,t
+83763635,Gilles,2016-07-14,t,within an hour,100%,100%,4,4,t
+26506986,Lorrainne,2015-01-21,t,within an hour,100%,99%,9,10,t
+4858628,Glenda,2013-01-26,t,within a day,67%,100%,1,1,t
+327081003,Shayna,2020-01-13,t,within an hour,100%,96%,1,1,t
+188791381,Sukhi,2018-05-09,f,within a day,50%,0%,1,1,t
+429295818,Ola,2021-10-27,t,,,100%,1,1,t
+400495940,Milton,2021-05-07,f,within an hour,100%,88%,1,1,t
+65984536,Kyle,2016-04-05,t,within an hour,100%,100%,6,8,t
+346988041,Ekene,2020-05-21,f,within an hour,100%,95%,3,3,t
+24067918,Andrew,2014-11-23,t,within an hour,100%,100%,1,3,t
+219317062,Easha,2018-10-07,t,within an hour,100%,97%,4,5,t
+125895897,Kara,2017-04-14,t,,,100%,1,1,t
+108315860,Saj,2016-12-24,f,within an hour,100%,93%,1,1,t
+112291744,Jose,2017-01-19,t,within an hour,100%,87%,1,1,t
+204452026,Carl,2018-07-23,f,within a few hours,100%,100%,1,1,t
+201107618,Jessica,2018-07-09,f,within an hour,100%,100%,1,1,t
+436464214,Kafayat,2021-12-18,f,within an hour,100%,86%,2,2,t
+96715712,Carrie-Lynn,2016-09-25,f,within an hour,100%,88%,2,3,t
+437095800,John And Katrina,2021-12-22,f,within an hour,100%,61%,3,3,t
+437749879,Veberly,2021-12-27,f,within an hour,100%,100%,1,2,f
+176320514,Mary Jane,2018-03-03,f,within an hour,90%,93%,2,2,t
+296708205,Krista,2019-09-21,t,within an hour,100%,100%,2,2,t
+440724621,Chinwe,2022-01-16,f,,,,1,1,t
+440787943,Sean,2022-01-16,t,within an hour,100%,93%,2,2,t
+309609476,Ibijoke,2019-11-14,f,within a day,67%,25%,1,1,t
+208357013,LionEagle Stay,2018-08-08,f,within an hour,100%,100%,1,6,t
+86613683,Michelle,2016-07-28,t,,,92%,1,1,t
+302803955,Vipan,2019-10-16,t,within an hour,100%,98%,2,2,t
+446410547,Catherine,2022-02-22,f,within an hour,100%,98%,1,1,t
+447143843,Kazeem,2022-02-27,f,within an hour,100%,54%,2,2,t
+123942185,Ash,2017-04-02,f,within an hour,100%,99%,4,4,t
+125825750,Ayo,2017-04-14,f,,,100%,1,1,t
+413273155,Nook,2021-07-16,t,within an hour,100%,100%,1,1,t
+430397151,Ina,2021-11-04,t,within an hour,100%,99%,1,1,t
+450311551,Angela,2022-03-19,t,within an hour,90%,94%,1,1,t
+42643937,Darla,2015-08-27,f,within an hour,100%,98%,2,2,t
+33937219,Paul,2015-05-21,f,within an hour,100%,0%,1,1,f
+452302265,Ayoleke,2022-04-01,f,,,96%,1,1,t
+172960313,Mohammad,2018-02-12,t,within an hour,100%,100%,1,1,t
+139884314,Florence,2017-07-11,f,within an hour,100%,98%,2,3,t
+453760248,Olayiwola,2022-04-11,f,,,0%,1,1,f
+121227781,Reanna,2017-03-17,t,within a day,100%,86%,1,6,t
+7365680,Jennilee,2013-07-08,f,within a day,86%,90%,1,2,t
+68960718,Nitasha,2016-04-26,t,within an hour,100%,94%,1,1,t
+367874453,Ruth,2020-09-16,t,within an hour,100%,99%,1,2,t
+174076259,Evan,2018-02-18,t,within an hour,100%,91%,1,2,t
+387213019,Stalin,2021-02-04,t,within an hour,100%,83%,1,1,t
+315495929,Hope,2019-12-08,f,,,0%,1,2,t
+197334458,Irene & Dario,2018-06-22,t,within an hour,100%,70%,1,1,t
+245820392,Kurt,2019-02-27,f,,,,1,1,t
+389478900,Manjot,2021-02-21,f,,,,1,2,f
+78199715,Sandy,2016-06-17,t,within an hour,100%,95%,1,1,t
+188191480,Jebbin,2018-05-06,t,,,100%,1,2,t
+141768886,Veronica,2017-07-21,f,within a few hours,86%,86%,1,1,f
+460918049,LaPaix Stays,2022-05-25,t,within an hour,100%,100%,2,2,t
+461293333,Jonathon,2022-05-27,f,within an hour,100%,82%,2,4,t
+338241485,Obinna,2020-02-23,f,within an hour,100%,98%,1,2,t
+22591698,Andrea,2014-10-15,f,,,95%,2,2,t
+244047915,Taylor,2019-02-19,f,within an hour,100%,92%,3,4,t
+363318613,Raveen,2020-08-19,f,,,,1,1,t
+109258692,Alexandra,2016-12-31,t,within an hour,100%,83%,2,2,t
+90629172,Mary,2016-08-18,f,within an hour,100%,97%,1,1,t
+239318754,Mick And Marilyn,2019-01-27,t,,,93%,1,1,t
+204252057,Emmanuel,2018-07-22,f,within an hour,100%,96%,2,2,t
+465288428,Saheed,2022-06-20,f,within a few hours,100%,69%,1,2,t
+465303687,Ben,2022-06-21,f,within an hour,100%,92%,1,1,t
+465414163,Michelle,2022-06-21,f,within an hour,100%,100%,1,1,t
+465435507,Oluwayomi,2022-06-21,t,within an hour,100%,100%,1,2,t
+466392024,Brett,2022-06-27,t,within an hour,100%,100%,1,1,t
+109017770,Jyoti,2016-12-29,f,,,,1,4,t
+36125863,Paul,2015-06-18,t,within an hour,98%,97%,13,13,t
+244962690,Jon,2019-02-23,t,within a few hours,100%,96%,1,1,t
+404190157,Osama,2021-05-29,f,a few days or more,0%,83%,1,1,t
+89719741,Noah,2016-08-13,t,within an hour,100%,98%,1,1,t
+47870775,Gursimran,2015-11-01,f,a few days or more,0%,0%,1,1,f
+458645860,Anita,2022-05-11,f,within a few hours,100%,100%,1,1,t
+404786703,Bambilyn,2021-06-01,t,within an hour,100%,97%,5,16,t
+374000554,Syed Amir Abbas,2020-10-31,f,within an hour,100%,100%,1,1,t
+469127367,Terry,2022-07-12,f,within an hour,100%,94%,2,2,t
+469710185,Maggie,2022-07-15,t,within an hour,100%,93%,5,5,t
+470276269,Atinuke,2022-07-18,f,within an hour,100%,91%,3,3,t
+189116794,Ebele,2018-05-11,t,within an hour,100%,93%,2,2,t
+466050732,Princess,2022-06-25,f,within an hour,100%,77%,3,13,t
+190173415,Daniell,2018-05-17,t,within an hour,100%,99%,5,5,t
+96367686,Joshua,2016-09-22,f,within a few hours,100%,100%,1,1,t
+474491836,Dimash,2022-08-11,f,within an hour,100%,98%,3,3,t
+400279201,Hassan,2021-05-06,f,within an hour,100%,67%,1,2,t
+475377213,Adedoyin,2022-08-16,f,within a few hours,100%,100%,2,3,t
+108753850,Safina,2016-12-27,f,within a few hours,100%,50%,3,4,t
+166125558,April,2018-01-06,f,within an hour,100%,99%,1,5,t
+476932751,Helen,2022-08-27,f,,,100%,2,2,t
+477141364,Stefan,2022-08-28,t,within an hour,100%,98%,4,4,t
+214358419,Gbara,2018-09-09,t,within an hour,100%,93%,3,4,t
+72603724,Luxxe Host,2016-05-17,t,within an hour,100%,99%,13,13,t
+391819018,Daniel,2021-03-09,f,within an hour,100%,91%,3,4,t
+66751493,Trish,2016-04-11,t,within an hour,100%,96%,3,3,t
+436255816,Francis,2021-12-16,t,,,98%,1,1,t
+478092402,Julie,2022-09-04,t,,,94%,1,1,t
+44942967,Ian,2015-09-23,t,within an hour,100%,88%,2,2,t
+135852781,Jackie,2017-06-19,f,within an hour,100%,87%,1,1,t
+478633629,Shady,2022-09-08,f,,,100%,3,3,t
+479766491,Matthew,2022-09-16,t,within an hour,100%,73%,1,1,t
+480282033,Angela,2022-09-20,t,within an hour,100%,95%,1,1,f
+99144216,June,2016-10-10,f,within an hour,100%,,5,10,t
+480875037,Brett,2022-09-24,f,within an hour,100%,100%,1,1,t
+203874825,Fatima,2018-07-20,t,within an hour,100%,84%,2,3,t
+407374913,Rony,2021-06-15,t,within an hour,100%,100%,1,1,t
+31174814,Joanna,2015-04-13,f,within a day,100%,72%,1,1,t
+408029138,Elvis,2021-06-19,t,within an hour,100%,91%,2,2,f
+269294765,Deepak,2019-06-17,f,,,88%,1,1,t
+349205781,Nusrat Jahan,2020-06-08,t,within an hour,100%,94%,1,1,t
+157290752,Ibhade,2017-11-03,t,,,100%,1,1,t
+435130187,Ramon,2021-12-07,f,within a few hours,90%,86%,4,6,t
+268838800,Maria,2019-06-15,f,within a day,70%,69%,1,2,t
+69360661,Ali,2016-04-28,f,within an hour,100%,90%,5,5,t
+200504909,Merryn,2018-07-07,t,within a few hours,100%,90%,4,4,t
+442302582,Mark,2022-01-26,t,within an hour,100%,95%,2,2,t
+247701614,JoAnne,2019-03-08,f,,,75%,2,3,t
+197115313,Candy,2018-06-21,f,within an hour,100%,98%,4,4,t
+422350663,Meghan,2021-09-09,t,within an hour,100%,100%,2,2,t
+113434889,Naseer,2017-01-26,f,within an hour,100%,100%,1,1,t
+210947588,BeCey,2018-08-21,t,within a few hours,100%,97%,1,1,t
+415683678,Ashley,2021-07-28,t,within an hour,100%,93%,1,1,t
+487101454,Hailetsion,2022-11-09,f,,,58%,1,1,t
+41880116,Francis,2015-08-19,t,within an hour,100%,89%,2,2,t
+487428279,Romeo,2022-11-12,f,within an hour,100%,90%,3,5,f
+188042898,Karl Maverick,2018-05-05,t,within an hour,100%,99%,1,4,t
+217273874,Anna,2018-09-25,f,within an hour,100%,100%,1,1,t
+488907731,Mustafa,2022-11-23,f,,,100%,1,1,f
+488997166,James,2022-11-24,t,within an hour,100%,100%,2,2,t
+489217274,Sarbjeet,2022-11-26,f,,,,1,1,f
+90847578,Mary,2016-08-19,f,,,80%,1,1,t
+490001277,Brayden,2022-12-02,t,within an hour,100%,93%,12,13,t
+183034508,Tolu,2018-04-08,t,within an hour,100%,100%,1,2,t
+108393150,Ikenna,2016-12-25,t,within an hour,100%,97%,3,3,t
+81768434,Peggie,2016-07-04,f,within an hour,100%,96%,2,3,t
+312790559,Raed,2019-11-28,f,within an hour,100%,100%,3,3,t
+490990684,Ghassan,2022-12-11,t,within an hour,100%,90%,1,1,t
+368298474,Fatine Chaimae,2020-09-19,f,within a day,100%,31%,1,2,t
+73541988,Tola,2016-05-23,f,,,0%,1,2,t
+492435485,Jasdeep,2022-12-22,f,within an hour,100%,97%,1,1,t
+334326088,Annie,2020-02-07,f,a few days or more,0%,,1,1,t
+493140661,Laraib,2022-12-28,f,,,,1,1,f
+144021650,Marie Hope,2017-08-02,f,,,0%,1,1,t
+53173059,Misty,2016-01-03,t,within an hour,100%,68%,1,2,t
+246472728,Sola,2019-03-02,t,,,88%,3,3,t
+494639760,Gregory,2023-01-06,f,,,0%,1,1,f
+119677065,Vahab,2017-03-07,f,within an hour,100%,60%,1,2,t
+108882935,Johise,2016-12-28,f,within an hour,100%,97%,1,1,t
+239225423,Jeremiah,2019-01-27,t,within an hour,100%,90%,1,1,t
+25502012,Berina,2015-01-02,t,within an hour,100%,100%,3,4,t
+82120981,Mustaqeem,2016-07-06,f,,,25%,2,3,t
+497432200,Nathanel,2023-01-22,f,within an hour,100%,99%,5,5,t
+496303026,Perry,2023-01-15,t,within a few hours,100%,86%,4,4,t
+497826843,Lawrence,2023-01-24,t,within an hour,100%,96%,1,2,f
+498610116,Tianqiao,2023-01-29,f,within an hour,71%,49%,5,5,t
+106423347,Bryan,2016-12-06,t,,,94%,1,1,t
+41268859,Janelle,2015-08-12,f,within a day,86%,75%,2,3,t
+105960155,Yi,2016-12-02,f,within an hour,100%,99%,2,3,t
+499260399,Huan,2023-02-02,f,within an hour,71%,97%,2,4,t
+498256345,Funmilayo,2023-01-27,t,within an hour,100%,100%,1,1,t
+385506620,Glory,2021-01-21,f,,,77%,1,1,t
+471674834,Enrique,2022-07-26,f,within an hour,100%,79%,1,1,f
+500047144,Oleksandra,2023-02-07,f,,,,1,1,f
+323919511,Owen,2020-01-03,t,within an hour,95%,100%,1,1,f
+499870525,Olateju,2023-02-06,f,within a day,100%,97%,1,1,f
+482635349,Temitope,2022-10-07,f,within an hour,100%,83%,7,9,t
+171141300,Stephen,2018-02-01,t,within an hour,100%,92%,3,3,f
+495909176,Yetunde,2023-01-13,t,within an hour,100%,87%,4,4,t
+52574471,Phyllis,2015-12-28,f,within an hour,100%,70%,2,2,t
+284745146,Menandro,2019-08-11,t,within an hour,67%,83%,1,1,t
+53461430,Grant,2016-01-05,f,,,0%,1,1,t
+504382401,Ayoku,2023-03-07,f,,,100%,1,1,t
+504890496,Abraham,2023-03-11,t,within an hour,100%,97%,1,1,t
+46965605,Obakemi,2015-10-19,t,within an hour,100%,98%,1,1,t
+238338657,Jansen,2019-01-22,f,within an hour,100%,100%,1,1,t
+505609787,Manav,2023-03-15,t,within an hour,100%,99%,1,1,t
+345289005,Ugochukwu Stephen,2020-05-03,f,within a few hours,100%,33%,4,4,t
+134797550,Braydin,2017-06-12,t,within a few hours,100%,100%,1,2,t
+198593303,Carla,2018-06-28,t,,,91%,2,2,t
+173065051,Victoria,2018-02-12,f,within a few hours,83%,71%,1,1,t
+219371531,Lanre,2018-10-08,f,within an hour,100%,85%,6,7,t
+499957527,Winnipeg,2023-02-07,t,within an hour,100%,98%,5,7,t
+486626786,Sergio,2022-11-06,f,within an hour,100%,89%,1,1,t
+499376912,Jeanvive,2023-02-03,t,within an hour,100%,100%,3,4,t
+32686835,Rajbir,2015-05-05,f,within an hour,100%,97%,1,1,t
+212884088,Stanley,2018-08-31,f,,,80%,1,1,t
+179644049,Hilary,2018-03-20,f,within a few hours,100%,81%,1,4,t
+508934469,Yusuf,2023-04-07,f,within an hour,96%,97%,1,1,t
+493541570,Mujidat,2022-12-30,t,within an hour,100%,97%,1,2,t
+78504236,Angela,2016-06-18,f,,,62%,2,4,f
+462708063,Jirah,2022-06-05,f,,,89%,7,8,t
+488338721,Tope,2022-11-19,t,within a day,50%,67%,1,1,t
+510500368,Accommodation Winnipeg,2023-04-17,t,within an hour,100%,80%,2,2,t
+510638047,Spruce,2023-04-18,t,within an hour,100%,99%,7,7,t
+45499469,Jill,2015-10-01,f,within an hour,100%,100%,1,1,t
+510966484,Vansh,2023-04-20,f,a few days or more,0%,25%,1,2,t
+151822828,Hamza,2017-09-23,f,within an hour,100%,92%,1,2,t
+146678771,Motunrayo,2017-08-18,f,within a few hours,100%,100%,1,2,t
+120127483,Munyaradzi Godfrey,2017-03-10,f,within an hour,100%,0%,1,1,t
+123007199,Karen,2017-03-28,f,within an hour,100%,98%,2,3,t
+97322401,Hannah,2016-09-29,f,within an hour,100%,97%,1,2,t
+512113932,Gaeli,2023-04-27,t,,,100%,3,3,t
+513044735,Omosolape,2023-05-03,f,within a few hours,100%,100%,2,3,t
+513603806,Alex,2023-05-07,f,within an hour,100%,100%,1,2,t
+513824776,Abdul,2023-05-08,t,within an hour,100%,100%,1,1,t
+513842647,Samson,2023-05-08,t,,,78%,3,3,t
+7599279,Susan,2013-07-19,t,within an hour,100%,90%,1,7,t
+514171247,Sophia,2023-05-10,t,within an hour,100%,91%,1,1,t
+444023000,Henry,2022-02-07,t,within an hour,100%,98%,1,1,f
+239490047,Alyson,2019-01-28,f,within an hour,100%,98%,1,1,t
+290538196,Joseph & Grace,2019-08-31,f,,,100%,1,1,t
+516051137,Adefunke,2023-05-22,f,a few days or more,0%,19%,1,1,f
+516057922,Veerpal,2023-05-22,t,within an hour,100%,100%,1,1,t
+516223225,Rita,2023-05-23,f,within a few hours,100%,100%,3,3,t
+464282012,Shaun,2022-06-14,f,,,0%,1,1,f
+516570011,Atul,2023-05-25,f,within an hour,100%,99%,4,4,t
+517034752,Nate,2023-05-28,t,within an hour,100%,100%,5,5,t
+473389677,Tunde,2022-08-04,t,within an hour,100%,85%,1,1,f
+43532664,Linnea,2015-09-06,t,within an hour,100%,94%,3,3,t
+455331517,Carley,2022-04-21,f,within an hour,100%,100%,12,13,t
+30447137,Jonathan,2015-04-01,f,within a day,50%,0%,1,1,t
+317295003,Kunwer,2019-12-14,f,within a few hours,90%,96%,1,1,t
+519621970,Younik Stays,2023-06-12,t,,,100%,1,1,t
+520018640,Neema,2023-06-14,f,,,100%,1,1,t
+520543688,Olalekan,2023-06-17,t,within a few hours,93%,96%,1,1,f
+296520314,Ayo,2019-09-20,t,within a few hours,100%,70%,1,1,f
+520938504,Mofiyinfoluwa,2023-06-19,t,within a few hours,100%,96%,3,3,t
+209633673,Ana,2018-08-15,t,within an hour,100%,100%,1,1,t
+371275821,Mariam,2020-10-09,t,within an hour,100%,99%,2,2,t
+522260141,Keeno,2023-06-26,t,within an hour,100%,92%,1,1,t
+377019941,Francis,2020-11-25,t,within an hour,100%,93%,3,3,t
+20173373,Riolina,2014-08-17,f,within an hour,100%,100%,1,2,t
+61325524,Enerosa,2016-03-02,f,within a few hours,100%,87%,2,2,t
+65920003,Avril,2016-04-05,t,within an hour,100%,100%,1,3,t
+489007478,Alex,2022-11-24,f,within an hour,100%,100%,2,3,t
+523794749,Humble And Grand,2023-07-04,f,within an hour,100%,100%,2,2,t
+191390482,Charlotte,2018-05-24,f,within an hour,100%,94%,1,1,t
+76132371,Diku,2016-06-06,f,within an hour,100%,100%,2,2,t
+524336673,Adeniyi,2023-07-07,f,within a few hours,100%,100%,1,1,f
+207755907,Fahad,2018-08-06,f,within an hour,100%,96%,1,1,f
+521145067,Mohd,2023-06-20,f,within an hour,100%,100%,3,6,t
+477625553,Dave,2022-09-01,f,within an hour,100%,86%,2,5,t
+13610265,Leila,2014-03-27,t,within an hour,100%,62%,1,1,t
+109560197,Kevin,2017-01-02,t,,,95%,1,1,t
+168181344,Maria,2018-01-16,f,,,,1,1,f
+226696289,Rey,2018-11-20,t,within an hour,100%,85%,1,1,t
+394874347,Uche,2021-03-30,f,,,100%,1,1,t
+71841563,Kaitlyn,2016-05-13,f,within an hour,100%,,1,1,t
+365348575,Heinz,2020-08-31,f,within a few hours,100%,100%,1,1,f
+200198124,Jay,2018-07-05,t,within an hour,100%,97%,1,1,t
+425816789,Seyi,2021-10-03,t,within an hour,100%,100%,2,2,t
+527070318,BESTbodyby,2023-07-21,f,within an hour,100%,92%,1,1,t
+226864685,Abdullah,2018-11-21,f,,,50%,1,1,t
+279143971,Raheem Olabamiji,2019-07-25,f,within an hour,100%,67%,1,3,t
+18581972,Ryan,2014-07-21,t,within an hour,97%,93%,7,14,t
+11485362,Steve,2014-01-20,t,within an hour,100%,100%,1,5,t
+111857130,Sajad,2017-01-17,f,,,80%,1,1,t
+495354207,Pillar Property,2023-01-10,f,a few days or more,25%,81%,2,5,t
+254143761,Adeyemi,2019-04-08,f,within a few hours,100%,67%,1,4,t
+529932140,Harjeet,2023-08-04,f,within a few hours,100%,88%,1,2,f
+84993548,Tina,2016-07-20,t,within an hour,100%,100%,1,1,t
+530692914,Simran,2023-08-08,f,within an hour,96%,87%,9,9,t
+213255097,Toyin,2018-09-03,f,within an hour,100%,94%,2,4,t
+530785576,Bryan,2023-08-09,f,within a few hours,100%,62%,1,1,t
+491433686,Sara,2022-12-14,f,within an hour,100%,97%,7,7,t
+370562798,Dave & Vicky,2020-10-04,f,,,100%,1,4,t
+149264752,Lui,2017-09-05,f,within an hour,100%,69%,5,10,t
+83319824,Wilfred,2016-07-12,t,within an hour,100%,97%,3,3,t
+97837544,Sarah,2016-10-03,f,a few days or more,0%,75%,1,1,t
+531689491,Manpreet,2023-08-13,t,within an hour,100%,93%,1,1,f
+68156532,Robin,2016-04-20,t,within an hour,100%,100%,1,1,t
+496243022,Folakemi,2023-01-15,f,within an hour,100%,67%,1,1,f
+514911299,Valerie,2023-05-15,f,within an hour,100%,84%,1,1,t
+414325314,Ankit,2021-07-21,f,within a day,100%,67%,1,1,t
+532019741,Casa,2023-08-15,f,within an hour,100%,100%,2,2,t
+27712287,Christian,2015-02-13,f,within a few hours,83%,50%,12,18,t
+279290285,Akoko,2019-07-25,t,within an hour,100%,97%,2,2,t
+532636522,Curtis,2023-08-18,t,within an hour,100%,88%,1,1,t
+528332194,Sara,2023-07-27,t,within an hour,100%,93%,1,1,t
+70224105,Liz,2016-05-03,t,within an hour,100%,100%,1,1,t
+129054956,Mehrdad,2017-05-05,f,within a few hours,100%,58%,1,1,t
+449759805,Prairie,2022-03-15,f,within an hour,89%,100%,1,2,t
+232720462,Adeyemi,2018-12-27,f,within an hour,100%,94%,1,1,t
+416866822,Min,2021-08-04,f,within an hour,100%,69%,1,1,t
+74166042,Ting,2016-05-26,f,,,0%,1,1,f
+533922739,Catherine,2023-08-26,t,within an hour,100%,98%,2,2,t
+78697903,Kevin,2016-06-19,f,within a few hours,100%,85%,1,1,t
+534174465,Nevin,2023-08-27,f,within an hour,100%,90%,1,1,t
+534330936,Sunday,2023-08-28,f,,,100%,1,1,f
+76385957,Patrick And Nikki,2016-06-07,t,within an hour,100%,95%,1,1,t
+218611048,Troy,2018-10-03,t,within an hour,100%,95%,3,3,t
+499131620,Madelaine,2023-02-01,t,within an hour,100%,96%,4,4,t
+535542758,Kolawol,2023-09-04,f,,,,1,1,t
+74217129,Ingrid,2016-05-26,f,within an hour,100%,100%,2,3,t
+535715511,Craig,2023-09-05,f,within an hour,100%,,1,1,t
+535889564,Rylen,2023-09-06,f,within a few hours,100%,97%,3,3,t
+535902185,Lovepreet,2023-09-06,f,within an hour,100%,100%,3,3,t
+456992018,Ayo,2022-05-01,f,,,67%,1,2,t
+534424102,Chinaza,2023-08-28,f,within an hour,100%,78%,3,3,t
+277411912,Andrei,2019-07-19,f,a few days or more,0%,100%,1,1,t
+530737532,Shaikh,2023-08-08,f,,,0%,1,3,t
+536536334,Tunde,2023-09-11,f,within a few hours,100%,100%,3,3,f
+449940289,Chloe,2022-03-16,f,within an hour,100%,82%,1,1,t
+372108143,Gulaine,2020-10-15,f,,,,1,1,t
+417847986,Ridha,2021-08-10,f,within a few hours,100%,80%,1,2,t
+318685830,Amador,2019-12-18,f,within an hour,100%,67%,1,4,t
+352221563,Maryjane,2020-06-27,f,within an hour,100%,83%,1,2,t
+387188310,Ayodeji,2021-02-03,f,within an hour,100%,96%,3,5,t
+732657,Mo,2011-06-22,f,within an hour,100%,97%,2,2,t
+538224257,E Street,2023-09-21,f,within an hour,99%,99%,18,20,t
+538606941,Ivy,2023-09-23,t,within a day,70%,62%,2,2,t
+538622174,Aneka,2023-09-23,f,within an hour,100%,92%,5,5,t
+207335531,Kaeley,2018-08-04,t,within an hour,100%,94%,1,1,t
+243322733,Keith,2019-02-15,f,within a few hours,88%,58%,1,1,t
+187391059,Amahzino,2018-05-02,f,,,,2,2,t
+516848815,Raphael,2023-05-27,t,within an hour,100%,84%,1,1,t
+506327253,Olayinka,2023-03-20,f,within an hour,100%,100%,2,2,t
+134389342,Nicole,2017-06-10,f,a few days or more,33%,,1,1,t
+486160232,Stephanie,2022-11-03,f,within a few hours,100%,33%,1,1,t
+515905053,Jaspreet,2023-05-21,f,,,,1,1,f
+537284172,Elora,2023-09-15,t,within an hour,100%,97%,1,2,f
+540066940,Taiwo,2023-10-02,f,within an hour,100%,100%,2,2,f
+459402445,Ghady,2022-05-16,f,within a day,50%,100%,1,2,t
+540844301,Michael,2023-10-07,f,within an hour,100%,83%,2,5,t
+176682518,Angie,2018-03-05,f,within an hour,100%,100%,1,2,t
+541149138,Trinh,2023-10-09,t,within an hour,100%,100%,2,2,t
+416878861,Joshua,2021-08-04,f,within a day,67%,100%,1,3,f
+148838492,Marcia,2017-09-02,f,within an hour,100%,96%,3,3,f
+299897428,Gurpreet,2019-10-03,f,within an hour,100%,100%,1,1,t
+189299556,Enabulele,2018-05-13,t,within a few hours,100%,96%,3,3,t
+481810956,S,2022-10-01,f,within a day,50%,,1,1,t
+542442196,Somkhit,2023-10-18,f,within a day,50%,60%,1,1,t
+3239688,Darlene,2012-08-12,f,within an hour,100%,50%,1,1,t
+302624488,Vishal,2019-10-15,f,,,,1,1,f
+543047720,Jamshaid,2023-10-23,f,within an hour,100%,100%,1,1,t
+178520181,Eric,2018-03-14,f,within an hour,100%,91%,6,6,t
+543755582,Adebola,2023-10-27,f,within a few hours,90%,75%,2,2,t
+90508671,Johnny,2016-08-17,,within a day,70%,0%,2,4,t
+542901226,Yuri Mark,2023-10-22,t,within an hour,100%,100%,2,2,f
+125447281,Ajiboye,2017-04-11,f,within an hour,75%,50%,2,3,t
+35007652,Ashley,2015-06-04,f,within a day,70%,30%,53,62,t
+476763761,Kingsley,2022-08-26,f,within an hour,80%,100%,2,2,t
+544908095,Kathleen,2023-11-04,t,within an hour,100%,92%,1,1,f
+474302683,Mark,2022-08-10,f,within an hour,100%,98%,1,1,f
+216156641,Emmanuel,2018-09-19,f,,,,1,1,f
+462098171,Elizabeth,2022-06-01,f,,,80%,1,1,t
+332382744,Rui,2020-01-31,f,,,100%,1,1,t
+223231161,Johanna,2018-10-29,f,within an hour,100%,78%,1,1,t
+173094848,Rajkumar,2018-02-12,f,within an hour,100%,67%,1,1,f
+512623693,Elisa,2023-05-01,t,within an hour,90%,90%,3,3,t
+541403761,Chun Kit Jack,2023-10-11,f,within an hour,80%,63%,2,3,t
+29279588,Angela,2015-03-13,f,within an hour,100%,100%,1,1,f
+230348709,Jeanne,2018-12-12,t,within an hour,100%,96%,1,2,f
+515906124,Abosede,2023-05-21,f,within an hour,100%,0%,1,1,t
+511275159,Guriqbal,2023-04-22,f,,,,1,1,f
+547009785,Esther,2023-11-17,f,a few days or more,30%,100%,2,2,t
+98814251,Tracy,2016-10-08,f,,,0%,1,2,t
+56031588,Jeremy,2016-01-25,f,within an hour,100%,100%,1,1,t
+546313273,Ashley,2023-11-13,f,within a day,100%,73%,1,1,f
+476039162,Luxury Rentals,2022-08-21,f,within an hour,100%,98%,2,3,t
+280201791,Siming,2019-07-28,f,within an hour,100%,97%,2,4,t
+57657261,Michael,2016-02-06,f,within an hour,100%,94%,1,4,t
+144155834,Lorena,2017-08-03,f,within an hour,100%,40%,1,1,t
+385932576,Sajad,2021-01-25,f,within an hour,100%,100%,2,3,t
+548989460,Jessie,2023-12-01,f,within an hour,94%,97%,1,1,t
+549982677,Kyle,2023-12-07,f,within a day,75%,78%,1,1,f
+488542416,Fehintoluwa,2022-11-20,f,within an hour,90%,100%,3,3,t
+17970668,Maya,2014-07-11,f,within a few hours,100%,100%,1,1,t
+205771009,Mo,2018-07-28,t,within an hour,90%,91%,1,2,t
+397628188,Tunde,2021-04-19,f,within an hour,100%,60%,1,2,t
+96841743,Sam,2016-09-26,f,within an hour,100%,100%,1,1,t
+196744143,Yaxia,2018-06-20,f,,,100%,1,2,t
+458313730,Alex,2022-05-09,f,within an hour,100%,100%,1,5,t
+124427473,Joshua,2017-04-05,f,within an hour,100%,83%,1,1,t
+284527620,Bisetsa,2019-08-10,f,within an hour,80%,100%,1,1,t
+551002875,Neil,2023-12-14,f,within an hour,100%,80%,1,1,f
+181504135,Keith,2018-03-30,f,within a few hours,100%,50%,1,1,f
+461882914,Muhammad,2022-05-31,f,within a few hours,100%,,1,1,t
+476753073,Abdulrasheed,2022-08-25,f,within a few hours,100%,100%,1,1,t
+545472228,Reeta,2023-11-07,f,within a few hours,100%,71%,2,4,t
+11663482,Amanda,2014-01-26,f,within an hour,100%,94%,1,1,t
+263793096,Besal,2019-05-24,f,within an hour,80%,88%,1,4,t
+380383522,Tyler,2020-12-16,f,within an hour,100%,,1,1,t
+551687675,Dave,2023-12-19,f,within an hour,79%,100%,4,5,t
+139480583,Yunfang,2017-07-09,f,within an hour,100%,100%,1,2,t
+547150964,Joanita,2023-11-18,,,,,2,2,f
+520960335,David,2023-06-19,f,within an hour,100%,63%,2,2,t
+483243211,Eez,2022-10-11,f,within an hour,100%,100%,1,1,t
+529867684,Alhaji Sorie,2023-08-04,f,within an hour,97%,98%,4,4,t
+457945455,Sarah,2022-05-07,f,within an hour,100%,100%,1,1,f
+458400671,Rahul,2022-05-10,f,within an hour,100%,100%,1,1,f
+29739142,Claude,2015-03-21,f,,,,2,2,f
+553141181,Dave,2023-12-28,f,,,,1,1,f
+510882824,Jhocelin,2023-04-19,f,within a few hours,100%,100%,1,1,f
+512890528,Jacqueline,2023-05-02,f,within an hour,100%,95%,1,1,t
+15544565,Lee,2018-08-09,f,within an hour,100%,100%,1,1,t
+553886560,David,2024-01-01,f,within an hour,100%,100%,1,1,f
+120537912,Caitie,2017-03-13,f,within an hour,100%,95%,1,1,t
+511208419,Maria,2023-04-22,f,within an hour,100%,100%,1,1,t
+554369730,Eniola,2024-01-04,f,within an hour,100%,100%,1,1,f
+180404391,Sumit,2018-03-25,f,within an hour,100%,0%,1,4,f
+544254716,Chrystal,2023-10-31,f,within an hour,100%,88%,7,7,t
+554514073,Cletus,2024-01-04,f,within an hour,100%,75%,1,1,f
+554559838,Precious,2024-01-04,f,within a few hours,100%,100%,1,1,t
+53506867,Sun,2016-01-05,f,within an hour,100%,0%,1,2,t
+549454440,Ana,2023-12-04,f,within an hour,100%,88%,2,2,t
+548462001,Ric,2023-11-27,f,within an hour,100%,96%,1,1,f
+555406315,Chinyere,2024-01-09,f,within an hour,100%,100%,1,1,t
+521284331,Liliane,2023-06-21,f,within a few hours,100%,,1,1,t
+489146703,Renee,2022-11-25,f,within an hour,100%,100%,1,1,t
+151465384,Daniel,2017-09-20,t,within an hour,100%,92%,1,4,t
+557354104,Lubna,2024-01-18,f,within an hour,100%,100%,1,1,t
+120218101,Sandra,2017-03-11,f,within an hour,100%,,2,2,t
+354157770,Nadia,2020-07-06,f,within an hour,100%,100%,1,1,t
+266231516,Julio,2019-06-04,f,within an hour,100%,100%,1,1,t
+385928586,Kenneth,2021-01-25,f,within an hour,100%,94%,2,2,t
+558614606,Adetunji,2024-01-25,f,within an hour,100%,100%,2,2,t
+558932840,Elise,2024-01-27,f,within an hour,100%,100%,1,1,f
+235946418,Rosemarie,2019-01-11,f,within an hour,100%,85%,1,1,t
+520198624,Inderpreet,2023-06-15,f,within an hour,100%,100%,3,3,f
+131075707,Stefanie,2017-05-19,t,within an hour,86%,83%,2,2,t
+559625049,Madelaine,2024-01-31,f,within an hour,100%,100%,1,1,t
+559894365,Sarwat,2024-02-01,f,within an hour,100%,80%,1,1,f
+560194779,Maria,2024-02-03,f,within a day,63%,100%,1,1,f
+41955944,Nicolas,2015-08-19,f,a few days or more,33%,0%,1,1,t
+560791012,Afshin,2024-02-07,f,within an hour,100%,100%,1,1,f
+136302609,Temitope,2017-06-21,f,within an hour,100%,100%,1,1,t
+245215175,Heather,2019-02-24,f,within an hour,100%,100%,1,1,t
+212427303,Christina,2018-08-29,f,within an hour,100%,100%,1,1,t
+118970477,Charlene,2017-03-03,f,within a few hours,100%,100%,1,1,t
+519010615,Azizul,2023-06-09,f,within a day,100%,0%,1,1,t
+433834553,Ofure,2021-11-28,f,a few days or more,25%,33%,1,1,t
+87892345,Gireesh,2016-08-04,f,,,,1,2,t
+560414845,Moniel Place,2024-02-04,f,within an hour,100%,100%,1,1,t
+476712603,Mohammed,2022-08-25,f,within an hour,80%,60%,1,1,t
+563152531,Benjamin,2024-02-20,f,,,,1,1,t
+38179591,Cristian,2015-07-11,f,within an hour,100%,75%,1,2,t
+263946115,Jennifer,2019-05-24,f,within an hour,100%,100%,1,1,t
+529575688,Cori,2023-08-03,f,within an hour,100%,,1,1,t
+21330816,Jennifer,2014-09-14,f,within an hour,100%,67%,1,2,t
+564561714,Stephen,2024-02-28,f,within an hour,100%,100%,1,1,t
+429841661,Charles,2021-10-31,t,within an hour,100%,100%,1,2,t
+270762765,Chidera,2019-06-23,f,within a few hours,100%,60%,1,1,f
+215968040,Connor,2018-09-17,f,,,,1,1,t
+565409634,John,2024-03-04,f,within an hour,100%,100%,1,1,t
+506197353,Precs,2023-03-20,f,within a day,75%,,1,1,t
+5788812,Lydia,2013-04-05,f,within a few hours,100%,0%,1,2,t
+566124565,Taemie,2024-03-08,f,within an hour,100%,100%,1,1,f
+288714223,Naman,2019-08-24,f,within an hour,100%,100%,1,1,t
+565057795,Mark,2024-03-02,f,within a few hours,100%,100%,1,5,t
+38580388,Marianna,2015-07-15,f,a few days or more,0%,0%,1,2,t
+251568060,Stanley,2019-03-27,t,within a few hours,100%,93%,1,1,t
+428629779,Sibongile,2021-10-23,f,within an hour,100%,90%,2,4,t
+567107455,Inderjeet,2024-03-14,f,,,100%,1,1,t
+567544533,Boris,2024-03-17,f,,,,1,1,t
+547692838,Martin,2023-11-22,,within a few hours,100%,,2,4,t
+140095930,Adekemi,2017-07-12,f,,,,1,3,f
