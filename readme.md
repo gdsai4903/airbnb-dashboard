@@ -2,6 +2,8 @@
 
 This repository contains a Power BI dashboard project based on Airbnb open data for Winnipeg. The dashboard provides visual insights into various aspects of Airbnb listings in Winnipeg, including pricing, availability, location, and more.
 
+![dashboard](./images/Screenshot%202024-06-08%20at%2011.52.52 PM.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
