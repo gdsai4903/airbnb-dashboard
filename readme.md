@@ -22,7 +22,7 @@ This project aims to provide a comprehensive overview of Airbnb listings in Winn
 
 ## Data
 
-The dataset used in this project is obtained from the Airbnb open data portal. It includes various attributes of Airbnb listings in Winnipeg, such as:
+The dataset used in this project is obtained from the [Inside Airbnb](https://insideairbnb.com/get-the-data/) website. It includes various attributes of Airbnb listings in Winnipeg, such as:
 
 - Listing ID
 - Host ID
@@ -36,6 +36,7 @@ The dataset used in this project is obtained from the Airbnb open data portal. I
 - Number of Reviews
 - Last Review Date
 - Review Scores
+and more...
 
 The data is available in the `data` directory of this repository.
 
@@ -45,7 +46,6 @@ The Power BI dashboard includes the following features:
 
 - **Geographical Analysis**: Visualize the distribution of Airbnb listings across different neighborhoods in Winnipeg.
 - **Pricing Insights**: Analyze the pricing trends of listings based on room type, property type, and location.
-- **Availability Trends**: Explore the availability of listings throughout the year.
 - **Review Analysis**: Gain insights into the number of reviews and review scores for different listings.
 - **Interactive Filters**: Use interactive filters to drill down into specific data points and customize the visualizations according to your needs.
 
